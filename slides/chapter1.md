@@ -13,7 +13,7 @@
 
 Some text
 
----- 
+----
 
 ### Image : type
 
