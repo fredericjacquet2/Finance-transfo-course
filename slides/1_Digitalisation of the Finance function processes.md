@@ -10,7 +10,7 @@ Let’s try with a sample « Expense report process  » : what’s your guess 
 Answer on a scale of 1 (old school, has been) to 4 (futuristic)
 
 ----
-Expense report  process dematerialization and automatization, 
+Expense report process dematerialization and automatization, 
 on a scale of  1 (poor)  to 4 (futuristic)
 
 1. 100% paper based. Really has been !
@@ -26,29 +26,31 @@ on a scale of  1 (poor)  to 4 (futuristic)
 
 ----
 
-### Objectives of those projects
+### Objectives of an Expense report digitaliation project
 
-What goals? 
 Reducing processing costs and limiting routine tasks (Cost of expense report processing: 15€ to 53€ per report)
 Improvement of service quality to managers, employees and users, : responsive, user-friendly, accessible (« in a few clicks, everywhere, on a single application »)
 
-----
-
-### What complexity / ease of implementation ? 
+### How complex is it to implement ? 
 
 Low-cost « off the shelf »  applications 
 Relative simplicity of integration on increasingly opened IT / ERP systems 
 Legislative framework increasingly « digital friendly » (French decree 22/03/2017: tax-eligible digital image), but / and vigilance on compliance requirements (GDPR)
 « Self-trained » users and relative acceptability
+Resistance to change should not be too much of an issue (exept for a minority who's job is directly impacted by this)
 
 ----
 
-### Is it so complex ? Skills required ?
+Case example :
+SANOFI
+> Déploiement Core Model et outil T&E (100 pays; 100 000 utilisateurs; 1 million notes de frais/an)
+Un Projet ambitieux en termes de périmètre, d’approche de timing, de technologie et maîtrisé. Approche end to end intégrant le Self Booking Tool, la dématérialisation complète de la gestion note de frais (mise en place de plateformes de traitement optimisées). Technologies BI (Cognos), détection des fraudes, technologie OCR & machine learning, chatbot. Intégration complète vers systèmes RH, financier, intégration des flux de carte corporate. Intégration du système de transport public Japonais,.. Des résultats tangibles avec 100 000 utilisateurs, 1 million de notes de frais par an et une application élue 2ème préférée des collaborateurs après notre portail Intranet.
 
 ----
 
 
-### Which Processes can be dealt with ?
+### Digitalisation of the Finance function processes: which Processes can be dealt with ?
+
 
 ----
 
