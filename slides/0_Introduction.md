@@ -15,11 +15,28 @@
 
 ---
 
-## Intro
+## Introduction
 
 ----
 
-### Who knows DevOps?
+### Course objectives
+
+----
+
+### The Story
+
+----
+
+### Course document plan
+
+----
+
+### What is Digital ?
+
+----
+
+### What is the Corporate Finance function ?
+
 
 ----
 
