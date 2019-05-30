@@ -29,6 +29,7 @@ Demystify Digital & Finance tranformation
 Only dealing with Digital related isues
 
 ----
+
 Non-digital Finance Transformation issues ? 
 
 1. Regulatory (GDPR...)
@@ -39,6 +40,7 @@ Non-digital Finance Transformation issues ?
 Very much related to digital as well!
 
 ----
+
 ### The Story
 
 1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business.  
@@ -52,6 +54,7 @@ Very much related to digital as well!
 Press ESC key !
 
 ----
+
 ### What is Digital ?
 
 Loads of definitions !    
@@ -61,19 +64,26 @@ A matter of perception
 My prefered definition = technologies, business models and usages driven by intersection of SMAC   
 
 Social Media, Mobility, Analytics (big data), Cloud = the 4 pilars of Digital
+
 ----
+
 Each SMAC component offers specific services to businesses  
 - Social media widens the scope of communication and information 
 - Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime, real-time)
 - Analytics provides opportunities to analyze Big Data  
 - Cloud removes physinal barriers for storing and accessing information  
 These four independent technologies combine to form a number of solutions changing our daily lives. 
+
 ----
+
 ### Is Digital such a revolution ? 
+
 Yes it is !  
 Not the first drastic lifestyle revolution (agriculture & inductrial revoltions)  
 But definitlely the fastest one humanity ever faced   
 From change to agility    
+
+----
 
 ### What is the Corporate Finance function ?
 
