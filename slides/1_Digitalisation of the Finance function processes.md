@@ -20,7 +20,26 @@ on a scale of  1 (poor)  to 4 (futuristic)
 
 ----
 
+### Image : type
+
+<img src="images/jenji.jpg" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
 ### Objectives of those projects
+
+What goals? 
+Reducing processing costs and limiting routine tasks (Cost of expense report processing: 15€ to 53€ per report)
+Improvement of service quality to managers, employees and users, : responsive, user-friendly, accessible (« in a few clicks, everywhere, on a single application »)
+
+----
+
+### What complexity / ease of implementation ? 
+
+Low-cost « off the shelf »  applications 
+Relative simplicity of integration on increasingly opened IT / ERP systems 
+Legislative framework increasingly « digital friendly » (French decree 22/03/2017: tax-eligible digital image), but / and vigilance on compliance requirements (GDPR)
+« Self-trained » users and relative acceptability
 
 ----
 
