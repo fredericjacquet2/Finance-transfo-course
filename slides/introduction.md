@@ -23,13 +23,17 @@
 
 ---
 
-""" The Story
+### The Story
 
 ---
 
-Course document plan
-What is Digital ?
-What is Corporate Finance ?
+### Course document plan
+
+---
+### What is Digital ?
+---
+
+### What is the Corporate Finance function ?
 
 
 ----
