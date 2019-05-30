@@ -2,16 +2,20 @@
 #### By
 ##### Frédéric Jacquet
 
-<i><a target="_new" href="http://twitter.com/arthurmauvezin">@fred</a> | <a target="_new" href="http://github.com/arthurmauvezin">http://github.com/arthurmauvezin</a></i>
+This course is an open source document, provided to spread Finance transformation know-how, experiences and best practices
+
+You are wellcome to read, use, re-use, copy, fork under GitHub
+
+Press ESC key for a helicopter view of the course
 
 ---
 
 ### Who I am?
 
-> Arthur Mauvezin<br />
-> DevOps Practice Leader
+> Frédéric Jacquet<br />
+> CFO at Teolia, Creative IY advisory, and Affiliate Professor at EDHEC
 
-<img src="https://avatars2.githubusercontent.com/u/10439516?s=400&u=27155f0ca1ec897597b113b9677934db02901d9a&v=4" width="200px" />
+https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/
 
 ---
 
@@ -23,12 +27,28 @@
 
 ----
 
-### The Story
+### The User Story
+
+# By digitalizing the finance processes (dematerialization - automation/robotization - visualization), the Corporate Finance function improves its quality of service and moves towards a user-friendly and effective service provider to the business. 
+
+# Digitalizing finance processes also provides more room for analysis, thus better positioning the Finance function as a partner at the service of the business. This BPF (Business Partner Finance) is leveraging its contribution with digital solutions (BI, EPM). He is getting into predictive performance management with Big Data & Analytics and thus becomes the master of the Data.
+
+# By embracing a panel of Digital technology solutions (vendor-embedded, RPA, IA, Blockchain), and developing the skills and competencies to manage Digital disruption, Finance builds a know-how on managing digital transformation, and is though becoming the company’s engine of Digital transformation.
 
 ----
 
 ### Course document plan
 
+By digitalizing the finance processes (dematerialization - automation/robotization - visualization), the Corporate Finance function improves its quality of service and moves towards a user-friendly and effective service provider to the business. 
+## See section "digitalizing the finance processes"
+Digitalizing finance processes also provides more room for analysis, thus better positioning the Finance function as a partner at the service of the business. This BPF (Business Partner Finance) is leveraging its contribution with digital solutions (BI, EPM). He is getting into predictive performance management with Big Data & Analytics and thus becomes the master of the Data.
+## See section "Leveraging the Business Partner Finance"
+By embracing a panel of Digital technology solutions (vendor-embedded, RPA, IA, Blockchain), 
+## See section "Technology & solutions"
+and developing the skills and competencies to manage Digital disruption, 
+## See seciton "Skills & competencies"
+Finance builds a know-how on managing digital transformation, and is though becoming the company’s engine of Digital transformation.
+## See section "Conclusion"
 ----
 
 ### What is Digital ?
@@ -36,15 +56,6 @@
 ----
 
 ### What is the Corporate Finance function ?
-
-
-----
-
-### Why this course?
-
-* Mandatory skills 
-* Useful skills in all IT domains
-* Higly saleable on IT market
 
 ----
 
