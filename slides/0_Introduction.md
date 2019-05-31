@@ -1,7 +1,7 @@
-## Finance Transformation Course
-#### By
-##### Frédéric Jacquet
+## Finance Transformation Course  
 
+#### By
+##### Frédéric Jacquet  
 
 Press ESC key for a helicopter view of the course
 
@@ -20,9 +20,9 @@ https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/
 
 ----
 
-### Course objectives
+### Course objectives  
 
-Overview of a fuzzy subject !  
+Overview of a fuzzy subject !   
 
 - Understand the changing role of Corporte finance
 - Possible implementations, required skills & approach
@@ -45,12 +45,12 @@ Those are very much related to digital as well !
 ### The Story
 
 1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business.  
-2. The BPF (Business Partner Finance) is leveraging its contribution with digital solutions. He is getting into predictive performance management with Big Data & Analytics.  
-3. By embracing a panel of technology solutions, and developing skills to manage those, Finance builds the know-how to become the company’s engine for Digital transformation.
+2. The BPF (Business Partner Finance) is leveraging its contribution with digital solutions, and is getting into predictive performance management.  
+3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to become the company’s engine for Digital transformation.
 
 ----
 
-### Course document plan
+### Course document plan  
 
 Press ESC key !
 
@@ -64,11 +64,11 @@ Press ESC key !
 
 - My prefered definition = technologies, business models and usages driven by intersection of SMAC   
 
-Social Media, Mobility, Analytics (big data), Cloud = the 4 pilars of Digital
+Social media, Mobility, Analytics (big data), Cloud = the 4 pilars of Digital
 
 ----
 
-Each SMAC component offers specific services to businesses  
+Each SMAC component offers specific services to the business  
 - Social media widens the scope of communication and information 
 - Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime, real-time)
 - Analytics provides opportunities to analyze Big Data  
