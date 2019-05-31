@@ -22,12 +22,11 @@ https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/
 
 ### Course objectives
 
+Overview of a fuzzy subject !  
+
 - Understand the changing role of Corporte finance
-
 - Possible implementations, required skills & approach
-
 - Demystify Digital & Finance tranformation  
-
 - Only dealing with Digital related isues
 
 ----
