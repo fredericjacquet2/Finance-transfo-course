@@ -25,16 +25,17 @@ https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/
 Overview of a fuzzy subject !   
 
 - Understand the changing role of Corporte finance
-- Possible implementations, required skills & approach
-- Demystify Digital & Finance tranformation  
+- Possible implementations & required skills
+- Demystify Digital & Finance tranformation   
+
 - Only dealing with Digital related isues
 
 ----
 
 Non-digital Finance Transformation issues ? 
 
-- Regulatory (GDPR...)
-- Finance needs to be a business partner
+- Regulatory / compliance (GDPR...)
+- Finance business partner
 - Cash is King
 - Implementing SSC (Shared Services Centers)  
 
@@ -70,7 +71,7 @@ Social media, Mobility, Analytics (big data), Cloud = the 4 pilars of Digital
 
 Each SMAC component offers specific services to the business  
 - Social media widens the scope of communication and information 
-- Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime, real-time)
+- Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime)
 - Analytics provides opportunities to analyze Big Data  
 - Cloud removes physinal barriers for storing and accessing information  
 These four independent technologies combine to form a number of solutions changing our daily lives. 
@@ -80,7 +81,7 @@ These four independent technologies combine to form a number of solutions changi
 ### Is Digital such a revolution ? 
 
 - Yes it is !  
-- Not the first drastic lifestyle revolution (agriculture & inductrial revoltions)  
+- Not the first drastic lifestyle revolution (agriculture & inductrial revolutions)  
 - But definitlely the fastest one humanity ever faced   
 - From change to agility    
 
