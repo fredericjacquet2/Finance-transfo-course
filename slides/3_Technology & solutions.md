@@ -1,43 +1,30 @@
-## Chapter 1
+## Technology & solutions
 
 ----
 
-### Slide 1
-
-test 
-----
-
-### Citation
-
-> Quote / Citation
-
-Some text
+### Off-the-shelf products 
+A broadly used technology !   
+Can be "leveraged" with specifics
 
 ----
 
-### Image : type
-
-<img src="images/scrum-process.jpg" style="background:none; border:none; box-shadow:none;"/>
+### RPA
 
 ----
 
-### Bullet point
-
-* Bullet 1
-* Bullet 2
-  * Sub bullet 1
-  * Sub bullet 2
+### Chatbots
 
 ----
 
-### Ordered list 
-
-1. First ordered list item
-2. Another item
+### BI softwares
 
 ----
 
-### Links : URL 
+### IA
 
-* [Official site](https://git-scm.com/book/en/v2)
-* [Step by step tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
+----
+
+#### Blockchain
+
+---
+
