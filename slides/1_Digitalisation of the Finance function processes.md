@@ -48,21 +48,63 @@ Expense report process dematerialization and automatization, on a scale of 1 (po
 ----
 
 Case example :
-SANOFI
+> SANOFI
 > Déploiement Core Model et outil T&E (100 pays; 100 000 utilisateurs; 1 million notes de frais/an)
-Un Projet ambitieux en termes de périmètre, d’approche de timing, de technologie et maîtrisé. Approche end to end intégrant le Self Booking Tool, la dématérialisation complète de la gestion note de frais (mise en place de plateformes de traitement optimisées). Technologies BI (Cognos), détection des fraudes, technologie OCR & machine learning, chatbot. Intégration complète vers systèmes RH, financier, intégration des flux de carte corporate. Intégration du système de transport public Japonais,.. Des résultats tangibles avec 100 000 utilisateurs, 1 million de notes de frais par an et une application élue 2ème préférée des collaborateurs après notre portail Intranet.
+> Un Projet ambitieux en termes de périmètre, d’approche de timing, de technologie et maîtrisé. Approche end to end intégrant le Self Booking Tool, la dématérialisation complète de la gestion note de frais (mise en place de plateformes de traitement optimisées). Technologies BI (Cognos), détection des fraudes, technologie OCR & machine learning, chatbot. Intégration complète vers systèmes RH, financier, intégration des flux de carte corporate. Intégration du système de transport public Japonais,.. Des résultats tangibles avec 100 000 utilisateurs, 1 million de notes de frais par an et une application élue 2ème préférée des collaborateurs après notre portail Intranet.
 
 ----
 
 
-### Digitalisation of the Finance function processes: which Processes can wr adress ?
+### Digitalisation of the Finance function processes: which objectives ?
 
 
 ----
+Objectives of dematerialization and automation projects
 
+- Cost reduction of processing
+- Improvement of quality of service to users = more responsive (real-time), more accessible (anywhere anytime), more user-friendly (presentation taylored to each user)
+- [ Reduction of technical routines ] 
 
-test 
 ----
+
+### Digitalisation of the Finance function processes: which complexity ? 
+
+A combination of tools, processes, people
+
+Tools / technical isues
+- Market-leading business applications (salesforce, blackline, …)
+- Simplified integration (opened, « IT backbone » ERP)
+
+----
+
+Processes
+- Processes well defined and applied
+- Regulatory / compliance : improved acceptance + increasing requirements
+
+People
+- A few skills (soft & hard skills) to handle projects
+- Relatively « self trained » users and acceptability
+- Resistance to change
+- Social issue
+
+----
+
+### What finance processes can be dealt with ? 
+
+Some examples of dematerialization and automation projects
+Expense report process / Travel & Expense solutions 
+Solutions: Jenji www.jenji.io (expense management) | KDS https://www.kds.fr/ | Traveldoo https://www.traveldoo.com/ (T&E management) …
+Purchasing / Suppliers Invoices / P2P Procure-to-Pay / S2P Source to Pay 
+S2P systems = whole procurement process (strategic sourcing, purchase requisition, spend analysis, and P2P).
+P2P systems = automating the P2P cycle (dataflow from purchase department to accounting) 
+Usually include dematerialisation functionalities (OCR / invoice extracts / supplier portal)
+Relative ease of interface with ERP system (invoice and payment information)
+
+Solutions: ESKER www.esker.fr | BASWARE www.basware.com) | Tradeshift (P2P) https://tradeshift.com/| Ivalua (S2P) https://fr.ivalua.com/ 
+
+Example : EIFFAGE “OPERIS” Digitalisation of finance function + SSC (shared service center) in France. Innnovative technologies (Tradeshift, Ivalua, Traveldoo). Process harmonisation. Robotics RPA to increase productivity. Result : demat of 2,4 millions of invoices, excellent adoption bu operations, productivity +60%.
+(source “Digital Finance Awards 2019”)
+
 
 ### Citation
 
