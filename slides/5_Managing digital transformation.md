@@ -4,7 +4,21 @@
 
 ### Slide 1
 
-test 
+Succes holds in 3 words: tools, processes, people…   
+
+yep, its vast!
+
+----
+
+Global or local ?
+
+----
+
+A side-duty, a hobby, a full time job ?
+
+----
+
+
 ----
 
 ### Citation
