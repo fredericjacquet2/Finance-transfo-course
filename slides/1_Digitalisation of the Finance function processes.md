@@ -67,7 +67,7 @@ In a few clicks, everywhere, on a single application, for a lower cost
 ### Complexity of dematerialization and automation projects      
 
 
-A combination of tools, processes, people   
+Key sucess factors = a combination of tools, processes, people   
 
 ----
 
@@ -100,7 +100,11 @@ Examples of dematerialization and automation projects
 
 We talked about those above    
 
-Products : Jenji www.jenji.io, KDS https://www.kds.fr/, Traveldoo https://www.traveldoo.com/ (T&E management) ...
+Products  
+- Jenji www.jenji.io
+- KDS https://www.kds.fr/
+- Traveldoo https://www.traveldoo.com/ (T&E management
+- ...
 
 ----
 
@@ -130,7 +134,7 @@ Example of products :
 
 ----
 
-#### R2R Record to Report / Financial close automation / bank reconciliation automatization 
+#### R2R Record to Report / Financial close & bank reconciliation automatization 
 
 - Needs clear and coordinated processes
 - Organisational impacts
@@ -154,7 +158,7 @@ Payfit https://payfit.com/fr
 
 ----
 
-#### Reporting & Dataviz 
+#### Reporting & Datavisualisation 
 
 - Data extraction & analitics to provide users reporting
 - General-purpose reporting and line-of-business reporting (BI softwares)
@@ -165,6 +169,7 @@ Payfit https://payfit.com/fr
 ----
 
 > Case example IPSEN « FIT Finance Ipsen Transformation » (source “Digital Finance Awards 2019”)
+
 - Digital dashboards = Reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs &drill down) to check sales, costs, P&L on a given perimeter.
 - Result : lower soliciation of cost ctrl on pres supports, better appropriation of the financial data by ops.
 (source “Digital Finance Awards 2019”)
@@ -177,13 +182,7 @@ Dematerialization and automation
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
-For a revamped and sexy finance
+For a revamped and fancy finance
 
 ----
 
-à supprimer :
-### Image : type
-<img src="images/scrum-process.jpg" style="background:none; border:none; box-shadow:none;"/>
-### Links : URL 
-* [Official site](https://git-scm.com/book/en/v2)
-* [Step by step tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
