@@ -28,7 +28,7 @@ Expense report process dematerialization and automatization, on a scale of 1 (po
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Reducing routine tasks 
-- Improving service quality to managers, employees and users = responsive, user-friendly, accessible   
+- Improving service quality to managers, employees and users = responsive, user-friendly, accessible
 
 #### In a few clicks, everywhere, on a single application, for a lower cost
 
