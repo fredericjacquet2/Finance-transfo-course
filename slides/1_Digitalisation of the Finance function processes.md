@@ -151,7 +151,7 @@ service à avoir déployé l'ensemble des fonctionnalités de l'outil.
 #### Payroll online   
 
 Payfit https://payfit.com/fr
- 
+
 ----
 
 #### Reporting & Dataviz 
