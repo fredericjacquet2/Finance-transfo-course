@@ -2,6 +2,14 @@
 
 ----
 
+In this chapter :
+- Soft skills
+- Project MAangmeent 
+- Change MAnagement
+- Tehcnology : how much do you need to know ? Implementaiton needs ! 
+
+----
+
 ### Soft skills
 
 ----
@@ -53,11 +61,22 @@ Change becomes a daily managerial practice, in a process of tranversal co-constr
 ----
 
 
-### Technical / technology  broad culture ?
+### Technical / technology 
+
+- broad culture ?
+- specific know-how ?
+- How much do you need to know?
+- How long does it take to learn? https://www.youtube.com/watch?v=zatL4uFRpC0
+- Adapt to your role and to your implementation choices
 
 ----
 
-### Technical specific know-how ?
+### Technical subjects
+
+Refer to solutions chapter...
+
+----
+
 
 
 
