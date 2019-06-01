@@ -1,4 +1,4 @@
-## Managing digital transformation
+## Chapter 5 - Managing digital transformation
 
 ----
 
@@ -18,6 +18,10 @@ A side-duty, a hobby, a full time job ?
 
 ----
 
+Managing finance digital transforùmation : what is at stake ? 
+
+- Keeping the company up-to-speed ?
+- Becoming the digital leader ? ...or not ? As digital remove silos, who is going to lead soon ? Finance ? IT ? Marketing ? 
 
 ----
 
