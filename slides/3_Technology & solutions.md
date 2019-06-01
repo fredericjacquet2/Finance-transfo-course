@@ -25,6 +25,14 @@ A broadly used technology !
 
 ----
 
+> Case ARCELORMITTAL (awards)
+- Robotisation des Process Financiers - RPA
+- Nous avons implémenté la technologie robotique RPA (Robotic Process Automation) au sein du département de consolidation et de reporting financiers et automatisé ainsi en un temps record
+de 9 mois 44 de nos process réguliers à travers 30 robots. Nous avons obtenu d’excellents résultats en termes de productivité et de performance, de qualité de délivrables ainsi qu’en gain de temps.
+- Avec ce projet, nous avons mis en place une véritable culture de l’innovation au sein des équipes et réussi un changement de fond des mentalités et pratiques de travail.
+
+----
+ 
 ### Chatbots
 
 Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_10.0.0/com.ibm.wbpm.rpa.main.doc/topics/roadmaps_creating_bots.html)
@@ -33,7 +41,19 @@ Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/
 
 ### BI softwares
 
+> BARILLA (outil de pilotage de la promotion à base d’IA) Trade Promotion Optimization
+- Nous avons mis en place une solution digitale appelée TPO (Trade Promotion Optimization), destinée aux équipes commerciales et aux prévisionnistes. Cependant, la responsabilité du projet a été attribué à la Finance, ce qui nous a permis de renforcer le Business Partnering. Cette solution digitale, utilise l’intelligence artificielle pour nous aider à mieux piloter la promotion chez Barilla (1000 opérations) et ainsi à créer de la valeur pour l’entreprise.
+
 ----
+
+### Big Data & analytics
+
+----
+
+### Clear on what's an ERP ?
+
+Neat video to summarize the trasnversal role of an ERP :Video SAP HANA = https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4
+
 
 ### IA
 
