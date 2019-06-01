@@ -43,7 +43,7 @@ Those are very much related to digital as well !
 
 ----
 
-### The Story
+### The Course Story
 
 1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business.  
 2. The BPF (Business Partner Finance) is leveraging its contribution with digital solutions, and is getting into predictive performance management.  
@@ -53,11 +53,11 @@ Those are very much related to digital as well !
 
 ### Course document plan  
 
-Press ESC key !
+If on PC, press ESC key !  
+
 You may approach the course from :
 - the processes (chapters 1 & 2)
 - the solutions (chapeter 3)
-- the skills (chapter 4)
 - the implementation (chapter 5)
 
 ----
@@ -82,8 +82,6 @@ Each SMAC component offers specific services to the business
 These four independent technologies combine to form a number of solutions changing our daily lives. 
 
 ----
-
-### Image : type
 
 <img src="images/smac.jpg" style="background:none; border:none; box-shadow:none;"/>
 
