@@ -3,7 +3,9 @@
 ----
 
 ### Off-the-shelf products 
-- A broadly used technology !   
+A broadly used technology !   
+- ERP module implementation (SAP, Oracle, MS Dynamics…)
+- Market-leading specific business applications (Salesforce for CRM apps, Blackline for accounting, …)
 - Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
 - example : Blackline for financial close automation 
 
@@ -43,5 +45,6 @@ Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/
 
 ### Saas ?
 Cloud & saas
+Usually in Saas (Software as a service or Cloud app services) mode 
 
 ----
