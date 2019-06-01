@@ -11,6 +11,8 @@
 
 ### RPA
 
+A 15 minutes read on how to get started with RPA:
+https://medium.com/@cfb_bots/how-to-get-started-in-robotic-process-automation-rpa-in-only-15-minutes-90ca5a9d4758
 
 ----
 
