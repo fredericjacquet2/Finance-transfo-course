@@ -15,6 +15,10 @@ From cost control towards performance management in predictive mode
 
 ----
 
+The Business Partner finance : mindset over competence !
+
+----
+
 > Accenture : « Finance 2020 »
 
 Finance is doing things that it never could before thanks to digital technologies. End-to-end multi-dimensional data access is enabling total visibility into both enterprise and customer data. The result? The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value.
