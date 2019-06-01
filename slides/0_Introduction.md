@@ -100,3 +100,8 @@ These four independent technologies combine to form a number of solutions changi
 
 ### What is the Corporate Finance function ?
 
+- How is it usually organised ?
+- Which processes does it manage ?
+
+----
+
