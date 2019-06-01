@@ -18,7 +18,7 @@
 
 ----
 
-- Want to know more? [Long video on RPA](https://youtu.be/LyEOo8AtGLQ)
+- Want more? [RPA for dummies download](https://www.nice.com/websites/rpa/assets/robotic_process_automation_for_dummies.pdf)
 - Even more ? No need, start doing (choose you task, choose a tool, allocate time)
 
 ----
