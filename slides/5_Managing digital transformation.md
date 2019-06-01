@@ -1,8 +1,8 @@
-## Chapter 1
+## Managing digital transformation
 
 ----
 
-### Slide 1
+### Key success factors
 
 Succes holds in 3 words: tools, processes, people…   
 
