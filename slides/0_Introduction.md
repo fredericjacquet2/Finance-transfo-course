@@ -54,6 +54,11 @@ Those are very much related to digital as well !
 ### Course document plan  
 
 Press ESC key !
+You may approach the course from :
+- the processes (chapters 1 & 2)
+- the solutions (chapeter 3)
+- the skills (chapter 4)
+- the implementation (chapter 5)
 
 ----
 
@@ -75,6 +80,12 @@ Each SMAC component offers specific services to the business
 - Analytics provides opportunities to analyze Big Data  
 - Cloud removes physinal barriers for storing and accessing information  
 These four independent technologies combine to form a number of solutions changing our daily lives. 
+
+----
+
+### Image : type
+
+<img src="images/smac.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
