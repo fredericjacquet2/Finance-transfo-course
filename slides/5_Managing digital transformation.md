@@ -10,40 +10,50 @@ yep, its vast!
 
 ----
 
-- Tools : ever though you got the wrong tool?
-- Processes : are they really clear ? Ask the one whose handling those ...
+- Tools : ever though you got the wrong tool ?
+- Processes : are they really clear ? Ask the one whose handling those ... A good opportunity to clarify !
 - People: roles & responsibilites, innovation spirit & mindset, right individual skills and training, politics and stakeholders management, change management...
 
 ----
 
-Global or local ?  
+### Global or local ?  
 - Global digital strategy (look at Michelin) 
 - Short steps & initiatives / quickwinns (la politique des petits pas in French) 
 - Top down or bottom up methodology ?
-- Innitiatives as a reply to invitation to innovate, or a resistance to inertia ?
+- Proactive or resisting management ?
 
 Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-> ENGIE / > Kairos@EngieFinance (digital finance awards, "most ambitious" category)
-- Launched in 2016 
-- Global program accross the whole finance function (staff 4800, 70 countries, 24 BUs, Holding and SSCs)
-- Global program accross all processes
+### Global : ENGIE, Michelin, Renault ...
+
+> Case example ENGIE Kairos@EngieFinance (“Digital Finance Awards 2019” / "most ambitious" category)
+- Global program launched in 2016
+- Accross the whole finance function (staff 4800, 70 countries, 24 BUs, Holding and SSCs)
+- Accross all processes
 - Hard (tools, tehcnology, SAP4Hana convergence)
 - Soft around change
-- Capacity to measure value creation
 
-Note : Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) end 2017
-Read this: [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
+Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) end 2017
 
-----
-
-(parapheurs in French) 
+What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
 
 ----
 
-A side-duty, a hobby, a full time job ?
+### Local is everywhere ! 
+
+> Managing signature books (parapheurs in French) 
+
+----
+
+### WIIFM ? 
+
+What's in there for me ? 
+- A hobby, side-duty, a full time job ?
+- How is it considered within the organisation ?
+- Does it create value to my profile ?
+- Anything about fun in this decision ?
 
 ----
 
