@@ -1,43 +1,36 @@
-## Chapter 1
+## Technology & solutions
 
 ----
 
-### Slide 1
-
-test 
-----
-
-### Citation
-
-> Quote / Citation
-
-Some text
+### Off-the-shelf products 
+- A broadly used technology !   
+- Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
+- example : Blackline for financial close automation 
 
 ----
 
-### Image : type
+### RPA
 
-<img src="images/scrum-process.jpg" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-### Bullet point
-
-* Bullet 1
-* Bullet 2
-  * Sub bullet 1
-  * Sub bullet 2
 
 ----
 
-### Ordered list 
-
-1. First ordered list item
-2. Another item
+### Chatbots
 
 ----
 
-### Links : URL 
+### BI softwares
 
-* [Official site](https://git-scm.com/book/en/v2)
-* [Step by step tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
+----
+
+### IA
+
+----
+
+### Blockchain
+
+---
+
+### Saas ?
+Cloud & saas
+
+----
