@@ -17,6 +17,9 @@ Risk management
 ### Agility = project management in agile mode
 
 
+Scrum in 10 minutes
+https://youtu.be/XU0llRltyFM
+
 ----
 
 ### Change Management
