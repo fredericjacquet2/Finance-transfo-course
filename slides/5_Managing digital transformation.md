@@ -8,7 +8,7 @@ Succes holds in 3 words: tools, processes, people…
 
 yep, its vast!
 
----
+----
 
 - Tools : ever though you got the wrong tool?
 - Processes : are they really clear ? Ask the one whose handling those ...
@@ -17,12 +17,10 @@ yep, its vast!
 ----
 
 Global or local ?  
-
 - Global digital strategy (look at Michelin) 
 - Short steps & initiatives / quickwinns (la politique des petits pas in French) 
 - Top down or bottom up methodology ?
-- Top down or bottom up mindset ?
-- Initiatives on the basis of an invitation to innovate, or a resistance to inertia ?
+- Innitiatives as a reply to invitation to innovate, or a resistance to inertia ?
 
 Well it all works. But not with the same paste / scale / pleasure !
 
@@ -41,11 +39,15 @@ Read this: [Who Is the Chief Finance Transformation Officer?](https://www.americ
 
 ----
 
+(parapheurs in French) 
+
+----
+
 A side-duty, a hobby, a full time job ?
 
 ----
 
-Managing finance digital transforùmation : what is at stake ? 
+Managing finance digital transformation : what is at stake ? 
 
 - Keeping the company up-to-speed ?
 - Becoming the digital leader ? ...or not ? As digital remove silos, who is going to lead soon ? Finance ? IT ? Marketing ? 
