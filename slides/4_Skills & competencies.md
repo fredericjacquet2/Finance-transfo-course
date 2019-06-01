@@ -1,38 +1,57 @@
-## Skills & competencies
+## Chapter 4 - Skills & competencies
 
 ----
 
 In this chapter :
 - Soft skills
-- Project MAangmeent 
-- Change MAnagement
-- Tehcnology : how much do you need to know ? Implementaiton needs ! 
+- Project Management 
+- Change Management
+- Tehcnology : how much do you need to know ? Implementation needs ! 
 
 ----
 
 ### Soft skills
 
+What soft skills are required for the changing role of finance ? 
+I'll leave this up to you to think about
+
+Two stereotypes to describe the changing role :
+- From number cruncher to story teller ?
+- From stability to change ? (devops wall of confusion)
+
 ----
 
 ### Project Management
 
-V-cycle
-
+Waterfall & V-cycle
 Risk management
 
 ----
 
-### Agility = project management in agile mode
+### SCRUM / Agile project management
 
+What's the main principle?
+The user (the client) is there all the time - no tunnel effect
 
-Scrum in 10 minutes
-https://youtu.be/XU0llRltyFM
+----
+
+Agility (SCRUM) : very interesting culture even if you do not develop ! 
+
+- Scrum in 10 minutes https://youtu.be/XU0llRltyFM
+
+Agility well "packaged", with principles, rules, and even ceremonies:
+- sprint : set period of time during which specific tasks must be completed
+- coding dojo (a kind of handson workshop)
+- stand-up meeting (2 min each, 15 min overall, no seating ! )
+- demo (avoids the "almost done")
+- retrospective (what worked, what not, and what could be improved)
+- and even "technical breakfast" ! 
 
 ----
 
 ### Change Management
 
-> It Is Not the Strongest of the Species that Survives But the Most Adaptable
+> It Is not the strongest of the species that survives but the most adaptable
 Charles Darwin
 
 ----
