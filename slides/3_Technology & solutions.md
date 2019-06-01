@@ -9,7 +9,7 @@
 
 ----
 
-### RPA
+### RPA Robotic Process Automation
 
 - A 3 minutes, neat & finance related video on an example of RPA implementation = [RPA 3min](https://youtu.be/xW95yb6J1eU)
 - Another one in 7 minutes = [RPA 7min](https://youtu.be/loOR-nz9DGY)
@@ -18,7 +18,7 @@
 
 ----
 
-- Want more? [RPA for dummies download](https://www.nice.com/websites/rpa/assets/robotic_process_automation_for_dummies.pdf)
+- Want more ? [RPA for dummies download](https://www.nice.com/websites/rpa/assets/robotic_process_automation_for_dummies.pdf)
 - Even more ? No need, start doing (choose you task, choose a tool, allocate time)
 
 ----
@@ -39,7 +39,7 @@ Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/
 
 ### Blockchain
 
----
+----
 
 ### Saas ?
 Cloud & saas
