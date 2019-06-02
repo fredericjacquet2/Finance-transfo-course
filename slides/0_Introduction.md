@@ -11,12 +11,26 @@ Press ESC key for a helicopter view of the course
 
 > Frédéric Jacquet<br />
 > CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC
-
-https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/
+[LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)
+[Teolia](www.teolia.fr)
 
 ---
 
-## Introduction
+This course is :
+- written under [Reveal.js](https://revealjs.com/#/)
+- uses [Markdown syntax](https://en.wikipedia.org/wiki/Markdown)
+- open source, copyright free
+- available to fork on [GitHub](https://github.com/)
+
+---
+
+## Chapter 0 : Introduction
+
+In this chapter:
+- Course objectives & plan
+- The story (course in a nutshell)
+- What is Digital ?
+- What is Corporate function ?
 
 ----
 
@@ -43,11 +57,13 @@ Those are very much related to digital as well !
 
 ----
 
-### The Course Story
+### The Story
 
-1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business.  
-2. The BPF (Business Partner Finance) is leveraging its contribution with digital solutions, and is getting into predictive performance management.  
-3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to become the company’s engine for Digital transformation.
+1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business. 
+
+2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
+
+3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
 
 ----
 
@@ -57,7 +73,7 @@ If on PC, press ESC key !
 
 You may approach the course from :
 - the processes (chapters 1 & 2)
-- the solutions (chapeter 3)
+- the solutions (chapter 3)
 - the implementation (chapter 5)
 
 ----
