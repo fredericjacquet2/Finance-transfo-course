@@ -13,7 +13,7 @@ In this chapter :
 ### Soft skills
 
 What soft skills are required for the changing role of finance ? 
-I'll leave this up to you to think about
+Broadly speaking, it's around communication and agility, and I'll leave this up to you to think about.  
 
 Two stereotypes to describe the changing role :
 - From number cruncher to story teller ?
@@ -21,10 +21,20 @@ Two stereotypes to describe the changing role :
 
 ----
 
-### Project Management
+### Project Management: waterfall & V-cycle
 
-Waterfall & V-cycle
-Risk management
+- Waterfall Model : linear sequential flow through the phases of project implementation. 
+Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
+
+<img src="images/waterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
+
+- V-cycle is an extension of the waterfall model : process steps are bent downwards & upwards with coding at the center. 
+Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)
+<img src="images/vcycle.png" style="background:none; border:none; box-shadow:none;"/> 
+
+----
+
+### Project Management: Risk management
 
 ----
 
@@ -37,7 +47,7 @@ The user (the client) is there all the time - no tunnel effect
 
 Agility (SCRUM) : very interesting culture even if you do not develop ! 
 
-- Scrum in 10 minutes https://youtu.be/XU0llRltyFM
+[Video : What's Scrum in 10 minutes](https://youtu.be/XU0llRltyFM)
 
 Agility well "packaged", with principles, rules, and even ceremonies:
 - sprint : set period of time during which specific tasks must be completed
@@ -51,8 +61,7 @@ Agility well "packaged", with principles, rules, and even ceremonies:
 
 ### Change Management
 
-> It Is not the strongest of the species that survives but the most adaptable
-Charles Darwin
+> It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change. *Charles Darwin*
 
 ----
 
