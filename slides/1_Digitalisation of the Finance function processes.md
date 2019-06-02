@@ -1,4 +1,4 @@
-## Digitalisation of the Finance function processes
+## Chapter 1 - Digitalisation of the Finance function processes
 
 ----
 
@@ -160,7 +160,7 @@ Payfit https://payfit.com/fr
 
 #### Reporting & Datavisualisation 
 
-- Data extraction & analitics to provide users reporting
+- Data extraction & analitics to provide reporting
 - General-purpose reporting and line-of-business reporting (BI softwares)
 - Specific FP&A reporting (EPM Enterprise Performance Management softwares)
 - Associated with Dataviz = custom extraction / presentation tailored to user needs 

@@ -1,4 +1,4 @@
-## Leveraging the Business Partner Finance
+## Chapter 2 - Leveraging the Business Partner Finance
 
 ----
 
@@ -12,21 +12,20 @@ From cost control towards performance management in predictive mode
 - A finciton closer to technology (IT/ BI)
 - A function Master of the Data
 - Predictive  rather than reactive
- 
+
 ----
 
-### Citation
+The Business Partner finance : mindset over competence !
 
-> Quote / Citation
-Accenture : « Finance 2020 »
+----
+
+> Accenture : « Finance 2020 »
 
 Finance is doing things that it never could before thanks to digital technologies. End-to-end multi-dimensional data access is enabling total visibility into both enterprise and customer data. The result? The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value.
 
 Finance 2020—tomorrow’s digital finance organization – is  a radical departure from the status quo. It deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future.
 
 ----
-
-### Image : Finance in 2030 at Dassault Systems
 
 <img src="images/dassaut daf 2030.png" style="background:none; border:none; box-shadow:none;"/>
 
