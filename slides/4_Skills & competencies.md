@@ -40,22 +40,33 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 
 ### SCRUM / Agile project management
 
-What's the main principle?
-The user (the client) is there all the time - no tunnel effect
+What's the main diffrence form Waterfall / V-cycle ?   
+
+**The user (the client) is alongside all the time - no tunnel effect**
+
+What's, in my opinion, the real added value of agile methods like SCRUM ?
+
+**They translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
+
+SCRUM, more than a methodology, a way of life : interesting, even if you are not a software developer ! 
 
 ----
 
-Agility (SCRUM) : very interesting culture even if you do not develop ! 
+<img src="scrumvalues.pdf" style="background:none; border:none; box-shadow:none;"/>
 
+----
+
+- from functional specifications to USER STORIES (what the client/user wants)
+- from project manager to SCRUM MASTER
+- from client representative to PRODUCT OWNER
+- from weekly/daily point to STAND-UP MEETING (no seats, 2 min each, goal oriented = what I did / what I will do / what issues)
+- from sub-project/tasks to SPRINT (a set period of time during which specific tasks must be completed)
+- deliverables are demo based (avoids the "almost done" syndrom)
+- retrospective and continuous improvement (what worked, what not, and what could be improved)
+- and even "technical breakfast" as part of the methodology, and much more ... 
 [Video : What's Scrum in 10 minutes](https://youtu.be/XU0llRltyFM)
 
-Agility well "packaged", with principles, rules, and even ceremonies:
-- sprint : set period of time during which specific tasks must be completed
-- coding dojo (a kind of handson workshop)
-- stand-up meeting (2 min each, 15 min overall, no seating ! )
-- demo (avoids the "almost done")
-- retrospective (what worked, what not, and what could be improved)
-- and even "technical breakfast" ! 
+And the next step is DEVOPS ... 
 
 ----
 
