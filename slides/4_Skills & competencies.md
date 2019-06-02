@@ -63,6 +63,8 @@ Agility well "packaged", with principles, rules, and even ceremonies:
 
 > It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change. *Charles Darwin*
 
+> If you always do what you’ve always done, you’ll always get what you’ve always got. *Henry Ford*
+
 ----
 
 Understand the resistance to change
