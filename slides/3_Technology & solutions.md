@@ -13,6 +13,14 @@ A broadly used technology !
 
 ### RPA Robotic Process Automation
 
+A robot utomates human tasks, works ideally if : 
+- repetitive tasks
+- no intelligence
+
+Number of softwares availlable to do so, relative ease of configuraiton.
+
+----
+
 - A 3 minutes, neat & finance related video on an example of RPA implementation = [RPA 3min](https://youtu.be/xW95yb6J1eU)
 - Another one in 7 minutes = [RPA 7min](https://youtu.be/loOR-nz9DGY)
 - By the way, do you see social issue or social promise in those ?
