@@ -17,12 +17,32 @@ yep, its vast!
 ----
 
 ### Global or local ?  
+
 - Global digital strategy (look at Michelin) 
-- Short steps & initiatives / quickwinns (la politique des petits pas in French) 
+- or Short steps & initiatives / quickwinns (la politique des petits pas in French) 
 - Top down or bottom up methodology ?
 - Proactive or resisting management ?
 
 Well it all works. But not with the same paste / scale / pleasure !
+
+----
+### Global : a claer vision & plan
+
+1. Strategic vision : where we want to go 
+(What does digital transformation mean for the company? How much of a transformation do we want to make?)
+- Build a vision of a target state (objectives and impact)
+- A clearly stated vision helps align everyone’s actions
+
+2. Engage stakeholders
+- Ensure everyone understands the why
+- Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
+
+3. Define a proper planning associated to the strategic vision
+- Plan includes relatively clear tasks and milestones
+- Including quickwins to boost motivation 
+
+4. Ensure sufficient resources and expertise
+- Internal team that has the right knowledge and authority, external support, training…
 
 ----
 
@@ -41,60 +61,32 @@ What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.a
 
 ----
 
-### Local is everywhere ! 
+### Local initiatives
+
+A large source of Digital inspiration !
+
+Local iniitiatives are everywhere (with ou wthout a Global strategy) 
 
 > Managing signature books (parapheurs in French) 
 
 ----
 
-### WIIFM ? 
+### WIIFM (What's in there for me) ? 
 
-What's in there for me ? 
-- A hobby, side-duty, a full time job ?
+- A hobby, a side-duty, a full time job ?
+
 - How is it considered within the organisation ?
+- Does it create value to the Finance team ?
+
 - Does it create value to my profile ?
-- Anything about fun in this decision ?
+- Is there anything about fun in this approach ?
 
 ----
 
-Managing finance digital transformation : what is at stake ? 
+### Managing finance digital transformation : what is at stake for finance function ? 
 
 - Keeping the company up-to-speed ?
-- Becoming the digital leader ? ...or not ? As digital remove silos, who is going to lead soon ? Finance ? IT ? Marketing ? 
+- Re-inventing a more "sexy" and business oriented Corporate finance ? 
+- Having Finance to become the digital leader or to loose its central role on numbers (as digital remove silos, who is going to lead soon, Finance, IT, or Marketing) ?
 
 ----
-
-### Citation
-
-> Quote / Citation
-
-Some text
-
-----
-
-### Image : type
-
-<img src="images/scrum-process.jpg" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-### Bullet point
-
-* Bullet 1
-* Bullet 2
-  * Sub bullet 1
-  * Sub bullet 2
-
-----
-
-### Ordered list 
-
-1. First ordered list item
-2. Another item
-
-----
-
-### Links : URL 
-
-[Official site](https://git-scm.com/book/en/v2)
-[Step by step tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
