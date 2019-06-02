@@ -3,7 +3,7 @@
 #### By
 ##### Frédéric Jacquet  
 
-Press ESC key for a helicopter view of the course
+Move with arrows (bottom righ) or slide through
 
 ---
 
