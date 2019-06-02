@@ -23,13 +23,20 @@ Two stereotypes to describe the changing role :
 
 ### Project Management: waterfall & V-cycle
 
-- Waterfall Model : linear sequential flow through the phases of project implementation. 
+- Waterfall Model : linear sequential flow through the phases of project implementation.   
 Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
+
+----
 
 <img src="images/waterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
 
-- V-cycle is an extension of the waterfall model : process steps are bent downwards & upwards with coding at the center. 
+----
+
+- V-cycle is an extension of the waterfall model : process steps are bent downwards & upwards with coding at the center.    
 Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)
+
+----
+
 <img src="images/vcycle.png" style="background:none; border:none; box-shadow:none;"/> 
 
 ----
@@ -42,16 +49,15 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 
 What's the main diffrence form Waterfall / V-cycle ?   
 
-**The user (the client) is alongside all the time - no tunnel effect**
+**The user (the client) is alongside the project development, all the time - no tunnel effect**
 
 What's, in my opinion, the real added value of agile methods like SCRUM ?
 
-**They translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
-
-SCRUM, more than a methodology, a way of life : interesting, even if you are not a software developer ! 
+**SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
 
+SCRUM, more than a methodology, a way of life : interesting, even if you are not a software developer ! 
 <img src="scrumvalues.pdf" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -61,11 +67,13 @@ SCRUM, more than a methodology, a way of life : interesting, even if you are not
 - from client representative to PRODUCT OWNER
 - from weekly/daily point to STAND-UP MEETING (no seats, 2 min each, goal oriented = what I did / what I will do / what issues)
 - from sub-project/tasks to SPRINT (a set period of time during which specific tasks must be completed)
+
+----
+
 - deliverables are demo based (avoids the "almost done" syndrom)
 - retrospective and continuous improvement (what worked, what not, and what could be improved)
 - and even "technical breakfast" as part of the methodology, and much more ... 
 [Video : What's Scrum in 10 minutes](https://youtu.be/XU0llRltyFM)
-
 And the next step is DEVOPS ... 
 
 ----
