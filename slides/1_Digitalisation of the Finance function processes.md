@@ -109,6 +109,7 @@ We talked about those above
 - Usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift (P2P)](https://tradeshift.com/), [Ivalua (S2P)](https://fr.ivalua.com/) ...*
+* Specifics may be develooped as well (RPA in particular)*
 
 ----
 
@@ -143,6 +144,8 @@ We talked about those above
 - General-purpose reporting and line-of-business reporting (BI softwares), specific FP&A reporting (EPM Enterprise Performance Management softwares)
 - Associated with Datavisualisation = custom extraction & presentation, tailored to user needs 
 - or even storytelling (www.toucantoco.com)
+
+*Specifics rather then "on-the-shelf", typical RPM and BI tools:................................* 
 
 ----
 
