@@ -10,9 +10,11 @@ Move with arrows (bottom righ) or slide through
 ### Who I am?
 
 > Frédéric Jacquet<br />
-> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC
-[LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)
-[Teolia](www.teolia.fr)
+> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC    
+
+[My LinkedIn profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
+
+[www.teolia.fr](www.teolia.fr)
 
 ---
 
@@ -30,7 +32,7 @@ In this chapter:
 - Course objectives & plan
 - The story (course in a nutshell)
 - What is Digital ?
-- What is Corporate function ?
+- What is Corporate finance function ?
 
 ----
 
