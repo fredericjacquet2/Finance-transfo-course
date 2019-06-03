@@ -14,7 +14,7 @@ Move with arrows (bottom righ) or slide through
 
 [My LinkedIn profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
 
-[www.teolia.fr](www.teolia.fr)
+[www.teolia.fr](https://www.teolia.fr/)
 
 ---
 
