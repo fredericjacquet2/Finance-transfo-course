@@ -29,9 +29,11 @@
 
 ----
 
-A two-steps approach for the Business Partner Finance : 
-1. abality to generate taylored made, real-time reporting
+A two-fold approach for the Business Partner Finance : 
+1. abality to generate taylored made, real-time reporting :
+- BI tools 
 2. from big data / Data factory, capacity to leverage the "usual" maangemen ttools towards predictive performance management
+- Big Data (Data lake, Data factory) and Analytics
 
 ----
 
