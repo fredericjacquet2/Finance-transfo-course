@@ -10,9 +10,11 @@ Move with arrows (bottom righ) or slide through
 ### Who I am?
 
 > Frédéric Jacquet<br />
-> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC
-[LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)
-[Teolia](www.teolia.fr)
+> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC    
+
+[My LinkedIn profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
+
+[www.teolia.fr](https://www.teolia.fr/)
 
 ---
 
@@ -30,7 +32,7 @@ In this chapter:
 - Course objectives & plan
 - The story (course in a nutshell)
 - What is Digital ?
-- What is Corporate function ?
+- What is Corporate finance function ?
 
 ----
 
@@ -40,7 +42,7 @@ Overview of a fuzzy subject !
 
 - Understand the changing role of Corporte finance
 - Possible implementations & required skills
-- Demystify Digital & Finance tranformation   
+- Demystify Digital & Finance tranformation      
 
 - Only dealing with Digital related isues
 
@@ -99,7 +101,7 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-<img src="images/smac.jpg" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/smac.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
