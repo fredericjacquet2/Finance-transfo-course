@@ -2,7 +2,7 @@
 
 ----
 
-### Key success factors
+### Key success factors for any digitalisation project
 
 Succes holds in 3 words: tools, processes, people…   
 
@@ -10,9 +10,18 @@ yep, its vast!
 
 ----
 
-- Tools : ever though you got the wrong tool ?
-- Processes : are they really clear ? Ask the one whose handling those ... A good opportunity to clarify !
-- People: roles & responsibilites, innovation spirit & mindset, right individual skills and training, politics and stakeholders management, change management...
+- Tools : 
+  - right tool for the right need : specs & thorough thinking and choice
+  - adapt choice complexity to stake at hand
+  - ever though you got the wrong tool ? 
+- Processes : 
+  - are they clear over the whole process (example over different countries, different BUs / teams) ?
+  - are they precises enough (avoid regular human intervention to clarifiy process) ? 
+  - a good opportunity to clarify !
+- People: right team, right support (change management), right support (politics)
+ - right roles & responsibilites, right time allocation, right individual skills (and innovation spirit & mindset)
+ - change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
+ - stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
 
 ----
 
