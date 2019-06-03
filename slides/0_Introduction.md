@@ -42,7 +42,7 @@ Overview of a fuzzy subject !
 
 - Understand the changing role of Corporte finance
 - Possible implementations & required skills
-- Demystify Digital & Finance tranformation   
+- Demystify Digital & Finance tranformation      
 
 - Only dealing with Digital related isues
 
@@ -101,7 +101,7 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-<img src="images/smac.jpg" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/smac.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
