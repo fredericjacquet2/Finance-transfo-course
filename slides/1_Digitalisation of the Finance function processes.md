@@ -6,9 +6,9 @@ In this chapter :
 - objectives of process digitalisation projects
 - complexitiy of process digitalisation projects
 - Processes to be digitalised:
-  - T&E, S2P, P2P : dematerialisaiton & automatization
-  - R2R : automatisation
-  - Reporting, performance management : analytics & dataviz 
+  - T&E, S2P, P2P (dematerialisation & automatization)
+  - R2R : (automatisation & robotisation)
+  - Reporting, cost control & Performance management (BI & dataviz tools) 
 
 ----
 
@@ -53,7 +53,7 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 ----
 
-> Case example SANOFI   
+> Case example SANOFI (source Digital Finance Awards 2019)   
 
 - Déploiement Core Model et outil T&E (100 pays; 100 000 utilisateurs; 1 million notes de frais/an)
 - Un Projet ambitieux en termes de périmètre, d’approche de timing, de technologie et maîtrisé. Approche end to end intégrant le Self Booking Tool, la dématérialisation complète de la gestion note de frais (mise en place de plateformes de traitement optimisées). Technologies BI (Cognos), détection des fraudes, technologie OCR & machine learning, chatbot. Intégration complète vers systèmes RH, financier, intégration des flux de carte corporate. Intégration du système de transport public Japonais,.. Des résultats tangibles avec 100 000 utilisateurs, 1 million de notes de frais par an et une application élue 2ème préférée des collaborateurs après notre portail Intranet.
