@@ -19,10 +19,11 @@ Move with arrows (bottom righ) or slide through
 ---
 
 This course is :
+- open source, copyright free
 - written under [Reveal.js](https://revealjs.com/#/)
 - uses [Markdown syntax](https://en.wikipedia.org/wiki/Markdown)
-- open source, copyright free
 - available to fork on [GitHub](https://github.com/)
+#### Want a live session ? Join my French Executive Education training session : [CFO: Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
 
 ---
 
