@@ -38,7 +38,7 @@ In this chapter:
 
 ### Course objectives  
 
-Overview of a fuzzy subject !   
+PRovide an overview of a fuzzy subject !   
 
 - Understand the changing role of Corporte finance
 - Possible implementations & required skills
