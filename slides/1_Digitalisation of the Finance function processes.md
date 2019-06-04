@@ -3,13 +3,13 @@
 ----
 
 In this chapter :
-- an example to start with (expense report digitalisation)
-- objectives of process digitalisation projects
-- complexitiy of process digitalisation projects
+- An example to start with (expense report digitalisation)
+- Objectives of process digitalisation projects
+- Complexitiy of process digitalisation projects
 - Processes to be digitalised:
   - T&E, S2P, P2P (dematerialisation & automatization)
   - R2R : (automatisation & robotisation)
-  - Reporting, cost control & Performance management (BI & dataviz tools) 
+  - Reporting, cost control & Performance management (BI & dataviz) 
 
 ----
 
@@ -42,10 +42,10 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 ----
 
-##### Complexitiy of implementing an Expense report digitaliation project ? 
+##### Complexitiy of implementing an Expense report digitalisation project ? 
 
 - Low-cost « off the shelf »  applications 
-- Relative simplicity of integration on increasingly opened IT / ERP systems 
+- Simplicity of integration on increasingly opened IT / ERP systems 
 - Legislative framework « digital friendly » 
 - Increasing compliance requirements (GDPR)
 - « Self-trained » users and relative acceptability
@@ -55,21 +55,21 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 > **Case example SANOFI (source Digital Finance Awards 2019)**   
 
-- T&E product deployment (100 countries, 100 000 users, 1 million expenses/year)
+- T&E product deployment
 - End-to-end approach inclusing Self Booking Tool, complete expense dematerialisaiton, fraud detection, OCR & machine learning, chatbot 
 - Integration with HR & finance systems  
-- Result : 100 000 users, 1 million expenses, an apps elected 2nd prefered apps by employees on our intranet portal.
+- Result : 100 countries, 100 000 users, 1 million expenses/year, an apps elected 2nd prefered apps by employees on our intranet portal.
 
 ----
 
-### General objectives of digitalisation projects   
+#### General objectives of digitalisation projects   
 - Cost reduction of processing
 - Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
 - [ Reduction of low added value tasks] 
 
 ----
 
-### Complexity of digitalisation projects      
+#### Complexity of digitalisation projects      
 Key sucess factors = a combination of tools, processes, people   
 
 Tools / technical isues :
@@ -109,9 +109,9 @@ We talked about those above
 - S2P systems = strategic sourcing, purchase requisition, spend analysis, and P2P
 - P2P systems = automating dataflow from purchase order to payment 
 - Usually include dematerialisation functionalities, OCR, supplier portal
-- Relative ease of interface with ERP system (invoice and payment information)
+- Relative ease of interface with ERP system (invoice and payment information)    
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift (P2P)](https://tradeshift.com/), [Ivalua (S2P)](https://fr.ivalua.com/) ...*
-* Specifics may be develooped as well (RPA in particular)*
+*Specifics may be develooped as well (RPA...)*
 
 ----
 
@@ -149,9 +149,8 @@ We talked about those above
 - Data extraction & analytics to provide ad-hoc reporting
 - General-purpose reporting and line-of-business reporting (BI softwares), specific FP&A reporting (EPM Enterprise Performance Management softwares)
 - Associated with Datavisualisation = custom extraction & presentation, tailored to user needs 
-- or even storytelling (www.toucantoco.com)
 
-*Specifics rather then "on-the-shelf", typical RPM and BI tools:................................* 
+*BI and RPM products (specifics rather then "on-the-shelf")* 
 
 ----
 
@@ -169,6 +168,3 @@ Digitalisation of existing processes = dematerialization + automatisation + visa
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
 For a revamped and fancy finance
-
-----
-
