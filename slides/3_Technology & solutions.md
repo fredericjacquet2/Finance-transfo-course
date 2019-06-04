@@ -2,6 +2,19 @@
 
 ----
 
+In this chapter :
+- Off-the-shelf products, a broadly used technology
+- RPA Robotic Process Automation
+- Chatbots
+- BI softwares
+- Big Data & analytics
+- IA
+- Blockchain
+- Clear on Cloud, Saas and the like ?
+- Clear on what's an ERP ?
+
+----
+
 ### Off-the-shelf products 
 A broadly used technology !   
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
