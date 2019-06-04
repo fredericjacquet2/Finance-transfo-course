@@ -23,7 +23,7 @@ This course is :
 - written under [Reveal.js](https://revealjs.com/#/)
 - uses [Markdown syntax](https://en.wikipedia.org/wiki/Markdown)
 - available to fork on [GitHub](https://github.com/)
-#### Want a live session ? Join my French Executive Education training session : [CFO: Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
+##### Want a live session ? Join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
 
 ---
 
