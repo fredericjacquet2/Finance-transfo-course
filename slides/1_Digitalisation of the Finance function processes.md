@@ -1,4 +1,4 @@
-## Chapter 1 - Digitalisation of the Finance function processes
+## Chapter 2 - Digitalisation of the Finance function processes
 
 ----
 
