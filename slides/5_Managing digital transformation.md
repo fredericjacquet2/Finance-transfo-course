@@ -108,8 +108,8 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 - Keeping the company up-to-speed ?
 - Re-inventing a more "sexy" and business oriented Corporate finance ? 
-
-Having Finance to become the digital leader or to loose its central role on numbers ? As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company? 
-
+- Having Finance to become the digital leader or to loose its central role on numbers ? 
+- As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company? [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
+#### Finance evolution = « business partner » or Expert ? An existential challenge ?
 
 ----
