@@ -37,15 +37,16 @@ A two-fold approach for the Business Partner Finance :
 
 ----
 
-Vision of future possibilities by Deloitte through 2 predictive scenarios
-https://www.youtube.com/watch?v=hU2zyRKKZ5g
-
-Finance evolution = « business partner » or Expert ? 
-An existential challenge !
+> **Case example BARILLA (source Digital Finance Awards 2019 & other sources)**   
+- Promotional offers optimization : solution called TPO (Trade Promotion Optimization)
+- TPO is dedicated to sales & forecasters teams, with responsibility assigned to Finance
+- allowed to consolidate Business Partnering
+- Development of IA Machine learning models, Big Data & Data analytics
+- Result : an engine that can forecast promotion ROI based on innumerous variables (multiple products, dozens of segments, specific stores, time of year).
 
 ----
 
-> Illustration : Online sports betting actor
+> WIP ! Illustration : Online sports betting actor
 - Very competitive, strong growth market
 - Objectives = increase market share and profitability of the sport betting activity
 - Specific focus : Customer acquisition cost 
