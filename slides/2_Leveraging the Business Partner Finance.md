@@ -4,18 +4,18 @@
 
 In this chapter :   
 - Business Partner Finance leveraged with BI & RPM solutions
-- Towards predictive performance management with Machine learning over Bid Data & Analytics
+- Towards predictive performance management with Machine learning over Big Data & Analytics
 
 ----
 
-### Business Partner Finance : from cost control towards performance management in predictive mode
+##### Business Partner Finance : from cost control towards performance management in predictive mode
 
 - A function closer to the business 
 - A function closer to technology (IT/ BI)
 - A function Master of the Data
 - Predictive rather than reactive
 
-#### The Business Partner finance : mindset over competence
+##### The Business Partner finance : mindset over competence
 
 ----
 
@@ -36,15 +36,13 @@ In this chapter :
 ----
 
 A two-fold approach for the Business Partner Finance : 
-1. Abality to generate taylored made, real-time reporting :
-- BI tools 
-2. Starting from Big data / Data factory, capacity to leverage the "usual" performance management reporting towards predictive performance management
-- Big Data (Data lake, Data factory) and Analytics
-- IA, Machine learning
+1. Abality to generate taylored made, real-time reporting : BI tools 
+2. Starting from Big data / Data factory, capacity to leverage the "usual" performance management reporting towards predictive performance management : Big Data (Data lake, Data factory) and Analytics, IA, Machine learning
 
 ----
 
-> **Case example BARILLA (source Digital Finance Awards 2019 & other sources)**   
+> **Case example BARILLA (source Digital Finance Awards 2019 & other sources)**     
+
 - Promotional offers optimization : solution called TPO (Trade Promotion Optimization)
 - TPO is dedicated to sales & forecasters teams, with responsibility assigned to Finance
 - allowed to consolidate Business Partnering
