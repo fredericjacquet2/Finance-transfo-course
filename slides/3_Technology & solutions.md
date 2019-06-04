@@ -50,7 +50,7 @@ Number of softwares availlable to do so, relative ease of configuration. ROI ver
 - Avec ce projet, nous avons mis en place une véritable culture de l’innovation au sein des équipes et réussi un changement de fond des mentalités et pratiques de travail.
 
 ----
- 
+
 ### Chatbots
 
 - Chatbot = a talking robot (imitates human conversations through voice and/or text chats).    
@@ -63,7 +63,7 @@ Number of softwares availlable to do so, relative ease of configuration. ROI ver
 Very broad complexity of chatbots, two variants
 - Rule-Based : bot answers questions based on defined and set rules (rules can be simple to complex!)
 - Self learning: bot uses Machine Learning-based approaches. More efficient than rule-based bots.    
-[Chatbot video in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) [and in 2 min](https://www.youtube.com/watch?v=pX6zqaEHAdw) 
+Video : [Chatbot in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) and video : [Chatbot in 2 min](https://www.youtube.com/watch?v=pX6zqaEHAdw) 
 
 ----
 
