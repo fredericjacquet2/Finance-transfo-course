@@ -2,75 +2,70 @@
 
 ----
 
-### Slide 1
-
-Business PArtner Finance
-
-From cost control towards performance management in predictive mode
+### Business PArtner Finance : from cost control towards performance management in predictive mode
 
 - A function closer to the business 
-- A finciton closer to technology (IT/ BI)
+- A function closer to technology (IT/ BI)
 - A function Master of the Data
-- Predictive  rather than reactive
+- Predictive rather than reactive
+
+#### The Business Partner finance : mindset over competence
 
 ----
 
-The Business Partner finance : mindset over competence !
+> QUOTE by Accenture (" Finance 2020 ")  
+
+"Finance is doing things that it never could before thanks to digital technologies. End-to-end multi-dimensional data access is enabling total visibility into both enterprise and customer data. The result? The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value. Tomorrow’s digital finance organization is  a radical departure from the status quo. It deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future."
 
 ----
 
-> Accenture : « Finance 2020 »
+> QUOTE by xxxxxxxxxxx 
 
-Finance is doing things that it never could before thanks to digital technologies. End-to-end multi-dimensional data access is enabling total visibility into both enterprise and customer data. The result? The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value.
-
-Finance 2020—tomorrow’s digital finance organization – is  a radical departure from the status quo. It deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future.
+"Finance ...."
 
 ----
 
-<img src="images/dassaut daf 2030.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+A two-fold approach for the Business Partner Finance : 
+1. abality to generate taylored made, real-time reporting :
+- BI tools 
+2. from big data / Data factory, capacity to leverage the "usual" maangemen ttools towards predictive performance management
+- Big Data (Data lake, Data factory) and Analytics
 
 ----
 
 Vision of future possibilities by Deloitte through 2 predictive scenarios
 https://www.youtube.com/watch?v=hU2zyRKKZ5g
 
-
-
-Finance evolution:
-
-« business partner » or Expert ? 
-
-An existential challenge
+Finance evolution = « business partner » or Expert ? 
+An existential challenge !
 
 ----
 
 > Illustration : Online sports betting actor
-
-- Market in strong growth, very competitive
-- Objectives = increased market share and profitability  improvement of the sport betting activity
+- Very competitive, strong growth market
+- Objectives = increase market share and profitability of the sport betting activity
 - Specific focus : Customer acquisition cost 
-- Initial assumptions : wWe know the net cost, market share evolution and final profitability 
-
-----
-
+- Initial information : net cost of promotional offers, market share evolution, BU profitability 
 Key questions: 
 - What is the impact of the promotional offer on increasing market share? 
 - What is the ROI of the promotional offer ?
-
 To provide some answers:
-- Understand and differentiate player behaviours and typologies according to context
+- Understand and differentiate player behaviours and player types according to presnet & future context
+The project:
 - Setting up a project-oriented organization = CFO + CDO
-
-----
-
-Data  Analysis:
-- Historical analysis based on structured databases (several years of history)
-- Internet player end behaviour recording setting up
-- Unstructured data and real time (social networks, news…) analysis implementation 
-- Main key analysis: player profile / sport type / timeline 
+- Set-up a Data factory (Data lake)
+- perform Data  Analysis:
+  - Historical analysis based on structured databases (several years of history)
+  - Internet player end behaviour recording setting up
+  - Unstructured data and real time (social networks, news…) analysis implementation 
+  - Main key analysis: player profile / sport type / timeline 
 Result: 
 - Predictive analysis
-- Which provide  the key measurement and optimization of the customer acquisition cost,
-Depending on the context (games to come). 
+- provides key measurement and optimization of customer acquisition cost
+- Depending on the context (games to come).
 
 ----

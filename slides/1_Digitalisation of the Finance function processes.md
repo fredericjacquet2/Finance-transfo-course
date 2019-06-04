@@ -1,25 +1,25 @@
 ## Chapter 1 - Digitalisation of the Finance function processes
 
 ----
+
 In this chapter :
 - an example to start with (expense report digitalisation)
 - objectives of process digitalisation projects
 - complexitiy of process digitalisation projects
 - Processes to be digitalised:
-  - T&E, S2P, P2P : dematerialisaiton & automatization
-  - R2R : automatisation
-  - Reporting, performance management : analytics & dataviz 
+  - T&E, S2P, P2P (dematerialisation & automatization)
+  - R2R : (automatisation & robotisation)
+  - Reporting, cost control & Performance management (BI & dataviz tools) 
 
 ----
 
-### An example to start with : expense report digitalisation
-What’s  the degree of Digital maturity of your processes ?
+### An example to start with : expense report digitalisation    
 
-Let’s look at your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
+What’s  the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
 
 ----
 
-Expense report process dematerialization and automatization, on a scale of 1 (poor) to 4 (futuristic)
+##### Expense report process digitalisation, on a scale of 1 (poor) to 4 (futuristic)
 
 1. 100% paper based
 2. Online form with supporting documents in pdf
@@ -32,7 +32,7 @@ Expense report process dematerialization and automatization, on a scale of 1 (po
 
 ----
 
-#### Objectives of an Expense report digitaliation project
+##### Objectives of an Expense report digitaliation project
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
@@ -42,7 +42,7 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 ----
 
-### Complexitiy of implementing an Expense report digitaliation project ? 
+##### Complexitiy of implementing an Expense report digitaliation project ? 
 
 - Low-cost « off the shelf »  applications 
 - Relative simplicity of integration on increasingly opened IT / ERP systems 
@@ -53,10 +53,12 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 ----
 
-> Case example SANOFI   
+> **Case example SANOFI (source Digital Finance Awards 2019)**   
 
-- Déploiement Core Model et outil T&E (100 pays; 100 000 utilisateurs; 1 million notes de frais/an)
-- Un Projet ambitieux en termes de périmètre, d’approche de timing, de technologie et maîtrisé. Approche end to end intégrant le Self Booking Tool, la dématérialisation complète de la gestion note de frais (mise en place de plateformes de traitement optimisées). Technologies BI (Cognos), détection des fraudes, technologie OCR & machine learning, chatbot. Intégration complète vers systèmes RH, financier, intégration des flux de carte corporate. Intégration du système de transport public Japonais,.. Des résultats tangibles avec 100 000 utilisateurs, 1 million de notes de frais par an et une application élue 2ème préférée des collaborateurs après notre portail Intranet.
+- T&E product deployment (100 countries, 100 000 users, 1 million expenses/year)
+- End-to-end approach inclusing Self Booking Tool, complete expense dematerialisaiton, fraud detection, OCR & machine learning, chatbot 
+- Integration with HR & finance systems  
+- Result : 100 000 users, 1 million expenses, an apps elected 2nd prefered apps by employees on our intranet portal.
 
 ----
 
@@ -109,14 +111,19 @@ We talked about those above
 - Usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift (P2P)](https://tradeshift.com/), [Ivalua (S2P)](https://fr.ivalua.com/) ...*
+* Specifics may be develooped as well (RPA in particular)*
 
 ----
 
-> Case example EIFFAGE “OPERIS” (source Digital Finance Awards 2019)   
+> **Case example EIFFAGE “OPERIS” (source Digital Finance Awards 2019)**   
 
 - Digitalisation of finance function + SSC in France. 
 - Innnovative technologies (Tradeshift, Ivalua, Traveldoo), process harmonisation, RPA to increase productivity. 
 - Result : demat 2.4 millions of invoices, excellent adoption by operations, productivity +60%.
+
+----
+
+##### O2C Order to Cash
 
 ----
 
@@ -143,6 +150,8 @@ We talked about those above
 - General-purpose reporting and line-of-business reporting (BI softwares), specific FP&A reporting (EPM Enterprise Performance Management softwares)
 - Associated with Datavisualisation = custom extraction & presentation, tailored to user needs 
 - or even storytelling (www.toucantoco.com)
+
+*Specifics rather then "on-the-shelf", typical RPM and BI tools:................................* 
 
 ----
 
