@@ -40,21 +40,21 @@ Number of softwares availlable to do so, relative ease of configuration. ROI ver
  
 ### Chatbots
 
-Chatbot is a talking robot / imitates human conversations through voice and/or text chats.    
-Chatbot minimizes the response time and drastically improve the overall customer experience.    
-Key to customer experience.
+- Chatbot = a talking robot (imitates human conversations through voice and/or text chats).    
+- Chatbot minimizes response time & improves customer experience.    
 
-History of chatbots dates back to 1966 whit a psychotherapist called ELIZA. You can still converse with it here: [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend).   
+*History of chatbots dates back to 1966 whit a psychotherapist called ELIZA. You can still converse with it here: [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend).*   
 
+----
 
-bof ... Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_10.0.0/com.ibm.wbpm.rpa.main.doc/topics/roadmaps_creating_bots.html)
+Very broad complexity of chatbots, two variants
+- Rule-Based : bot answers questions based on defined and set rules (rules can be simple to complex!)
+- Self learning: bot uses Machine Learning-based approaches. More efficient than rule-based bots.    
+[Chatbot video in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) [and in 2 min](https://www.youtube.com/watch?v=pX6zqaEHAdw) 
 
 ----
 
 ### BI softwares
-
-> BARILLA (outil de pilotage de la promotion à base d’IA) Trade Promotion Optimization
-- Nous avons mis en place une solution digitale appelée TPO (Trade Promotion Optimization), destinée aux équipes commerciales et aux prévisionnistes. Cependant, la responsabilité du projet a été attribué à la Finance, ce qui nous a permis de renforcer le Business Partnering. Cette solution digitale, utilise l’intelligence artificielle pour nous aider à mieux piloter la promotion chez Barilla (1000 opérations) et ainsi à créer de la valeur pour l’entreprise.
 
 ----
 
@@ -70,9 +70,10 @@ bof ... Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgece
 
 ----
 
-### Clear on Cloud, Saas and th elike ?
-Cloud & saas
-Usually in Saas (Software as a service or Cloud app services) mode 
+### Clear on Cloud, Saas and the like ?
+
+Usual apps run more & more in Saas mode (Software as a service or Cloud app services). See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
+*Understand that from an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
 
 ----
 
