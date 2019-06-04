@@ -25,7 +25,7 @@ Two stereotypes to describe the changing role :
 
 - Waterfall Model : linear sequential flow through the phases of project implementation.   
 Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
-<img src="images/waterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/waterfall.jif" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -40,19 +40,16 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 ----
 
 ### SCRUM / Agile project management
-
-What's the main diffrence from Waterfall / V-cycle ?   
-
-**The user (the client) is alongside the project development, all the time - no tunnel effect**
-
+<img src="images/scrum.jpg" style="background:none; border:none; box-shadow:none;"/> 
+What's the main diffrence with Waterfall / V-cycle ?   
+**The user (the client) participes to the project development cycle - no tunnel effect**
 What's, in my opinion, the real added value of agile methodologies (like SCRUM) ?
-
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
 
-SCRUM, more than a methodology, a way of life : interesting, even if you are not a software developer ! 
-<img src="scrumvalues.pdf" style="background:none; border:none; box-shadow:none;"/>
+##### Agile Manifesto: 
+<img src="agilemanifesto.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
