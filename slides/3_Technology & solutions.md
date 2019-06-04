@@ -40,7 +40,14 @@ Number of softwares availlable to do so, relative ease of configuration. ROI ver
  
 ### Chatbots
 
-Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_10.0.0/com.ibm.wbpm.rpa.main.doc/topics/roadmaps_creating_bots.html)
+Chatbot is a talking robot / imitates human conversations through voice and/or text chats.    
+Chatbot minimizes the response time and drastically improve the overall customer experience.    
+Key to customer experience.
+
+History of chatbots dates back to 1966 whit a psychotherapist called ELIZA. You can still converse with it here: [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend).   
+
+
+bof ... Chatbots & RPA : [RPA & BOT doc](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_10.0.0/com.ibm.wbpm.rpa.main.doc/topics/roadmaps_creating_bots.html)
 
 ----
 
