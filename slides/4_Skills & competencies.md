@@ -98,20 +98,9 @@ Two means to deploy change :
 
 ### Technical / technology skills
 
-- broad culture ?
-- specific know-how ?
-- How much do you need to know?
-- How long does it take to learn? https://www.youtube.com/watch?v=zatL4uFRpC0
-- Adapt to your role and to your implementation choices
+- How much do you need to know? Broad culture ? Specific know-how ?
+- Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0). If not, adapt your knowledge to your role and to your implementation needs/choices.
+- A broad technical understanding may be usefull though, refer to "Technology & Solutions" chapter.
 
 ----
-
-### Technical subjects
-
-Refer to solutions chapter
-
-----
-
-
-
 
