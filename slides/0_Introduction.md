@@ -27,7 +27,7 @@ This course is :
 
 ---
 
-## Chapter 1 : Introduction
+## Chapter 0 : Introduction
 
 In this chapter:
 - Course objectives & plan
