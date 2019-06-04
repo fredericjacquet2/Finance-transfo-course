@@ -38,13 +38,12 @@ In this chapter:
 
 ### Course objectives  
 
-PRovide an overview of a fuzzy subject !   
-
+Provide an overview of a fuzzy subject !   
 - Understand the changing role of Corporte finance
 - Possible implementations & required skills
 - Demystify Digital & Finance tranformation      
 
-- Only dealing with Digital related isues
+- Excludes non-digital Coprorate Finance Transfo isues
 
 ----
 
