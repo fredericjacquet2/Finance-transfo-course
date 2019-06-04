@@ -20,8 +20,8 @@ yep, its vast!
   - are they precises enough (avoid regular human intervention to clarifiy process) ? 
   - a good opportunity to clarify !
   
-  ----
-  
+----
+
 - People: right team, right support (change management), right support (politics)
  - right roles & responsibilites, right time allocation, right individual skills (and innovation spirit & mindset)
  - change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
@@ -66,6 +66,7 @@ A clearly stated vision helps align everyone’s actions
 ### Global : ENGIE, Michelin, Renault ...
 
 > Case example ENGIE Kairos@EngieFinance (source Digital Finance Awards 2019, "most ambitious" category)    
+
 - Global program launched in 2016
 - Accross the whole finance function (staff 4800, 70 countries, 24 BUs, Holding and SSCs)
 - Accross all processes
@@ -88,7 +89,7 @@ A large source of Digital inspiration !
 
 Local initiatives are everywhere (with or without a Global strategy) 
 
-> Case example : Managing signature books (parapheurs in French) 
+> Case example : Managing signature books (parapheurs in French)     
 - Set-up Docusing software as an internal tools to replace "physical" signature books   
 - Result : improved treasury management and improved on-time payments
 
@@ -110,6 +111,4 @@ Local initiatives are everywhere (with or without a Global strategy)
 - Re-inventing a more "sexy" and business oriented Corporate finance ? 
 - Having Finance to become the digital leader or to loose its central role on numbers ? 
 - As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company? [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
-#### Finance evolution = « business partner » or Expert ? An existential challenge ?
-
-----
+#### Finance evolution = « business partner » or Expert ? An existential challenge ?  
