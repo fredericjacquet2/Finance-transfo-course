@@ -2,7 +2,13 @@
 
 ----
 
-### Business PArtner Finance : from cost control towards performance management in predictive mode
+In this chapter :   
+- Business Partner Finance leveraged with BI & RPM solutions
+- Towards predictive performance management with Machine learning over Bid Data & Analytics
+
+----
+
+### Business Partner Finance : from cost control towards performance management in predictive mode
 
 - A function closer to the business 
 - A function closer to technology (IT/ BI)
@@ -30,10 +36,11 @@
 ----
 
 A two-fold approach for the Business Partner Finance : 
-1. abality to generate taylored made, real-time reporting :
+1. Abality to generate taylored made, real-time reporting :
 - BI tools 
-2. from big data / Data factory, capacity to leverage the "usual" maangemen ttools towards predictive performance management
+2. Starting from Big data / Data factory, capacity to leverage the "usual" performance management reporting towards predictive performance management
 - Big Data (Data lake, Data factory) and Analytics
+- IA, Machine learning
 
 ----
 
