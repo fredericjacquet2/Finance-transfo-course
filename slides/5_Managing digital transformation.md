@@ -13,17 +13,17 @@ yep, its vast!
 - Tools : 
   - right tool for the right need : specs & thorough thinking and choice
   - adapt choice complexity to stake at hand
-  - ever thought you got the wrong tool ?
+  - did yu ever thought you got the wrong tool ?
   
 - Processes : 
   - are they clear over the whole process (example over different countries, different BUs / teams) ?
-  - are they precises enough (avoid regular human intervention to clarifiy process) ? 
+  - are they precise enough (avoid regular human intervention to clarifiy process) ? 
   - a good opportunity to clarify !
-  
+
 ----
 
 - People: right team, right support (change management), right support (politics)
- - right roles & responsibilites, right time allocation, right individual skills (and innovation spirit & mindset)
+ - right roles & responsibilites, right time allocation, right individual skills and mindset
  - change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
  - stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
 
@@ -42,28 +42,26 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ### Global : a claer vision & plan
 
-1. Strategic vision : where we want to go 
-(What does digital transformation mean for the company? How much of a transformation do we want to make?)
-- Build a vision of a target state (objectives and impact)
+- 1. Strategic vision : where we want to go 
+(What does digital transformation mean for the company? How much of a transformation do we want to make?)   
+Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
-A clearly stated vision helps align everyone’s actions
-
-2. Engage stakeholders
-- Ensure everyone understands the why
-- Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
+- 2. Engage stakeholders    
+Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
-3. Define a proper planning associated to the strategic vision
-- Plan includes relatively clear tasks and milestones
-- Including quickwins to boost motivation 
+- 3. Define a proper planning associated to the strategic vision    
+Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
 
-4. Ensure sufficient resources and expertise
-- Internal team that has the right knowledge and authority, external support, training…
+- 4. Ensure sufficient resources and expertise    
+Internal team that has the right knowledge and authority, external support, training…
 
 ----
 
 ### Global : ENGIE, Michelin, Renault ...
+
+----
 
 > Case example ENGIE Kairos@EngieFinance (source Digital Finance Awards 2019, "most ambitious" category)    
 
@@ -77,7 +75,7 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 
 ----
 
-New C-suite roles for Finance transformation : CFTO (Chief Financial Technology Officer or Chief Financial Transformation Officer) / CFIO Chief Financial Information Officer)    
+New C-suite roles for Finance transformation : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
 [The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
 What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
 
@@ -89,13 +87,13 @@ A large source of Digital inspiration !
 
 Local initiatives are everywhere (with or without a Global strategy) 
 
-> Case example : Managing signature books (parapheurs in French)     
-- Set-up Docusing software as an internal tools to replace "physical" signature books   
+> Case example : Managing signature books (parapheurs in French) in a large European group        
+- Set-up Docusing software as an internal tool to replace "physical" signature books process   
 - Result : improved treasury management and improved on-time payments
 
 ----
 
-### WIIFM (What's in there for me) ? 
+### WIIFM (What's in it for me) ? 
 - How is it considered within the organisation ?
 - Does it create value to the Finance team ?
 - Does it create value to my profile ?
