@@ -45,8 +45,10 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 ----
 
 What's the main diffrence with Waterfall / V-cycle ?   
-**The user (the client) participes to the project development cycle - no tunnel effect**
-What's, in my opinion, the real added value of agile methodologies (like SCRUM) ?
+**The user (the client) participes to the project development cycle - no tunnel effect**    
+.    
+
+What's, in my opinion, the real added value of agile methodologies (like SCRUM) ?     
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
@@ -87,14 +89,14 @@ And the next step is DEVOPS ...
 
 ----
 
-Greatest expectation for people is to participate to change implementation, in a co-construction mode.  
-Finance, transverse business patner, is in the best position to federate the change, in a co-construction mode
+The greatest expectation for people is to participate to change implementation, in a co-construction mode.  
+Finance, transverse business patner, is in the best position to federate this change in co-construction mode
 
-Two means to deploy change : 
-- By dedicated teams ( internal team or external consultant) and relies on techniques (instrumental driving and / or agile driving)
-- Driven by management (managerial change management)
+Change needs to be support by two vectors : 
+- Dedicated teams, whether internal or external consultants (it then develops a number of techniques based on instrumental and / or agile driving)
+- Management driven (managerial change management)
 
-#### Change becomes a daily managerial practice, in a process of tranversal co-construction
+#### Change management has to become a daily managerial practice, in a process of tranversal co-construction
 
 ----
 
@@ -102,5 +104,6 @@ Two means to deploy change :
 
 - How much do you need to know? Broad culture ? Specific know-how ?
 - Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and to your implementation needs/choices.
-- A broad technical understanding may be usefull though, refer to "Technology & Solutions" chapter.
+- A broad technical understanding may be usefull though (refer to "Technology & Solutions" chapter).
+- Cherry-picking one item can be rewarding (example : learning how to use Power BI for fancy dataviz or an RPA software product).
 
