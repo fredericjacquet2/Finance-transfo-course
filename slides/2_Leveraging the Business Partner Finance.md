@@ -2,20 +2,18 @@
 
 ----
 
-In this chapter :   
-- Business Partner Finance leveraged with BI & RPM solutions
+In this chapter, we are going beyond digitalising existing processes :
+- Leveraging "Business Partner Finance" with BI & RPM solutions 
 - Towards predictive performance management with Machine learning over Big Data & Analytics
 
 ----
 
 ##### Business Partner Finance : from cost control towards performance management in predictive mode
 
-- A function closer to the business 
+- A function closer to the business (mindset or competence?)
 - A function closer to technology (IT/ BI)
 - A function Master of the Data
 - Predictive rather than reactive
-
-##### The Business Partner finance : mindset over competence
 
 ----
 
