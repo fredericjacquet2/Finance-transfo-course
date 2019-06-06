@@ -163,7 +163,7 @@ We talked about those above
 
 ### Conclusion   
 
-Digitalisation of existing processes = dematerialization + automatisation + visalisation    
+Digitalisation of existing processes = dematerialization (including OCR) + automatisation/robotisation + visalisation (taylored extractswith fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
