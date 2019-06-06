@@ -42,19 +42,19 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ### Global : a claer vision & plan
 
-- 1. Strategic vision : where we want to go 
+###### Define the strategic vision (where we want to go) 
 (What does digital transformation mean for the company? How much of a transformation do we want to make?)   
 Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
-- 2. Engage stakeholders    
+###### Engage stakeholders    
 Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
-- 3. Define a proper planning associated to the strategic vision    
+###### Define a proper planning associated to the strategic vision    
 Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
 
-- 4. Ensure sufficient resources and expertise    
+###### Ensure sufficient resources and expertise    
 Internal team that has the right knowledge and authority, external support, training…
 
 ----
@@ -87,9 +87,10 @@ A large source of Digital inspiration !
 
 Local initiatives are everywhere (with or without a Global strategy) 
 
-> Case example : Managing signature books (parapheurs in French) in a large European group        
+> Case example : Managing signature books (parapheurs in French) in a large European group     
+
 - Set-up Docusing software as an internal tool to replace "physical" signature books process   
-- Result : improved treasury management and improved on-time payments
+- Result : improved treasury management / improved on-time payments
 
 ----
 
