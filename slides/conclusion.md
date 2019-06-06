@@ -10,7 +10,7 @@ The dematerialization, cloudization (anytime anywhere), automation (eliminating 
 
 ----
 
-Finance reinforces its roles of business partner and master of numbers (= master of the Data). Performance Management (formely management control) is becoming more tranverse, more « business » and « Data & IT », more predictive.
+Finance reinforces its roles of business partner and master of numbers (= master of the Data). Performance Management (formely cost control) is becoming more tranverse, more « business », more « Data & IT », more predictive.
 
 ----
 
