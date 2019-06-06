@@ -90,7 +90,7 @@ Local initiatives are everywhere (with or without a Global strategy)
 > Case example : Managing signature books (parapheurs in French) in a large European group     
 
 - Set-up Docusing software as an internal tool to replace "physical" signature books process   
-- Result : improved treasury management / improved on-time payments
+- Result : improved treasury management / on-time payments
 
 ----
 
