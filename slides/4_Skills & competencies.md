@@ -15,9 +15,9 @@ In this chapter :
 What soft skills are required for the changing role of finance ? 
 Broadly speaking, it's around communication and agility, and I'll leave this up to you to think about.  
 
-Two stereotypes to describe the changing role :
+Two questioning stereotypes to debate about this changing role :
 - From number cruncher to story teller ?
-- From stability to change ? (devops wall of confusion)
+- From stability to agility ?
 
 ----
 
@@ -56,7 +56,7 @@ What's, in my opinion, the real added value of agile methodologies (like SCRUM) 
 ##### Agile Manifesto: 
 <img src="agilemanifesto.png" style="background:none; border:none; box-shadow:none;"/>
 
-----
+----MO
 
 - USER STORIES (what the client/user wants) rather than functional specifications
 - SCRUM MASTER rather than project manager  
