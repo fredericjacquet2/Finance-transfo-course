@@ -3,18 +3,18 @@
 ----
 
 In this chapter :
-- An example to start with (expense report digitalisation)
-- Objectives of process digitalisation projects
-- Complexitiy of process digitalisation projects
+- An example to start with : expense report process digitalisation
+- Objectives & complexity of process digitalisation projects
 - Processes to be digitalised:
-  - T&E, S2P, P2P (dematerialisation & automatization)
-  - R2R : (automatisation & robotisation)
-  - Reporting, cost control & Performance management (BI & dataviz) 
+  - T&E, S2P, P2P (dematerialisation + automatization / robotisation)
+  - R2R : (automatisation / robotisation)
+  - Reporting, cost control & Performance management (data analysis / BI / datavisulisation) 
 
 ----
 
-### An example to start with : expense report digitalisation    
+### An example to start with : digitalising the expense report process
 
+<img src="images/expense9.jpg" style="background:none; border:none; box-shadow:none;"/>
 What’s  the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
 
 ----
@@ -25,9 +25,6 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 2. Online form with supporting documents in pdf
 3. OCR (optical character recognition) application on smartphone, expense form created within seconds, VAT extract, proof registration
 4. Validation of expense form without human intervention (crossing with policies, Outlook agenda, CRM, T&E ...)
-
-----
-
 <img src="images/Jenji.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -37,8 +34,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
 - Reducing routine tasks   
-
-In a few clicks, everywhere, on a single application, for a lower cost
+*In a few clicks, everywhere, on a single application, for a lower cost*
 
 ----
 
@@ -50,6 +46,7 @@ In a few clicks, everywhere, on a single application, for a lower cost
 - Increasing compliance requirements (GDPR)
 - « Self-trained » users and relative acceptability
 - Resistance to change : not too much of an issue (with few exeptions)
+*Example of products : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)...*
 
 ----
 
@@ -69,45 +66,24 @@ In a few clicks, everywhere, on a single application, for a lower cost
 
 ----
 
-#### Complexity of digitalisation projects      
-Key sucess factors = a combination of tools, processes, people   
+#### Complex ? Sucess = a combination of tools, processes, people    
 
 Tools / technical isues :
 - Market-leading business applications (salesforce, blackline, …)
 - Simplified integration (opened, « IT backbone » ERP)    
-
 Processes :
-- Processes well defined and applied
-- Regulatory / compliance : new rules / requirements
-
-----
-
+- Need for well defined and applied processes (regulatory/compliance adds complexity)
 People : 
-- A few skills (soft & hard skills) to handle those projects
-- Relatively « self trained » users and acceptability
-- Resistance to change (indivudual and organisational)
+- Team = a few skills (soft & hard skills) to handle those projects
+- Users = Relatively « self trained » users and acceptability
+- General resistance to change (indivudual and organisational)
 - Social issue
 
 ----
 
-### What processes can be digitalised ?    
-
-Examples of dematerialization and automation projects
-
-----
-
-##### Expense report process / Travel & Expense solutions 
-
-We talked about those above    
-
-*Example of products : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)...*
-
-----
-
+### What processes can be digitalised ? A few examples    
 ##### Purchasing / S2P Source to Pay / P2P Procure-to-Pay     
 
-- S2P systems = strategic sourcing, purchase requisition, spend analysis, and P2P
-- P2P systems = automating dataflow from purchase order to payment 
 - Usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift (P2P)](https://tradeshift.com/), [Ivalua (S2P)](https://fr.ivalua.com/) ...*
@@ -123,14 +99,10 @@ We talked about those above
 
 ----
 
-##### O2C Order to Cash
-
-----
-
-##### R2R Record to Report / Financial close & bank reconciliation automatization 
+##### R2R Record to Report / Financial close & bank reconciliation automatization    
 
 - Needs clear and coordinated processes
-- Organisational impacts   
+- Organisational impacts     
 
 *Example of products : [Blackline](https://www.blackline.com/)*
 
@@ -146,24 +118,23 @@ We talked about those above
 
 ##### Reporting, cost control & Performance management 
 
-- Data extraction & analytics to provide ad-hoc reporting
-- General-purpose reporting and line-of-business reporting (BI softwares), specific FP&A reporting (EPM Enterprise Performance Management softwares)
-- Associated with Datavisualisation = custom extraction & presentation, tailored to user needs 
+- Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
+- Datavisualisation = customed extraction & presentation, tailored to user needs    
 
-*BI and RPM products (specifics rather then "on-the-shelf")* 
+*Specific solutions base don BI (Business Intelligence) and RPM Enterprise Performance Management softwares* 
 
 ----
 
 > Case example IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
 
 - Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
-- Result : lower soliciation of cost control on support presentations, better appropriation of the financial data by operations.
+- Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
 
 ----
 
 ### Conclusion   
 
-Digitalisation of existing processes = dematerialization (including OCR) + automatisation/robotisation + visalisation (taylored extractswith fancy presentation)    
+Digitalisation of existing processes = dematerialization (including OCR) + automatisation/robotisation (simplify process management & remove low-added value tasks) + analysys/visualisation (taylored extracts with fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
