@@ -44,11 +44,11 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 
 ----
 
-What's the main diffrence with Waterfall / V-cycle ?   
+- Agile/SCRUM : main diffrence with Waterfall / V-cycle :   
 **The user (the client) participes to the project development cycle - no tunnel effect**    
 .    
 
-What's, in my opinion, the real added value of agile methodologies (like SCRUM) ?     
+- Agile/SCRUM : the real added value :     
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
@@ -101,5 +101,5 @@ Change needs to be support by two vectors :
 - How much do you need to know? Broad culture ? Specific know-how ?
 - Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and to your implementation needs/choices.
 - A broad technical understanding may be usefull though (refer to "Technology & Solutions" chapter).
-- Cherry-picking one item can be rewarding (example : learning how to use Power BI for fancy dataviz or an RPA software product).
+- Cherry-picking can be rewarding (example : learning how to use Power BI for fancy dataviz or an RPA software product).
 
