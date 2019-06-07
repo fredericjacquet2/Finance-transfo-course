@@ -69,6 +69,8 @@ Video : [Chatbot in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) and vide
 
 ### BI softwares
 
+https://www.archerpoint.com/business-intelligence-bi-software
+
 ----
 
 ### Big Data & analytics

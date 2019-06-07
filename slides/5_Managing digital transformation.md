@@ -49,8 +49,6 @@ Build a vision of a target state (objectives and impact) : a clearly stated visi
 ###### Engage stakeholders    
 Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
-----
-
 ###### Define a proper planning associated to the strategic vision    
 Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
 
@@ -91,6 +89,10 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 - Set-up Docusing software as an internal tool to replace "physical" signature books process   
 - Result : improved treasury management / on-time payments
+
+----
+### In an agile world, global can be a summ off local
+<img src="images/agilevswaterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
