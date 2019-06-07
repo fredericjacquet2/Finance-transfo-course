@@ -56,21 +56,17 @@ What's, in my opinion, the real added value of agile methodologies (like SCRUM) 
 ##### Agile Manifesto: 
 <img src="agilemanifesto.png" style="background:none; border:none; box-shadow:none;"/>
 
-----MO
+----
 
 - USER STORIES (what the client/user wants) rather than functional specifications
 - SCRUM MASTER rather than project manager  
 - PRODUCT OWNER rather than client representative
 - STAND-UP MEETING (no seats, 2 min each, goal oriented = what I did / what I will do / what issues) rather than weekly/daily point
 - SPRINT (a set period of time during which specific tasks must be completed) rather then sub-project / set of tasks
-
-----
-
 - Deliverables are demo based (avoids the "almost done" syndrom)
 - Retrospective and continuous improvement (what worked, what not, and what could be improved)
 - And even "technical breakfast" as part of the methodology, and much more ...      
-[Video : What's Scrum in 10 minutes](https://youtu.be/XU0llRltyFM)     
-And the next step is DEVOPS ... 
+*[Video : What's Scrum in 10 minutes](https://youtu.be/XU0llRltyFM)*     
 
 ----
 
