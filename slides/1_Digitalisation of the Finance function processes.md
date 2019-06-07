@@ -83,10 +83,10 @@ People :
 
 ### What processes can be digitalised ? A few examples    
 ##### Purchasing / S2P Source to Pay / P2P Procure-to-Pay     
-
+<img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 - Usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
-*Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift (P2P)](https://tradeshift.com/), [Ivalua (S2P)](https://fr.ivalua.com/) ...*
+*Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...*    
 *Specifics may be develooped as well (RPA...)*
 
 ----
