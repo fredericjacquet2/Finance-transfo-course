@@ -125,6 +125,10 @@ People :
 
 ----
 
+<img src="images/bi2.jpg" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
 > Case example IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
 
 - Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
