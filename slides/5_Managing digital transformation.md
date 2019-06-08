@@ -1,13 +1,10 @@
 ## Chapter 5 - Managing digital transformation
 
-----
-
-In this chapter :
 - Key success factors : tools, processes, people
 - Global or local ?
 - WIIFM ?
 
----
+----
 
 ### Key success factors for any digitalisation project
 
@@ -51,7 +48,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ### Global : a claer vision & plan
 
-###### Define the strategic vision (where we want to go) 
+###### Define strategic vision (where we want to go) 
 (What does digital transformation mean for the company? How much of a transformation do we want to make?)   
 Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
@@ -117,9 +114,7 @@ Local initiatives are everywhere (with or without a Global strategy)
 ----
 
 ### WIIFM (What's in it for me) ? 
-- How is it considered within the organisation ?
-- Does it create value to the Finance team ?
-- Does it create value to my profile ?
-- Do I have a personal interest in the field ? 
-- Is there anything about fun / change in my moves ?
+- Is my job/role impacted by those initaitves ? Good or bad news ?
+- How is digital considered within the organisation ? Does it create value to the Finance team ?
+- Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?
 #### An annoyance or a hobby, a side-duty or a full time job ?
