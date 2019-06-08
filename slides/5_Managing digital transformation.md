@@ -8,37 +8,38 @@
 
 ### Key success factors for any digitalisation project
 
-Succes holds in 3 words: tools, processes, people…   
+Succes holds in 3 words: people, processes, tools   
 
 yep, its vast!
 
 ----
 
-- Tools : 
-  - right tool for the right need : specs, thorough thinking and choice
-  - adapt choice complexity to stake at hand
-  - did you ever thought you got the wrong tool ?     
-
-
-- Processes : 
-  - are they clear over the whole process (different countries, BUs, teams) ?
-  - are they precise enough (avoid regular human intervention to clarifiy process) ? 
-  - a good opportunity to clarify !
+- PEOPLE     
+ - Right team, right support (change management), right support (politics)
+ - Right roles & responsibilites, right time allocation, right individual skills and mindset
+ - Change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
+ - Stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
 
 ----
 
-- People: 
- - right team, right support (change management), right support (politics)
- - right roles & responsibilites, right time allocation, right individual skills and mindset
- - change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
- - stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
+- PROCESSES 
+  - Are they clear over the whole process (different countries, BUs, teams) ?
+  - Are they precise enough (avoid regular human intervention to clarifiy process) ? 
+  - A good opportunity to clarify !
+
+
+- TOOLS
+  - Avoid "tool first" approach
+  - Right tool for the right need : specs, thorough thinking and choice
+  - Adapt choice complexity to stake at hand
+  - Did you ever thought you got the wrong tool ?     
 
 ----
 
 ### Global or local ?  
 
 - Global digital strategy (look at Michelin) 
-- or Short steps & initiatives / quickwinns (la politique des petits pas in French) 
+- or Short steps / local initiatives / quickwinns 
 - Top down or bottom up methodology ?
 - Proactive or resisting management ?
 
@@ -48,18 +49,17 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ### Global : a claer vision & plan
 
-###### Define strategic vision (where we want to go) 
-(What does digital transformation mean for the company? How much of a transformation do we want to make?)   
-Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
+###### Strategic vision (where we want to go) 
+- Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
 ###### Engage stakeholders    
-Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
+- Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
-###### Define a proper planning associated to the strategic vision    
-Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
+###### Proper planning     
+- Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
 
-###### Ensure sufficient resources and expertise    
-Internal team that has the right knowledge and authority, external support, training…
+###### Sufficient resources and expertise    
+- Internal team with right knowledge, authority, external support
 
 ----
 
@@ -114,7 +114,9 @@ Local initiatives are everywhere (with or without a Global strategy)
 ----
 
 ### WIIFM (What's in it for me) ? 
+
 - Is my job/role impacted by those initaitves ? Good or bad news ?
 - How is digital considered within the organisation ? Does it create value to the Finance team ?
-- Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?
+- Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?    
+
 #### An annoyance or a hobby, a side-duty or a full time job ?
