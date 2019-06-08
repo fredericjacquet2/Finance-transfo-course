@@ -20,9 +20,7 @@ A broadly used technology !
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications (Salesforce for CRM apps, Blackline for accounting, …)
 - Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
-
-*Example : Blackline for financial close automation + RPA for a few tasks + Dataviz for fancy outputs* 
-
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>
 ----
 
 ### RPA Robotic Process Automation
@@ -93,6 +91,12 @@ Usual apps run more & more in Saas mode (Software as a service or Cloud app serv
 ----
 
 ### Clear on what's an ERP ?
+ERP (Enterprise Resource Planning):
+- known as Integrated Management Software for companies,
+- defined as a group of interconnected modules + a database.
+
+
+[Course on ERP](https://github.com/fredericjacquet2/Finance-transfo-course/edit/master/slides/1_Digitalisation%20of%20the%20Finance%20function%20processes.md)
 
 Neat video to summarize the transversal role of an ERP :Video SAP HANA = https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4
 

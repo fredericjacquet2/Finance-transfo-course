@@ -1,5 +1,9 @@
 ## Chapter 5 - Managing digital transformation
 
+- Key success factors : tools, processes, people
+- Global or local ?
+- WIIFM ?
+
 ----
 
 ### Key success factors for any digitalisation project
@@ -11,18 +15,20 @@ yep, its vast!
 ----
 
 - Tools : 
-  - right tool for the right need : specs & thorough thinking and choice
+  - right tool for the right need : specs, thorough thinking and choice
   - adapt choice complexity to stake at hand
-  - did yu ever thought you got the wrong tool ?
-  
+  - did you ever thought you got the wrong tool ?     
+
+
 - Processes : 
-  - are they clear over the whole process (example over different countries, different BUs / teams) ?
+  - are they clear over the whole process (different countries, BUs, teams) ?
   - are they precise enough (avoid regular human intervention to clarifiy process) ? 
   - a good opportunity to clarify !
 
 ----
 
-- People: right team, right support (change management), right support (politics)
+- People: 
+ - right team, right support (change management), right support (politics)
  - right roles & responsibilites, right time allocation, right individual skills and mindset
  - change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
  - stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
@@ -42,7 +48,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ### Global : a claer vision & plan
 
-###### Define the strategic vision (where we want to go) 
+###### Define strategic vision (where we want to go) 
 (What does digital transformation mean for the company? How much of a transformation do we want to make?)   
 Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
@@ -91,18 +97,9 @@ Local initiatives are everywhere (with or without a Global strategy)
 - Result : improved treasury management / on-time payments
 
 ----
+
 ### In an agile world, global can be a summ off local
 <img src="images/agilevswaterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-### WIIFM (What's in it for me) ? 
-- How is it considered within the organisation ?
-- Does it create value to the Finance team ?
-- Does it create value to my profile ?
-- Do I have a personal interest in the field ? 
-- Is there anything about fun / change in my moves ?
-#### An annoyance or a hobby, a side-duty or a full time job ?
 
 ----
 
@@ -113,3 +110,11 @@ Local initiatives are everywhere (with or without a Global strategy)
 - Having Finance to become the digital leader or to loose its central role on numbers ? 
 - As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company? [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
 #### Finance evolution = « business partner » or Expert ? An existential challenge ?  
+
+----
+
+### WIIFM (What's in it for me) ? 
+- Is my job/role impacted by those initaitves ? Good or bad news ?
+- How is digital considered within the organisation ? Does it create value to the Finance team ?
+- Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?
+#### An annoyance or a hobby, a side-duty or a full time job ?

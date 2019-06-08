@@ -1,14 +1,10 @@
 ## Chapter 1 - Digitalisation of the Finance function processes
 
-----
-
-In this chapter :
-- An example to start with : expense report process digitalisation
+- An example : expense process digitalisation
 - Objectives & complexity of process digitalisation projects
 - Processes to be digitalised:
-  - T&E, S2P, P2P (dematerialisation + automatization / robotisation)
-  - R2R : (automatisation / robotisation)
-  - Reporting, cost control & Performance management (data analysis / BI / datavisulisation) 
+  - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
+  - Reporting, cost control & Performance management (data analysis and datavisulisation) 
 
 ----
 
@@ -33,7 +29,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
-- Reducing routine tasks   
+- Reducing routine tasks (VAT extraction)   
 *In a few clicks, everywhere, on a single application, for a lower cost*
 
 ----
@@ -45,7 +41,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Legislative framework « digital friendly » 
 - Increasing compliance requirements (GDPR)
 - « Self-trained » users and relative acceptability
-- Resistance to change : not too much of an issue (with few exeptions)
+- Resistance to change : not too much of an issue (with few exeptions)    
+
 *Example of products : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)...*
 
 ----
@@ -66,28 +63,36 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-#### Complex ? Sucess = a combination of tools, processes, people    
+##### Complex ? Sucess is a combination of tools, processes, people    
 
 Tools / technical isues :
-- Market-leading business applications (salesforce, blackline, …)
-- Simplified integration (opened, « IT backbone » ERP)    
+- Market-leading software applications
+- Simplified integration (opened, « IT backbone » ERP)
+
 Processes :
-- Need for well defined and applied processes (regulatory/compliance adds complexity)
+- Well defined & applied (compliance adds complexity)
+
 People : 
-- Team = a few skills (soft & hard skills) to handle those projects
-- Users = Relatively « self trained » users and acceptability
+- Team skills (soft & hard skills) to manage the projects
+- Users training if needed (often limited)
 - General resistance to change (indivudual and organisational)
-- Social issue
+- Organisational & social issue
 
 ----
 
 ### What processes can be digitalised ? A few examples    
 ##### Purchasing / S2P Source to Pay / P2P Procure-to-Pay     
+
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
+
 - Usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...*    
 *Specifics may be develooped as well (RPA...)*
+
+----
+
+<img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -111,7 +116,7 @@ People :
 > Case example SODEXO (source Digital Finance Awards 2019)   
 
 - Implementation of Blackline in 4 months to manage closing, bank reconciliation, accounts justification and accounting entries on top of ERPs
-- Objectives : improve compliance, dematerialisation, real-time collaboration of teams, closing process visibility
+- Objectives : improve compliance, real-time collaboration of teams, closing process visibility
 - Result : harmonisation of closing process over the group
 
 ----
@@ -121,7 +126,7 @@ People :
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
 
-*Specific solutions base don BI (Business Intelligence) and RPM Enterprise Performance Management softwares* 
+*Specific solutions based on BI (Business Intelligence) and RPM Enterprise Performance Management softwares* 
 
 ----
 
@@ -138,7 +143,10 @@ People :
 
 ### Conclusion   
 
-Digitalisation of existing processes = dematerialization (including OCR) + automatisation/robotisation (simplify process management & remove low-added value tasks) + analysys/visualisation (taylored extracts with fancy presentation)    
+Digitalisation of existing processes = 
+- dematerialization (including OCR) 
+- automatisation/robotisation (simplify process management & remove low-added value tasks)
+- analysis/visualisation (taylored extracts with fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
