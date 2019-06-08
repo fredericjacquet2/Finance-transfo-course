@@ -31,7 +31,6 @@ This course is :
 
 ## Chapter 0 : Introduction
 
-In this chapter:
 - Course objectives & plan
 - The story (course in a nutshell)
 - What is Digital ?
@@ -42,9 +41,9 @@ In this chapter:
 ### Course objectives  
 
 Provide an overview of a fuzzy subject !   
+- Digitalisation implementations, means & required skills
 - Understand the changing role of Corporte finance
-- Possible implementations & required skills
-- Demystify Digital & Finance tranformation      
+- Demystify Digital & Finance tranformation
 
 - Excludes non-digital Coprorate Finance Transfo isues
 
@@ -71,14 +70,14 @@ Those are very much related to digital as well !
 
 ----
 
-### Course document plan  
+### Course document plan (if on PC, press ESC)  
+- Chapter 1 = digitalising the corporate finance processes
+- Chapter 2 = leveraging the business partner with big data & analytics
+- Chapter 3 = technology & solutions
+- chapter 4 = skills
+- Chapter 5 = managing finance transformation
 
-If on PC, press ESC key !  
-
-You may approach the course from :
-- the processes (chapters 1 & 2)
-- the solutions (chapter 3)
-- the implementation (chapter 5)
+You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
 
 ----
 
