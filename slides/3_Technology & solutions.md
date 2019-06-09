@@ -21,6 +21,7 @@ A broadly used technology !
 - Market-leading specific business applications (Salesforce for CRM apps, Blackline for accounting, …)
 - Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
 <img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>
+
 ----
 
 ### RPA Robotic Process Automation
