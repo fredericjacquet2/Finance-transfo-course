@@ -34,6 +34,7 @@ It is written under [Reveal.js](https://revealjs.com/#/), with [Markdown syntax]
 - What is Corporate finance function ?
 
 ----
+
 ### Course objectives  
 
 Provide an overview of a fuzzy subject !   
