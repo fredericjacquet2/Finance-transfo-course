@@ -47,18 +47,18 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-### Global : a claer vision & plan
+#### Global : a clear vision & plan      
 
-###### Strategic vision (where we want to go) 
+####### Define the strategic vision (where we want to go) 
 - Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
-###### Engage stakeholders    
-- Ensure everyone understands the why. Leadership vision secures support and buy-in from stakeholders (board, executives, employees, partners and customers)
+####### Engage stakeholders    
+- Ensure everyone understands the why, secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
-###### Proper planning     
-- Plan includes relatively clear tasks and milestones, including quickwins to boost motivation 
+####### Ensure proper planning     
+- Plan relatively clear tasks and milestones, including quickwins to boost motivation 
 
-###### Sufficient resources and expertise    
+####### Budget for sufficient resources and expertise    
 - Internal team with right knowledge, authority, external support
 
 ----
@@ -103,13 +103,24 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-### Managing finance digital transformation : what is at stake for the finance function ? 
+### Digital transformation : a changing finance function ? 
+
+##### Digtial changes role & organisation of Corporate finance
+
+- Organisation progressivelly adds Data management capacities 
+- Role shifts towards : the business, Data amanagement (data analysts, data scientists), IT management
+- More high-added value tasks (analysis, human interactions) and less low-added value tasks : a social issue ?
+
+----
+
+##### What is at stake for the finance funciton ? 
 
 - Keeping the company up-to-speed ?
-- Re-inventing a more "sexy" and business oriented Corporate finance ? 
-- Having Finance to become the digital leader or to loose its central role on numbers ? 
-- As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company? [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
-#### Finance evolution = « business partner » or Expert ? An existential challenge ?  
+- Re-inventing a more "fancy" and business oriented Corporate finance ? 
+- Having Finance to become the digital leader or to loose its central role on numbers ? As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company?     
+[see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
+
+##### Finance evolution = « business partner » or Expert ? An existential challenge ?  
 
 ----
 
