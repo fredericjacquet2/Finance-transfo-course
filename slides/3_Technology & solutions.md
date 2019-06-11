@@ -16,7 +16,6 @@ In this chapter :
 ----
 
 ### Off-the-shelf products 
-A broadly used technology !   
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications (e.g. Blackline for accounting)    
 <img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>    
@@ -30,7 +29,7 @@ A robot automates human tasks, it works ideally if :
 - very repetitive tasks
 - no intelligence
 
-Number of softwares availlable to do so, relative ease of configuration. ROI very dependent of repetitivity.
+Number of available softwares availlable to do so, relative ease of configuration. ROI very dependent of repetitivity.
 
 ----
 

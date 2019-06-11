@@ -19,8 +19,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 1. 100% paper based
 2. Online form with supporting documents in pdf
-3. OCR (optical character recognition) application on smartphone, expense form created within seconds, VAT extract, proof registration
-4. Validation of expense form without human intervention (crossing with policies, Outlook agenda, CRM, T&E ...)
+3. OCR (optical character recognition) on smartphone, form created within seconds, VAT extract, proof registration
+4. Expense form validation without human intervention (check policies, agenda, CRM, T&E ...)
 <img src="images/Jenji.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -78,7 +78,10 @@ People
 
 ----
 
-### What processes can be digitalised ? A few examples    
+### What processes can be digitalised ? A few examples
+
+----
+
 ##### S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
@@ -87,10 +90,6 @@ People
 - Relative ease of interface with ERP system (invoice and payment information)    
 *Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...*    
 *Specifics may be develooped as well (RPA...)*
-
-----
-
-<img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
