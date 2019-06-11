@@ -25,7 +25,7 @@ yep, its vast!
 - PROCESSES 
   - Are they clear over the whole process (different countries, BUs, teams) ?
   - Are they precise enough (avoid regular human intervention to clarifiy process) ? 
-  - A good opportunity to clarify !
+  - A good opportunity to clarify !    
 
 
 - TOOLS
@@ -49,16 +49,18 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 #### Global : a clear vision & plan      
 
-####### Define the strategic vision (where we want to go) 
+###### Define the strategic vision (where we want to go) 
 - Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
 
-####### Engage stakeholders    
+###### Engage stakeholders    
 - Ensure everyone understands the why, secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
-####### Ensure proper planning     
+----
+
+###### Ensure proper planning     
 - Plan relatively clear tasks and milestones, including quickwins to boost motivation 
 
-####### Budget for sufficient resources and expertise    
+###### Budget for sufficient resources and expertise    
 - Internal team with right knowledge, authority, external support
 
 ----
