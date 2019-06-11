@@ -18,9 +18,9 @@ In this chapter :
 ### Off-the-shelf products 
 A broadly used technology !   
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
-- Market-leading specific business applications (Salesforce for CRM apps, Blackline for accounting, …)
+- Market-leading specific business applications (e.g. Blackline for accounting)    
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>    
 - Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
-<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -100,6 +100,4 @@ ERP (Enterprise Resource Planning):
 [Course on ERP](https://github.com/fredericjacquet2/Finance-transfo-course/edit/master/slides/1_Digitalisation%20of%20the%20Finance%20function%20processes.md)
 
 Neat video to summarize the transversal role of an ERP :Video SAP HANA = https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4
-
-----
 
