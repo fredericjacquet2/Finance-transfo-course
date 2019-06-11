@@ -3,14 +3,13 @@
 ----
 
 In this chapter, we are going beyond digitalising existing processes :
-- Leveraging "Business Partner Finance" with BI & RPM solutions 
-- Towards predictive performance management with Machine learning over Big Data & Analytics
+- Moving towards predictive performance management with Machine learning over Big Data & Analytics
 
 ----
 
 ##### Business Partner Finance : from cost control towards performance management in predictive mode
 
-- A function closer to the business (mindset or competence?)
+- A function closer to the business, with BI & RPM solutions 
 - A function closer to technology (IT/ BI)
 - A function Master of the Data
 - Predictive rather than reactive
@@ -34,8 +33,8 @@ In this chapter, we are going beyond digitalising existing processes :
 ----
 
 A two-fold approach for the Business Partner Finance : 
-1. Abality to generate taylored made, real-time reporting : BI tools 
-2. Starting from Big data / Data factory, capacity to leverage the "usual" performance management reporting towards predictive performance management : Big Data (Data lake, Data factory) and Analytics, IA, Machine learning
+1. Abality to generate taylored made, real-time reporting : BI / RPM tools 
+2. Capacity to leverage the "usual" performance management reporting towards predictive performance management : Big Data (Data lake, Data factory) and Analytics, IA, Machine learning
 
 ----
 
