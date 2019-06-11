@@ -23,7 +23,7 @@ Move with arrows (bottom righ) or slide through
 It is written under [Reveal.js](https://revealjs.com/#/), with [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), is available to fork on [my GitHub profile](https://github.com/fredericjacquet2)     
 .    
 
-##### IF you wish to enjoy a live session of this course, contact me (frederic.jacquet@teolia.fr) or join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
+**IF you wish to enjoy a live session of this course, contact me (frederic.jacquet@teolia.fr) or join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
