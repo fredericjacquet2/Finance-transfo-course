@@ -19,8 +19,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 1. 100% paper based
 2. Online form with supporting documents in pdf
-3. OCR (optical character recognition) application on smartphone, expense form created within seconds, VAT extract, proof registration
-4. Validation of expense form without human intervention (crossing with policies, Outlook agenda, CRM, T&E ...)
+3. OCR (optical character recognition) on smartphone, form created within seconds, VAT extract, proof registration
+4. Expense form validation without human intervention (check policies, agenda, CRM, T&E ...)
 <img src="images/Jenji.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
