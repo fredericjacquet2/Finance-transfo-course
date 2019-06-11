@@ -30,7 +30,6 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
 - Reducing routine tasks (VAT extraction)   
-*In a few clicks, everywhere, on a single application, for a lower cost*
 
 ----
 
@@ -39,7 +38,6 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Low-cost « off the shelf »  applications 
 - Simplicity of integration on increasingly opened IT / ERP systems 
 - Legislative framework « digital friendly » 
-- Increasing compliance requirements (GDPR)
 - « Self-trained » users and relative acceptability
 - Resistance to change : not too much of an issue (with few exeptions)    
 
@@ -65,23 +63,23 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ##### Complex ? Sucess is a combination of tools, processes, people    
 
-Tools / technical isues :
+Tools / technical isues    
 - Market-leading software applications
 - Simplified integration (opened, « IT backbone » ERP)
 
-Processes :
-- Well defined & applied (compliance adds complexity)
+Processes    
+- Well defined & applied
 
-People : 
-- Team skills (soft & hard skills) to manage the projects
-- Users training if needed (often limited)
-- General resistance to change (indivudual and organisational)
+People    
+- Implementation team skills (soft & hard)
+- Users training if needed
+- General resistance to change : indivudual and organisational
 - Organisational & social issue
 
 ----
 
 ### What processes can be digitalised ? A few examples    
-##### Purchasing / S2P Source to Pay / P2P Procure-to-Pay     
+##### S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 

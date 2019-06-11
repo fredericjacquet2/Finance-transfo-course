@@ -1,7 +1,7 @@
-## Finance Transformation Course  
+## Digital and Corporate Finance Transformation  
 
 #### By
-##### Frédéric Jacquet  
+##### Frédéric Jacquet     
 
 Move with arrows (bottom righ) or slide through
 
@@ -18,14 +18,11 @@ Move with arrows (bottom righ) or slide through
 
 ---
 
-This course is :
-- open source, copyright free
-- written under [Reveal.js](https://revealjs.com/#/)
-- uses [Markdown syntax](https://en.wikipedia.org/wiki/Markdown)
-- available to fork on [GitHub](https://github.com/)     
+This course is open source, copyright free
+It is written under [Reveal.js](https://revealjs.com/#/), with [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), is available to fork on [my GitHub profile](https://github.com/fredericjacquet2)     
 .    
 
-##### IF you wish to enjoy a live session of this course, join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
+##### IF you wish to enjoy a live session of this course, contact me [frederic.jacquet@teolia.fr](frederic.jacquet@teolia.fr] ou join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
 
 ---
 
@@ -37,26 +34,26 @@ This course is :
 - What is Corporate finance function ?
 
 ----
-
 ### Course objectives  
 
 Provide an overview of a fuzzy subject !   
-- Digitalisation implementations, means & required skills
-- Understand the changing role of Corporte finance
-- Demystify Digital & Finance tranformation
 
-- Excludes non-digital Coprorate Finance Transfo isues
+- Corporate finance digitalisation implementations, means & required skills
+- Understand the changing role of Corporte finance
+- Demystify Digital & Finance transformation
+
+- The course excludes non-digital Corporate Finance Transfo isues
 
 ----
 
-Non-digital Finance Transformation issues ? 
+What are non-digital Finance Transformation issues ? 
 
-- Regulatory / compliance (GDPR...)
-- Finance business partner
-- Cash is King
-- Implementing SSC (Shared Services Centers)  
+- Dealing with regulatory / compliance new requirements (GDPR...)
+- Shifting Finance towards a business partner mindset
+- Cash is King / cash improvement initiatives
+- Implementing SSC (Shared Services Centers)    
 
-Those are very much related to digital as well !   
+Well, those are very much related to digital as well !   
 
 ----
 
@@ -74,8 +71,8 @@ Those are very much related to digital as well !
 - Chapter 1 = digitalising the corporate finance processes
 - Chapter 2 = leveraging the business partner with big data & analytics
 - Chapter 3 = technology & solutions
-- chapter 4 = skills
-- Chapter 5 = managing finance transformation
+- Chapter 4 = required skills to manage the transformation
+- Chapter 5 = implementing finance transformation
 
 You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
 
@@ -89,7 +86,8 @@ You may approach the course from the processes (ch 1 & 2), the solutions (ch 3),
 
 - My prefered definition = technologies, business models and usages driven by intersection of SMAC   
 
-Social media, Mobility, Analytics (big data), Cloud = the 4 pilars of Digital
+Social media, Mobility, Analytics (big data), Cloud    
+= the 4 pilars of Digital
 
 ----
 
