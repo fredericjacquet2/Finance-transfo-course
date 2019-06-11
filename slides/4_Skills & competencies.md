@@ -25,7 +25,7 @@ Two questioning stereotypes to debate about this changing role :
 
 - Waterfall Model : linear sequential flow through the phases of project implementation.   
 Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
-<img src="images/waterfall.jif" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/waterfall.gif" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -54,7 +54,7 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 ----
 
 ##### Agile Manifesto: 
-<img src="agilemanifesto.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/agilemanifesto.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
