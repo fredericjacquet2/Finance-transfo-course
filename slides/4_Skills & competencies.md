@@ -23,15 +23,15 @@ Two questioning stereotypes to debate about this changing role :
 
 ### Project Management: waterfall & V-cycle
 
-- Waterfall Model : linear sequential flow through the phases of project implementation.   
-Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
-<img src="images/waterfall.gif" style="background:none; border:none; box-shadow:none;"/>
+- Waterfall Model : linear sequential flow through the phases of project implementation.    
+<img src="images/waterfall.gif" style="background:none; border:none; box-shadow:none;"/>     
+*Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)*
 
 ----
 
 - V-cycle is an extension of the waterfall model : process steps are bent downwards & upwards with coding at the center.    
-Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)
-<img src="images/vcycle.png" style="background:none; border:none; box-shadow:none;"/> 
+<img src="images/vcycle.png" style="background:none; border:none; box-shadow:none;"/>     
+*Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)*
 
 ----
 
@@ -44,11 +44,11 @@ Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_deve
 
 ----
 
-- Agile/SCRUM : main diffrence with Waterfall / V-cycle :   
+- Agile/SCRUM : main diffrence with Waterfall / V-cycle      
 **The user (the client) participes to the project development cycle - no tunnel effect**    
 .    
 
-- Agile/SCRUM : the real added value :     
+- Agile/SCRUM : the real added value      
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
