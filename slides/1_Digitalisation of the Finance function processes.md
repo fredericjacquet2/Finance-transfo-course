@@ -104,7 +104,9 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 - Needs clear and coordinated processes
 - Organisational impacts      
-*R2R Software e.g. : [Blackline](https://www.blackline.com/)
+
+*R2R Software e.g. : [Blackline](https://www.blackline.com/)*
+
 ----
 
 > Case example SODEXO (source Digital Finance Awards 2019)   
