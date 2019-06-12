@@ -118,7 +118,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
 
-*Specific solutions based on BI (Business Intelligence) and RPM Enterprise Performance Management softwares* 
+*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management softwares* 
 
 ----
 
