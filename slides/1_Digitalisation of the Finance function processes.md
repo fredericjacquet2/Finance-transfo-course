@@ -41,8 +41,6 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - « Self-trained » users and relative acceptability
 - Resistance to change : not too much of an issue (with few exeptions)    
 
-*Example of products : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)...*
-
 ----
 
 > **Case example SANOFI (source Digital Finance Awards 2019)**   
@@ -63,14 +61,14 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ##### Complex ? Sucess is a combination of tools, processes, people    
 
-Tools / technical isues    
+**Tools / technical isues**    
 - Market-leading software applications
 - Simplified integration (opened, « IT backbone » ERP)
 
-Processes    
+**Processes**    
 - Well defined & applied
 
-People    
+**People**    
 - Implementation team skills (soft & hard)
 - Users training if needed
 - General resistance to change : indivudual and organisational
@@ -86,9 +84,8 @@ People
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
-- Usually include dematerialisation functionalities, OCR, supplier portal
+- Products usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
-*Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...*    
 *Specifics may be develooped as well (RPA...)*
 
 ----
@@ -105,8 +102,6 @@ People
 
 - Needs clear and coordinated processes
 - Organisational impacts     
-
-*Example of products : [Blackline](https://www.blackline.com/)*
 
 ----
 
