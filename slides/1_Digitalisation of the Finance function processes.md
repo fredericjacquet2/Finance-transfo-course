@@ -40,6 +40,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Legislative framework « digital friendly » 
 - « Self-trained » users and relative acceptability
 - Resistance to change : not too much of an issue (with few exeptions)    
+*T&E Softwares e.g. : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)*
 
 ----
 
@@ -86,6 +87,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 - Products usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
+*S2P, P2P Softwares e.g. : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)    
 *Specifics may be develooped as well (RPA...)*
 
 ----
@@ -101,8 +103,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 ##### R2R Record to Report / Financial close & bank reconciliation automatization    
 
 - Needs clear and coordinated processes
-- Organisational impacts     
-
+- Organisational impacts      
+*R2R Software e.g. : [Blackline](https://www.blackline.com/)
 ----
 
 > Case example SODEXO (source Digital Finance Awards 2019)   
