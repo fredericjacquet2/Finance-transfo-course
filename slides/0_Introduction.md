@@ -29,6 +29,9 @@ Move with arrows (bottom righ) or slide through
 
 ## Chapter 0 : Introduction
 
+----
+
+In this chapter :
 - Course objectives
 - Course plan
 - The story (course in a nutshell)
