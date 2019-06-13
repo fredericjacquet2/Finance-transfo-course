@@ -48,7 +48,7 @@ Provide an overview of a fuzzy subject !
 
 ----
 
-What are non-digital Finance Transformation issues ? 
+**What are non-digital Finance Transformation issues (the ones excluded from this course) ? 
 
 - Dealing with new regulatory / compliance requirements (GDPR...)
 - Shifting Finance towards a business partner mindset
@@ -56,16 +56,6 @@ What are non-digital Finance Transformation issues ?
 - Implementing SSC (Shared Services Centers)    
 
 Well, those are very much related to digital as well !   
-
-----
-
-### The Story
-
-1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business. 
-
-2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
-
-3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
 
 ----
 
@@ -78,6 +68,15 @@ Well, those are very much related to digital as well !
 
 You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
 
+----
+
+### The Story
+
+1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business. 
+
+2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
+
+3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
 ----
 
 ### What is Digital ?
@@ -122,3 +121,4 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
+WIP (Work In Progress)
