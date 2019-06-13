@@ -1,5 +1,8 @@
 ## Chapter 1 - Digitalisation of the Finance function processes
 
+----
+
+In this chapter:
 - An example : expense process digitalisation
 - Objectives of process digitalisation projects
 - Processes to be digitalised:
