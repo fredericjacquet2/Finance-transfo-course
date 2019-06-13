@@ -60,23 +60,6 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### Complex ? Sucess is a combination of tools, processes, people    
-
-**Tools / technical isues**    
-- Market-leading software applications
-- Simplified integration (opened, « IT backbone » ERP)
-
-**Processes**    
-- Well defined & applied
-
-**People**    
-- Implementation team skills (soft & hard)
-- Users training if needed
-- General resistance to change : indivudual and organisational
-- Organisational & social issue
-
-----
-
 ### What processes can be digitalised ? A few examples
 
 ----
@@ -134,6 +117,28 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 - Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
 - Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
+
+----
+
+##### Process digitalisation complexity : sucess is a combination of people, processes, tools    
+
+**People**    
+- Implementation team skills (soft & hard)
+- Users training if needed
+- General resistance to change : indivudual and organisational
+- Organisational & social issue
+
+----
+
+**Tools / technical isues**    
+- Market-leading software applications
+- Software products designed for a specific process
+- Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
+- Simplified integration (opened, « IT backbone » ERP)
+
+
+**Processes**    
+- Well defined & well applied !
 
 ----
 
