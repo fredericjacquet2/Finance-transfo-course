@@ -29,7 +29,8 @@ Move with arrows (bottom righ) or slide through
 
 ## Chapter 0 : Introduction
 
-- Course objectives & plan
+- Course objectives
+- Course plan
 - The story (course in a nutshell)
 - What is Digital ?
 - What is Corporate finance function ?
