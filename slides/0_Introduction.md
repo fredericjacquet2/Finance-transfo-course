@@ -50,7 +50,7 @@ Provide an overview of a fuzzy subject !
 
 What are non-digital Finance Transformation issues ? 
 
-- Dealing with regulatory / compliance new requirements (GDPR...)
+- Dealing with new regulatory / compliance requirements (GDPR...)
 - Shifting Finance towards a business partner mindset
 - Cash is King / cash improvement initiatives
 - Implementing SSC (Shared Services Centers)    
@@ -70,11 +70,11 @@ Well, those are very much related to digital as well !
 ----
 
 ### Course document plan (if on PC, press ESC)  
-- Chapter 1 = digitalising the corporate finance processes
-- Chapter 2 = leveraging the business partner with big data & analytics
-- Chapter 3 = technology & solutions
-- Chapter 4 = required skills to manage the transformation
-- Chapter 5 = implementing finance transformation
+- Chapter 1 = Digitalising the corporate finance processes
+- Chapter 2 = Leveraging the "business partner finance" with Big data & Analytics
+- Chapter 3 = Technology & solutions
+- Chapter 4 = Required skills to manage the transformation
+- Chapter 5 = Implementing finance transformation
 
 You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
 
@@ -109,7 +109,7 @@ These four independent technologies combine to form a number of solutions changi
 ### Is Digital such a revolution ? 
 
 - Yes it is !  
-- Not the first drastic lifestyle revolution (agriculture & inductrial revolutions)  
+- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
 - But definitlely the fastest one humanity ever faced   
 - From change to agility    
 
