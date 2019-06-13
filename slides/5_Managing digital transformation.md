@@ -11,31 +11,29 @@ In this chapter:
 
 ### Key success factors for any digitalisation project
 
-Succes holds in 3 words: people, processes, tools   
+It holds in 3 words: people, processes, tools   
 
 yep, its vast!
 
 ----
 
-- PEOPLE     
- - Right team, right support (change management), right support (politics)
- - Right roles & responsibilites, right time allocation, right individual skills and mindset
- - Change management : provide right support, communication & training (are "they" ready for this?), ensure capacity to drive change if in the driver seat
+- **PEOPLE**      
+ - Right team : right roles & responsibilites, time allocation, individual skills and mindset
+ - Change management : support users/stakeholders via communication & training
  - Stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
 
 ----
 
-- PROCESSES 
+- **PROCESSES** 
   - Are they clear over the whole process (different countries, BUs, teams) ?
   - Are they precise enough (avoid regular human intervention to clarifiy process) ? 
   - A good opportunity to clarify !    
 
-
-- TOOLS
+.    
+- **TOOLS**
   - Avoid "tool first" approach
   - Right tool for the right need : specs, thorough thinking and choice
-  - Adapt choice complexity to stake at hand
-  - Did you ever thought you got the wrong tool ?     
+  - Adapt choice complexity to stake at hand     
 
 ----
 
@@ -50,18 +48,24 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-#### Global : a clear vision & plan      
+### Global : a clear vision & plan      
 
 ###### Define the strategic vision (where we want to go) 
-- Build a vision of a target state (objectives and impact) : a clearly stated vision helps align everyone’s actions
+- Build a vision of a target state (objectives and impact)
+- A clearly stated vision helps align everyone’s actions     
+
+
 
 ###### Engage stakeholders    
-- Ensure everyone understands the why, secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
+- Ensure everyone understands the why
+- Secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
 ###### Ensure proper planning     
-- Plan relatively clear tasks and milestones, including quickwins to boost motivation 
+- Plan relatively clear tasks and milestones, including quickwins to boost motivation      
+
+
 
 ###### Budget for sufficient resources and expertise    
 - Internal team with right knowledge, authority, external support
@@ -131,8 +135,9 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ### WIIFM (What's in it for me) ? 
 
-- Is my job/role impacted by those initaitves ? Good or bad news ?
+- Is my job/role impacted by those initiatves ? Good or bad news ?
 - How is digital considered within the organisation ? Does it create value to the Finance team ?
 - Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?    
+
 
 #### An annoyance or a hobby, a side-duty or a full time job ?
