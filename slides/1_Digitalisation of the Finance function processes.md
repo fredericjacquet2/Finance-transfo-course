@@ -1,11 +1,11 @@
 ## Chapter 1 - Digitalisation of the Finance function processes
 
 - An example : expense process digitalisation
-- Objectives & complexity of process digitalisation projects
+- Objectives of process digitalisation projects
 - Processes to be digitalised:
   - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
   - Reporting, cost control & Performance management (data analysis and datavisulisation) 
-
+- Complexity of process digitalisation projects
 ----
 
 ### An example to start with : digitalising the expense report process
@@ -53,7 +53,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-#### General objectives of digitalisation projects   
+### General objectives of digitalisation projects   
 - Cost reduction of processing
 - Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
 - [ Reduction of low added value tasks] 
@@ -132,11 +132,10 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 **Tools / technical isues**    
 - Market-leading software applications
-- Software products designed for a specific process
-- Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
-- Simplified integration (opened, « IT backbone » ERP)
-
-
+ - Software products designed for a specific process
+ - Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
+- Simplified integration (opened, « IT backbone » ERP)      
+.    
 **Processes**    
 - Well defined & well applied !
 
@@ -144,11 +143,11 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ### Conclusion   
 
-Digitalisation of existing processes = 
+**Digitalisation of existing processes** 
 - dematerialization (including OCR) 
 - automatisation/robotisation (simplify process management & remove low-added value tasks)
 - analysis/visualisation (taylored extracts with fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
-For a revamped and fancy finance
+for a revamped and fancy finance
