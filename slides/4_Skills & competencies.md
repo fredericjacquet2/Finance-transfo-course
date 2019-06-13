@@ -92,6 +92,8 @@ Change needs to be support by two vectors :
 - Dedicated teams, whether internal or external consultants (it then develops a number of techniques based on instrumental and / or agile driving)
 - Management driven (managerial change management)
 
+----
+
 #### Change management has to become a daily managerial practice, in a process of tranversal co-construction
 
 ----
@@ -99,7 +101,7 @@ Change needs to be support by two vectors :
 ### Technical / technology skills
 
 - How much do you need to know? Broad culture ? Specific know-how ?
-- Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and to your implementation needs/choices.
+- Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and needs.
 - A broad technical understanding may be usefull though (refer to "Technology & Solutions" chapter).
-- Cherry-picking can be rewarding (example : learning how to use Power BI for fancy dataviz or an RPA software product).
+- **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz or an RPA software product).
 
