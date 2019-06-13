@@ -44,11 +44,11 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-- Agile/SCRUM : main diffrence with Waterfall / V-cycle      
+- Agile/SCRUM, main diffrence with Waterfall / V-cycle:      
 **The user (the client) participes to the project development cycle - no tunnel effect**    
 .    
 
-- Agile/SCRUM : the real added value      
+- Agile/SCRUM, a real added value:      
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
 
 ----
