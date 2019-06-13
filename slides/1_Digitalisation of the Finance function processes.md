@@ -6,6 +6,7 @@
   - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
   - Reporting, cost control & Performance management (data analysis and datavisulisation) 
 - Complexity of process digitalisation projects
+
 ----
 
 ### An example to start with : digitalising the expense report process
