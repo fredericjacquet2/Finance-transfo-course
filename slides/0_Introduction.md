@@ -18,18 +18,22 @@ Move with arrows (bottom righ) or slide through
 
 ---
 
-**This course is open source, copyright free**  
-
-It is written under [Reveal.js](https://revealjs.com/#/), with [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), is available to fork on [my GitHub profile](https://github.com/fredericjacquet2)     
+**This course is open source, copyright free**     
+.                
+*written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available to fork on [my GitHub profile](https://github.com/fredericjacquet2)*     
 .    
 
-##### IF you wish to enjoy a live session of this course, contact me (frederic.jacquet@teolia.fr) or join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)
+**To enjoy a live session of this course, contact me (frederic.jacquet@teolia.fr) or join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
 ## Chapter 0 : Introduction
 
-- Course objectives & plan
+----
+
+In this chapter :
+- Course objectives
+- Course plan
 - The story (course in a nutshell)
 - What is Digital ?
 - What is Corporate finance function ?
@@ -48,14 +52,25 @@ Provide an overview of a fuzzy subject !
 
 ----
 
-What are non-digital Finance Transformation issues ? 
+**What are non-digital Finance Transformation issues (the ones excluded from this course) ? 
 
-- Dealing with regulatory / compliance new requirements (GDPR...)
+- Dealing with new regulatory / compliance requirements (GDPR...)
 - Shifting Finance towards a business partner mindset
 - Cash is King / cash improvement initiatives
 - Implementing SSC (Shared Services Centers)    
 
 Well, those are very much related to digital as well !   
+
+----
+
+### Course document plan (if on PC, press ESC)  
+- Chapter 1 = Digitalising the corporate finance processes
+- Chapter 2 = Leveraging the "business partner finance" with Big data & Analytics
+- Chapter 3 = Technology & solutions
+- Chapter 4 = Required skills to manage the transformation
+- Chapter 5 = Implementing finance transformation
+
+You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
 
 ----
 
@@ -66,18 +81,6 @@ Well, those are very much related to digital as well !
 2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
 
 3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
-
-----
-
-### Course document plan (if on PC, press ESC)  
-- Chapter 1 = digitalising the corporate finance processes
-- Chapter 2 = leveraging the business partner with big data & analytics
-- Chapter 3 = technology & solutions
-- Chapter 4 = required skills to manage the transformation
-- Chapter 5 = implementing finance transformation
-
-You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
-
 ----
 
 ### What is Digital ?
@@ -109,7 +112,7 @@ These four independent technologies combine to form a number of solutions changi
 ### Is Digital such a revolution ? 
 
 - Yes it is !  
-- Not the first drastic lifestyle revolution (agriculture & inductrial revolutions)  
+- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
 - But definitlely the fastest one humanity ever faced   
 - From change to agility    
 
@@ -122,3 +125,4 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
+WIP (Work In Progress)

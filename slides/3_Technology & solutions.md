@@ -18,8 +18,8 @@ In this chapter :
 ### Off-the-shelf products 
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications (e.g. Blackline for accounting)    
-<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>    
-- Can be "leveraged" with specific add-ons (RPA or Dataviz for example)
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+*Can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
 
 ----
 

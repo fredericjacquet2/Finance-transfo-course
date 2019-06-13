@@ -1,10 +1,11 @@
 ## Chapter 1 - Digitalisation of the Finance function processes
 
 - An example : expense process digitalisation
-- Objectives & complexity of process digitalisation projects
+- Objectives of process digitalisation projects
 - Processes to be digitalised:
   - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
   - Reporting, cost control & Performance management (data analysis and datavisulisation) 
+- Complexity of process digitalisation projects
 
 ----
 
@@ -40,8 +41,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Legislative framework « digital friendly » 
 - « Self-trained » users and relative acceptability
 - Resistance to change : not too much of an issue (with few exeptions)    
-
-*Example of products : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)...*
+*T&E Softwares e.g. : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)*
 
 ----
 
@@ -54,27 +54,10 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-#### General objectives of digitalisation projects   
+### General objectives of digitalisation projects   
 - Cost reduction of processing
 - Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
 - [ Reduction of low added value tasks] 
-
-----
-
-##### Complex ? Sucess is a combination of tools, processes, people    
-
-Tools / technical isues    
-- Market-leading software applications
-- Simplified integration (opened, « IT backbone » ERP)
-
-Processes    
-- Well defined & applied
-
-People    
-- Implementation team skills (soft & hard)
-- Users training if needed
-- General resistance to change : indivudual and organisational
-- Organisational & social issue
 
 ----
 
@@ -86,9 +69,9 @@ People
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
-- Usually include dematerialisation functionalities, OCR, supplier portal
+- Products usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
-*Example of products: [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...*    
+*S2P, P2P Softwares e.g. : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)    
 *Specifics may be develooped as well (RPA...)*
 
 ----
@@ -104,9 +87,9 @@ People
 ##### R2R Record to Report / Financial close & bank reconciliation automatization    
 
 - Needs clear and coordinated processes
-- Organisational impacts     
+- Organisational impacts      
 
-*Example of products : [Blackline](https://www.blackline.com/)*
+*R2R Software e.g. : [Blackline](https://www.blackline.com/)*
 
 ----
 
@@ -123,7 +106,7 @@ People
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
 
-*Specific solutions based on BI (Business Intelligence) and RPM Enterprise Performance Management softwares* 
+*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management softwares* 
 
 ----
 
@@ -138,13 +121,34 @@ People
 
 ----
 
+##### Process digitalisation complexity : sucess is a combination of people, processes, tools    
+
+**People**    
+- Implementation team skills (soft & hard)
+- Users training if needed
+- General resistance to change : indivudual and organisational
+- Organisational & social issue
+
+----
+
+**Tools / technical isues**    
+- Market-leading software applications
+ - Software products designed for a specific process
+ - Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
+- Simplified integration (opened, « IT backbone » ERP)      
+.    
+**Processes**    
+- Well defined & well applied !
+
+----
+
 ### Conclusion   
 
-Digitalisation of existing processes = 
+**Digitalisation of existing processes** 
 - dematerialization (including OCR) 
 - automatisation/robotisation (simplify process management & remove low-added value tasks)
 - analysis/visualisation (taylored extracts with fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
-For a revamped and fancy finance
+for a revamped and fancy finance

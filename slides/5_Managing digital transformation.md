@@ -1,6 +1,9 @@
 ## Chapter 5 - Managing digital transformation
 
-- Key success factors : tools, processes, people
+----
+
+In this chapter:
+- Key success factors : people, processes, tools
 - Global or local ?
 - WIIFM ?
 
