@@ -3,9 +3,21 @@
 ----
 
 In this chapter:
+- Stats : where do we stand today ? 
 - Key success factors : people, processes, tools
 - Global or local ?
+- Changes in the finance function
 - WIIFM ?
+
+----
+
+### A few stats on where we are on finance transformation (WIP!)
+
+- En matière de transformation numérique, les financiers d'entreprise préfèrent se concentrer sur les fondamentaux : dématérialisation du processus P2P (réalisée dans 56 % des entreprises sondées), data vizualisation (39 %), robotic process automation (30 %), digitalisation de l'élaboration budgétaire et simplification de la consolidation (23 %).
+- Si l'intelligence artificielle (IA), le prédictif et la blockchain font partie des sujets du moment, force est de constater que les directeurs financiers (DAF) adoptent, face à eux, une position très attentiste. Seulement 4 % des responsables interrogés ont mené, au moins partiellement, de tels projets, quand 8 % l'envisagent à court ou moyen terme pour la blockchain et 18 % pour l'intelligence artificielle et le prédictif.
+- Lorsqu'on les interroge sur les défis auxquels ils doivent faire face, les directeurs financiers restent pour le moins classiques. Ils citent, en premier lieu, la transformation culturelle et la conduite du changement (63 %), le poids de l'héritage (SI, logiciel) face aux nouvelles technologies (55 %), l'allocation des ressources et l'évolution des compétences (53 %).
+
+*Source : Les Echos Executive, march 2019*
 
 ----
 
@@ -49,7 +61,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-### Global : a clear vision & plan      
+#### Global : a clear vision & plan      
 
 ###### Define the strategic vision (where we want to go) 
 - Build a vision of a target state (objectives and impact)
@@ -73,7 +85,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-### Global : ENGIE, Michelin, Renault ...
+#### Global : ENGIE, Michelin, Renault ...
 
 ----
 
@@ -89,20 +101,7 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 
 ----
 
-##### Changing roles & new posiitons in corporate finance     
-
-**New C-suite roles for Finance transformation** : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
-[The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
-What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
-
-> Key slills, by M. Page (CFO baromter)      
-- *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
-- *learning new methods and technologies such as data analytics, and* 
-- *improving their social, communication and change management competences."*
-
-----
-
-### Local initiatives
+#### Local initiatives
 
 A large source of Digital inspiration !
 
@@ -115,12 +114,12 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-### In an agile world, global can be a summ off local
+#### In an agile world, global can be a summ off local
 <img src="images/agilevswaterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
-### Digital transformation : a changing finance function ? 
+### Digital transformation : changes in the finance function   
 
 ##### Digtial changes role & organisation of Corporate finance
 
@@ -130,7 +129,20 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-##### What is at stake for the finance funciton ? 
+#### Changing roles & new positions in corporate finance     
+
+**New C-suite roles for Finance transformation** : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
+[The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
+What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
+
+> Key slills, by M. Page (CFO baromter)      
+- *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
+- *learning new methods and technologies such as data analytics, and* 
+- *improving their social, communication and change management competences."*
+
+----
+
+#### What is at stake for the finance funciton ? 
 
 - Keeping the company up-to-speed ?
 - Re-inventing a more "fancy" and business oriented Corporate finance ? 
@@ -143,7 +155,7 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ### WIIFM (What's in it for me) ? 
 
-- Is my job/role impacted by those initiatves ? Good or bad news ?
+- Is my present job/role impacted by those initiatves ? Good or bad news ?
 - How is digital considered within the organisation ? Does it create value to the Finance team ?
 - Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?    
 
