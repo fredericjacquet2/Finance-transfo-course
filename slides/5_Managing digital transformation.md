@@ -18,9 +18,9 @@ yep, its vast!
 ----
 
 - **PEOPLE**      
- - Right team : right roles & responsibilites, time allocation, individual skills and mindset
- - Change management : support users/stakeholders via communication & training
- - Stakeholders management : align interests at all levels & deal with politics (internal conflicts) 
+ - Execution team : clear governance (roles, responsibilites, delegation), time allocation, skills, mindset
+ - Users / stakeholders : change management / communication / training
+ - Stakeholders management : align interests at all levels / deal with politics (internal conflicts) 
 
 ----
 
@@ -29,7 +29,8 @@ yep, its vast!
   - Are they precise enough (avoid regular human intervention to clarifiy process) ? 
   - A good opportunity to clarify !    
 
-.    
+----
+
 - **TOOLS**
   - Avoid "tool first" approach
   - Right tool for the right need : specs, thorough thinking and choice
@@ -88,9 +89,16 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 
 ----
 
-New C-suite roles for Finance transformation : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
+##### Changing roles & new posiitons in corporate finance     
+
+**New C-suite roles for Finance transformation** : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
 [The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
 What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
+
+> Key slills, by M. Page (CFO baromter)      
+- *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
+- *learning new methods and technologies such as data analytics, and* 
+- *improving their social, communication and change management competences."*
 
 ----
 
