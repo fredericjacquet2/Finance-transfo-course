@@ -83,6 +83,7 @@ You may approach the course from the processes (ch 1 & 2), the solutions (ch 3),
 2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
 
 3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
+
 ----
 
 ### What is Digital ?
