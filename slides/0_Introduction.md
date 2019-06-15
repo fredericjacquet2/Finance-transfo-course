@@ -21,7 +21,7 @@ Move with arrows (bottom righ) or slide through
 **This course is open source, copyright free**
 
 *written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
-    
+
 *this release : June 21, 2019*
 
 **To enjoy a live session of this course:      
