@@ -3,15 +3,17 @@
 ----
 
 In this chapter:
-- 1. Stats : where do we stand today ? 
-- 2. Key success factors : people, processes, tools
-- 3. Global or local ?
-- 4. Changes in the finance function
-- 5. WIIFM ?
+1. Stats : where do we stand today ? 
+2. Key success factors : people, processes, tools
+3. Global or local ?
+4. Changes in the finance function
+5. WIIFM ?
 
 ----
 
 ### 1. A few stats on where we are on finance transformation
+
+----
 
 **Organisations having implemented digitalisation projects :** 
 - P2P process (56% of the panel), Data visualisaiton (39%), RPA (30%), R2R (23%)
@@ -54,7 +56,7 @@ yep, its vast!
 
 ----
 
-### Global or local ?  
+### 3. Global or local ?  
 
 - Global digital strategy (look at Michelin) 
 - or Short steps / local initiatives / quickwinns 
@@ -67,29 +69,22 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 #### Global : a clear vision & plan      
 
-###### Define the strategic vision (where we want to go) 
+**Define the strategic vision (where we want to go)**       
 - Build a vision of a target state (objectives and impact)
 - A clearly stated vision helps align everyone’s actions     
 
 
-
-###### Engage stakeholders    
+**Engage stakeholders**      
 - Ensure everyone understands the why
 - Secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
-###### Ensure proper planning     
+**Ensure proper planning**                
 - Plan relatively clear tasks and milestones, including quickwins to boost motivation      
 
-
-
-###### Budget for sufficient resources and expertise    
+**Budget for sufficient resources and expertise**    
 - Internal team with right knowledge, authority, external support
-
-----
-
-#### Global : ENGIE, Michelin, Renault ...
 
 ----
 
@@ -118,14 +113,14 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-#### In an agile world, global can be a summ off local
+#### In an agile world, global can be a sum of local
 <img src="images/agilevswaterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
-### Digital transformation : changes in the finance function   
+### 4. Digital transformation : changes in the finance function   
 
-##### Digtial changes role & organisation of Corporate finance
+#### Digtial changes role & organisation of Corporate finance
 
 - Organisation progressivelly adds Data management capacities 
 - Role shifts towards : the business, Data amanagement (data analysts, data scientists), IT management
@@ -157,7 +152,7 @@ What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.a
 
 ----
 
-### WIIFM (What's in it for me) ? 
+### 5. WIIFM (What's in it for me) ? 
 
 - Is my present job/role impacted by those initiatves ? Good or bad news ?
 - How is digital considered within the organisation ? Does it create value to the Finance team ?
