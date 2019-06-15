@@ -18,14 +18,15 @@ Move with arrows (bottom righ) or slide through
 
 ---
 
-**This course is open source, copyright free**     
-.                
-*written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available to fork on [my GitHub profile](https://github.com/fredericjacquet2)*     
-.    
-*this release : June 21, 2019*     
-.
+**This course is open source, copyright free**
 
-**To enjoy a live session of this course, contact me (frederic.jacquet@teolia.fr) or join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
+*written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
+    
+*this release : June 21, 2019*
+
+**To enjoy a live session of this course:      
+contact me (frederic.jacquet@teolia.fr) or      
+join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
