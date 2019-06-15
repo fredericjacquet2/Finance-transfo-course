@@ -1,27 +1,31 @@
-## Chapter 5 - Managing digital transformation
+## Chapter 5 - Implementing digital transformation
 
 ----
 
 In this chapter:
-- Stats : where do we stand today ? 
-- Key success factors : people, processes, tools
-- Global or local ?
-- Changes in the finance function
-- WIIFM ?
+- 1. Stats : where do we stand today ? 
+- 2. Key success factors : people, processes, tools
+- 3. Global or local ?
+- 4. Changes in the finance function
+- 5. WIIFM ?
 
 ----
 
-### A few stats on where we are on finance transformation (WIP!)
+### 1. A few stats on where we are on finance transformation
 
-- En matière de transformation numérique, les financiers d'entreprise préfèrent se concentrer sur les fondamentaux : dématérialisation du processus P2P (réalisée dans 56 % des entreprises sondées), data vizualisation (39 %), robotic process automation (30 %), digitalisation de l'élaboration budgétaire et simplification de la consolidation (23 %).
-- Si l'intelligence artificielle (IA), le prédictif et la blockchain font partie des sujets du moment, force est de constater que les directeurs financiers (DAF) adoptent, face à eux, une position très attentiste. Seulement 4 % des responsables interrogés ont mené, au moins partiellement, de tels projets, quand 8 % l'envisagent à court ou moyen terme pour la blockchain et 18 % pour l'intelligence artificielle et le prédictif.
-- Lorsqu'on les interroge sur les défis auxquels ils doivent faire face, les directeurs financiers restent pour le moins classiques. Ils citent, en premier lieu, la transformation culturelle et la conduite du changement (63 %), le poids de l'héritage (SI, logiciel) face aux nouvelles technologies (55 %), l'allocation des ressources et l'évolution des compétences (53 %).
-
-*Source : Les Echos Executive, march 2019*
+**Organisations having implemented digitalisation projects :** 
+- P2P process (56% of the panel), Data visualisaiton (39%), RPA (30%), R2R (23%)
+- Predictive analytics, IA or Blockchain : 4% of the panel (with 18% envisaging a predictive / IA project on a short-medium term)    
+**Main issues mentioned :** 
+- cultural transformation / change management
+- dealing with legacy IT / SW tools compared to new tech
+- ressources allocation & competence management      
+*Organisations panel : 75% large groups, 25% SMEs      
+*Source : Les Echos Executive, March 2019*
 
 ----
 
-### Key success factors for any digitalisation project
+### 2. Key success factors for any digitalisation project
 
 It holds in 3 words: people, processes, tools   
 
