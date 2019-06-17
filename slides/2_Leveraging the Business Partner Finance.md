@@ -9,9 +9,9 @@ In this chapter:
 
 ##### Business Partner Finance : from cost control towards performance management in predictive mode
 
-- A function closer to the business, with BI & RPM solutions 
-- A function closer to technology (IT/ BI)
-- A function Master of the Data
+- A finance function closer to the business ("business partner finance") 
+- A finance function closer to technology (IT/ BI / EPM... )
+- À finance function Master of the Data
 - Predictive rather than reactive
 
 ----
@@ -22,21 +22,22 @@ In this chapter:
 
 ----
 
-WIP !
+WIP (Work In Progress) 
 
 > QUOTE by xxxxxxxxxxx 
 
 "Finance ...."
 
 ----
+Dassault Systèmes Corporate Finance--2030
 
 <img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
 A two-fold approach for the Business Partner Finance : 
-1. Abality to generate taylored made, real-time reporting : BI / RPM tools 
-2. Capacity to leverage the "usual" performance management reporting towards predictive performance management : Big Data (Data lake, Data factory) and Analytics, IA, Machine learning
+1. Abality to generate taylored made, real-time reporting : BI / EPM tools 
+2. Capacity to leverage the "usual" performance management reporting towards predictive performance management : Big Data (Data lake, Data factory) and Analytics (IA, Machine learning) 
 
 ----
 
@@ -52,8 +53,8 @@ A two-fold approach for the Business Partner Finance :
 
 > WIP ! Illustration : Online sports betting actor     
 
-- Very competitive, strong growth market
-- Objectives = increase market share and profitability of the sport betting activity
+- Market : very competitive + strong growth
+- Objectives : increase market share and profitability of the sport betting activity
 - Specific focus : Customer acquisition cost 
 - Initial information : net cost of promotional offers, market share evolution, BU profitability 
 Key questions: 
@@ -61,6 +62,9 @@ Key questions:
 - What is the ROI of the promotional offer ?
 To provide some answers:
 - Understand and differentiate player behaviours and player types according to presnet & future context
+
+----
+
 The project:
 - Setting up a project-oriented organization = CFO + CDO
 - Set-up a Data factory (Data lake)
