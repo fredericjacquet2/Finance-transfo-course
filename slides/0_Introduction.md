@@ -35,15 +35,17 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 ----
 
 In this chapter :
-- Course objectives
-- Course plan
-- The story (course in a nutshell)
-- What is Digital ?
-- What is Corporate finance function ?
+1. Course presentation (objectives, plan and story
+2. What is Digital ?
+3. What is Corporate finance function ?
 
 ----
 
-### Course objectives  
+### 1. Course presentation
+
+----
+
+#### Course objectives  
 
 Provide an overview of a fuzzy subject !   
 
@@ -55,7 +57,7 @@ Provide an overview of a fuzzy subject !
 
 ----
 
-**What are non-digital Finance Transformation issues (the ones excluded from this course) ? 
+**What are non-digital Finance Transformation issues (the ones excluded from this course) ?** 
 
 - Dealing with new regulatory / compliance requirements (GDPR...)
 - Shifting Finance towards a business partner mindset
@@ -66,7 +68,7 @@ Well, those are very much related to digital as well !
 
 ----
 
-### Course document plan (if on PC, press ESC)  
+#### Course document plan (if on PC, press ESC)  
 - Chapter 1 = Digitalising the corporate finance processes
 - Chapter 2 = Leveraging the "business partner finance" with Big data & Analytics
 - Chapter 3 = Technology & solutions
@@ -77,17 +79,17 @@ You may approach the course from the processes (ch 1 & 2), the solutions (ch 3),
 
 ----
 
-### The Story
+#### The Story (course in a nutshell) 
 
-1. By digitalizing its processes, Finance moves towards a user-friendly and effective service provider to the business. 
+1. By digitalizing its processes, Finance moves towards a **user-friendly and effective service provider** to the business. 
 
-2. The BPF (Business Partner Finance) leverages its contribution with digital, and gets into predictive performance management.  
+2. The BPF (Business Partner Finance) leverages its contribution with big data & analytics, and gets into **predictive performance management**.  
 
-3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to lead the company’s Digital transformation.
+3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to **lead the company’s Digital transformation**.
 
 ----
 
-### What is Digital ?
+### 2. What is Digital ?
 
 - Loads of definitions !    
 
@@ -113,7 +115,7 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-### Is Digital such a revolution ? 
+#### Is Digital such a revolution ? 
 
 - Yes it is !  
 - Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
@@ -122,7 +124,7 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-### What is the Corporate Finance function ?
+### 3. What is the Corporate Finance function ?
 
 - How is it usually organised ?
 - Which processes does it manage ?
