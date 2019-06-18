@@ -29,6 +29,7 @@ WIP (Work In Progress)
 "Finance ...."
 
 ----
+
 Dassault Systèmes Corporate Finance--2030
 
 <img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
@@ -51,29 +52,32 @@ A two-fold approach for the Business Partner Finance :
 
 ----
 
-> WIP ! Illustration : Online sports betting actor     
+> Illustration : Online sports betting actor     
 
 - Market : very competitive + strong growth
 - Objectives : increase market share and profitability of the sport betting activity
 - Specific focus : Customer acquisition cost 
-- Initial information : net cost of promotional offers, market share evolution, BU profitability 
+- Initial information : net cost of promotional offers, market share evolution, BU profitability
+
 Key questions: 
 - What is the impact of the promotional offer on increasing market share? 
-- What is the ROI of the promotional offer ?
+- What is the ROI of the promotional offers ?
+
 To provide some answers:
 - Understand and differentiate player behaviours and player types according to presnet & future context
 
 ----
 
 The project:
-- Setting up a project-oriented organization = CFO + CDO
+
+- Setting up a project-oriented organization, lead CFO + CDO
 - Set-up a Data factory (Data lake)
-- perform Data  Analysis:
-  - Historical analysis based on structured databases (several years of history)
-  - Internet player end behaviour recording setting up
-  - Unstructured data and real time (social networks, news…) analysis implementation 
-  - Main key analysis: player profile / sport type / timeline 
+- set-up analysis algorithms from:
+  - Historical data from structured databases (several years of history)
+  - Internet player end behaviour recording
+  - Unstructured, real time data (social networks, news…) analysis implementation
+- Main key analysis: player profile / sport type / timeline
 Result: 
 - Predictive analysis
-- provides key measurement and optimization of customer acquisition cost
-- Depending on the context (games to come).
+- Measurement and optimization of customer acquisition cost
+  - Depending on the context (games to come).
