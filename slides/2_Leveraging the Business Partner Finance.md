@@ -63,13 +63,12 @@ Key questions:
 - What is the impact of the promotional offer on increasing market share? 
 - What is the ROI of the promotional offers ?
 
+----
+
 To provide some answers:
 - Understand and differentiate player behaviours and player types according to presnet & future context
 
-----
-
 The project:
-
 - Setting up a project-oriented organization, lead CFO + CDO
 - Set-up a Data factory (Data lake)
 - set-up analysis algorithms from:
@@ -77,7 +76,10 @@ The project:
   - Internet player end behaviour recording
   - Unstructured, real time data (social networks, news…) analysis implementation
 - Main key analysis: player profile / sport type / timeline
+
+----
+
 Result: 
 - Predictive analysis
-- Measurement and optimization of customer acquisition cost
-  - Depending on the context (games to come).
+- Optimization of customer acquisition cost, depending on the context (type of game, games to come)
+- Improved sports BU profitability
