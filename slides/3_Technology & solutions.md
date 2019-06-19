@@ -2,28 +2,28 @@
 
 ----
 
-In this chapter :
-- Off-the-shelf products, a broadly used technology
-- RPA Robotic Process Automation
-- Chatbots
-- BI softwares
-- Big Data & analytics
-- IA
-- Blockchain
-- Clear on Cloud, Saas and the like ?
-- Clear on what's an ERP ?
+In this chapter
+1. Off-the-shelf products, a broadly used technology
+2. RPA Robotic Process Automation
+3. Chatbots
+4. BI softwares
+5. Big Data & analytics
+6. IA
+7. Blockchain
+8. Clear on Cloud, Saas and the like ?
+9. Clear on what's an ERP ?
 
 ----
 
-### Off-the-shelf products 
+### 1. Off-the-shelf products 
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
-- Market-leading specific business applications (e.g. Blackline for accounting)    
+- Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting)    
 <img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
-*Can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
+*Include and/or can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
 
 ----
 
-### RPA Robotic Process Automation
+### 2. RPA Robotic Process Automation
 
 A robot automates human tasks, it works ideally if : 
 - very repetitive tasks
@@ -43,13 +43,13 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 > Case ARCELOR MITTAL (source Digital Finance Awards 2019)   
 
-- Robotisation des Process Financiers - RPA
-- Nous avons implémenté la technologie robotique RPA (Robotic Process Automation) au sein du département de consolidation et de reporting financiers et automatisé ainsi en un temps record de 9 mois 44 de nos process réguliers à travers 30 robots. Nous avons obtenu d’excellents résultats en termes de productivité et de performance, de qualité de délivrables ainsi qu’en gain de temps.
-- Avec ce projet, nous avons mis en place une véritable culture de l’innovation au sein des équipes et réussi un changement de fond des mentalités et pratiques de travail.
+- Robotisation of Financial Processes within consolidation & reporting departments : 30 robots for 44 processes
+- Excellent results in regards to productivity, performance, deliveralbes quality, time gain
+- Led to a real innovation culture & change in mentalities witihn the teams
 
 ----
 
-### Chatbots
+### 3. Chatbots (WIP)
 
 - Chatbot = a talking robot (imitates human conversations through voice and/or text chats).    
 - Chatbot minimizes response time & improves customer experience.    
@@ -65,32 +65,32 @@ Video : [Chatbot in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) and vide
 
 ----
 
-### BI softwares
+### 4. BI softwares (WIP)
 
 https://www.archerpoint.com/business-intelligence-bi-software
 
 ----
 
-### Big Data & analytics
+### 5. Big Data & analytics (WIP)
 
 ----
 
-### IA
+### 6. IA (WIP)
 
 ----
 
-### Blockchain
+### 7. Blockchain (WIP)
 
 ----
 
-### Clear on Cloud, Saas and the like ?
+### 8. Clear on Cloud, Saas and the like ?
 
 Usual apps run more & more in Saas mode (Software as a service or Cloud app services). See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 *Understand that from an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
 
 ----
 
-### Clear on what's an ERP ?
+### 9. Clear on what's an ERP ?
 ERP (Enterprise Resource Planning):
 - known as Integrated Management Software for companies,
 - defined as a group of interconnected modules + a database.
