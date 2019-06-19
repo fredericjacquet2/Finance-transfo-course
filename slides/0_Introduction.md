@@ -1,9 +1,10 @@
 ## Digital and Corporate Finance Transformation  
 
 #### By
-##### Frédéric Jacquet     
+#### Frédéric Jacquet
 
-Move with arrows (bottom righ) or slide through
+- If on smartphone or tablet: you are OK / if on PC : reduce screen to ~ 33%
+- Move with arrows (bottom righ) or slide through
 
 ---
 
@@ -22,7 +23,7 @@ Move with arrows (bottom righ) or slide through
 
 *written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
 
-*this release : June 21, 2019*
+*This release : June 19, 2019*
 
 **To enjoy a live session of this course:      
 contact me (frederic.jacquet@teolia.fr) or      
@@ -34,14 +35,15 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 
 ----
 
-In this chapter :
-1. Course presentation (objectives, plan and story
+In this chapter
+
+1. Course presentation (objectives, plan and story)
 2. What is Digital ?
 3. What is Corporate finance function ?
 
 ----
 
-### 1. Course presentation
+### 1. Course presentation (objectives, plan and story)
 
 ----
 
@@ -68,7 +70,7 @@ Well, those are very much related to digital as well !
 
 ----
 
-#### Course document plan (if on PC, press ESC)  
+#### Course plan (if on PC, press ESC)  
 - Chapter 1 = Digitalising the corporate finance processes
 - Chapter 2 = Leveraging the "business partner finance" with Big data & Analytics
 - Chapter 3 = Technology & solutions
