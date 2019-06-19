@@ -70,21 +70,21 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 #### Global : a clear vision & plan      
 
-**Define the strategic vision (where we want to go)**       
+***Define the strategic vision (where we want to go)***       
 - Build a vision of a target state (objectives and impact)
 - A clearly stated vision helps align everyone’s actions     
 
 
-**Engage stakeholders**      
+***Engage stakeholders***
 - Ensure everyone understands the why
 - Secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
-**Ensure proper planning**                
+***Ensure proper planning***
 - Plan relatively clear tasks and milestones, including quickwins to boost motivation      
 
-**Budget for sufficient resources and expertise**    
+***Budget for sufficient resources and expertise***
 - Internal team with right knowledge, authority, external support
 
 ----
