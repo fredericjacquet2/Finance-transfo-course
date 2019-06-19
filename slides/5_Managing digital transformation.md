@@ -15,15 +15,16 @@ In this chapter:
 
 ----
 
-**Organisations having implemented digitalisation projects :** 
+> Stats from organisations panel 75% large groups / 25% SMEs
+> Source : Les Echos Executive, March 2019
+
+**Organisations having implemented digitalisation projects**
 - P2P process (56% of the panel), Data visualisaiton (39%), RPA (30%), R2R (23%)
-- Predictive analytics, IA or Blockchain : 4% of the panel (with 18% envisaging a predictive / IA project on a short-medium term)    
-**Main issues mentioned :** 
+- Predictive analytics, IA or Blockchain : 4% of the panel (with 18% envisaging a predictive / IA project on a short-medium term)
+**Main issues mentioned :**
 - cultural transformation / change management
 - dealing with legacy IT / SW tools compared to new tech
 - ressources allocation & competence management      
-*Organisations panel : 75% large groups, 25% SMEs      
-*Source : Les Echos Executive, March 2019*
 
 ----
 
