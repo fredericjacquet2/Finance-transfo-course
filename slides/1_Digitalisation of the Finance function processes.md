@@ -2,17 +2,17 @@
 
 ----
 
-In this chapter:
-- An example : expense process digitalisation
-- Objectives of process digitalisation projects
-- Processes to be digitalised:
+In this chapter
+1. An example : expense process digitalisation
+2. Objectives of process digitalisation projects
+3. What processes can be digitalised? A few examples:
   - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
   - Reporting, cost control & Performance management (data analysis and datavisulisation) 
-- Complexity of process digitalisation projects
+4. Complexity of process digitalisation projects
 
 ----
 
-### An example to start with : digitalising the expense report process
+### 1. An example to start with : digitalising the expense report process
 
 <img src="images/expense9.jpg" style="background:none; border:none; box-shadow:none;"/>
 What’s  the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
@@ -57,14 +57,14 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-### General objectives of digitalisation projects   
+### 2. General objectives of digitalisation projects   
 - Cost reduction of processing
 - Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
 - [ Reduction of low added value tasks] 
 
 ----
 
-### What processes can be digitalised ? A few examples
+### 3. What processes can be digitalised ? A few examples
 
 ----
 
@@ -124,7 +124,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### Process digitalisation complexity : sucess is a combination of people, processes, tools    
+### 4. Process digitalisation complexity : sucess is a combination of people, processes, tools    
 
 **People**    
 - Implementation team skills (soft & hard)
