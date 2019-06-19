@@ -2,15 +2,15 @@
 
 ----
 
-In this chapter :
-- Soft skills
-- Project Management skills 
-- Change Management skills
-- Technology : how much do you need to know ?  
+In this chapter
+1. Soft skills
+2. Project Management skills 
+3. Change Management skills
+4. Technology : how much do you need to know ?  
 
 ----
 
-### Soft skills
+### 1. Soft skills
 
 What soft skills are required for the changing role of finance ? 
 Broadly speaking, it's around communication and agility, and I'll leave this up to you to think about.  
@@ -21,7 +21,9 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-### Project Management: waterfall & V-cycle
+### 2. Project Management skills
+
+#### Waterfall & V-cycle
 
 - Waterfall Model : linear sequential flow through the phases of project implementation.    
 <img src="images/waterfall.gif" style="background:none; border:none; box-shadow:none;"/>     
@@ -35,11 +37,11 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-### Project Management: Risk management
+#### Project Management: Risk management
 
 ----
 
-### SCRUM / Agile project management
+#### SCRUM / Agile project management
 <img src="images/scrum.jpg" style="background:none; border:none; box-shadow:none;"/> 
 
 ----
@@ -70,7 +72,7 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-### Change Management
+### 3. Change Management skills (WIP)
 
 > It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.    
 *Charles Darwin*
@@ -98,7 +100,7 @@ Change needs to be support by two vectors :
 
 ----
 
-### Technical / technology skills
+### 4. Technical / technology skills
 
 - How much do you need to know? Broad culture ? Specific know-how ?
 - Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and needs.
