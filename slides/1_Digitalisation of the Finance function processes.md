@@ -124,7 +124,9 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-### 4. Process digitalisation complexity : sucess is a combination of people, processes, tools    
+### 4. Process digitalisation complexity : sucess is a combination of people, processes, tools
+
+----
 
 **People**    
 - Implementation team skills (soft & hard)
@@ -132,14 +134,12 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - General resistance to change : indivudual and organisational
 - Organisational & social issue
 
-----
-
 **Tools / technical isues**    
 - Market-leading software applications
  - Software products designed for a specific process
  - Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
-- Simplified integration (opened, « IT backbone » ERP)      
-.    
+- Simplified integration (opened, « IT backbone » ERP)
+
 **Processes**    
 - Well defined & well applied !
 
