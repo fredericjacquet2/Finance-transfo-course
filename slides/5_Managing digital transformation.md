@@ -38,7 +38,7 @@ yep, its vast!
 
 - **PEOPLE**      
  - Execution team : clear governance (roles, responsibilites, delegation), time allocation, skills, mindset
- - Users / stakeholders : change management / communication / training
+ - Users / stakeholders : **SEEK ADOPTION** change management / communication / training
  - Stakeholders management : align interests at all levels / deal with politics (internal conflicts) 
 
 ----
