@@ -53,7 +53,6 @@ Provide an overview of a fuzzy subject !
 
 - Corporate finance digitalisation implementations, means & required skills
 - Understand the changing role of Corporte finance
-- Demystify Digital & Finance transformation
 
 - The course excludes non-digital Corporate Finance Transfo isues
 
