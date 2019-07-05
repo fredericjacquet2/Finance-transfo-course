@@ -21,7 +21,7 @@
 
 **This course is open source, copyright free**
 
-*written under [Reveal.js](https://revealjs.com/#/), [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
+*written under [Reveal.js](https://revealjs.com/#/), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
 
 *This release : June 19, 2019*
 
@@ -37,7 +37,7 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 
 In this chapter
 
-1. Course presentation (objectives, plan and story)
+1. Course presentation (objectives & couese plan)
 2. What is Digital ?
 3. What is Corporate finance function ?
 
@@ -77,16 +77,6 @@ Well, those are very much related to digital as well !
 - Chapter 5 = Implementing finance transformation
 
 You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
-
-----
-
-#### The Story (course in a nutshell) 
-
-1. By digitalizing its processes, Finance moves towards a **user-friendly and effective service provider** to the business. 
-
-2. The BPF (Business Partner Finance) leverages its contribution with big data & analytics, and gets into **predictive performance management**.  
-
-3. By embracing a panel of technology solutions, and developing appropriate skills, Finance builds the know-how to **lead the company’s Digital transformation**.
 
 ----
 
