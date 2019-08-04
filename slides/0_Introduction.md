@@ -19,7 +19,7 @@
 
 ---
 
-**This course is open source, copyright free**
+**This course is open source**
 
 *written under [Reveal.js](https://revealjs.com/#/), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
 
@@ -31,7 +31,7 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 
 ---
 
-## Chapter 0 : Introduction
+## Chapter 1 : Introduction
 
 ----
 
@@ -70,13 +70,14 @@ Well, those are very much related to digital as well !
 ----
 
 #### Course plan (if on PC, press ESC)  
-- Chapter 1 = Digitalising the corporate finance processes
-- Chapter 2 = Leveraging the "business partner finance" with Big data & Analytics
-- Chapter 3 = Technology & solutions
-- Chapter 4 = Required skills to manage the transformation
-- Chapter 5 = Implementing finance transformation
+- Chapter 1 = Introuction (course, digital and corporate finance presentation)
+- Chapter 2 = Digitalising the corporate finance processes
+- Chapter 3 = Leveraging the "business partner finance" with Big data & Analytics
+- Chapter 4 = Technology & solutions
+- Chapter 5 = Required skills to manage the transformation
+- Chapter 6 = Implementing finance transformation
 
-You may approach the course from the processes (ch 1 & 2), the solutions (ch 3), the implementation (ch 5).
+You may approach the course from the processes (ch 2 & 3), the solutions (ch 4), the implementation (ch 6).
 
 ----
 
@@ -122,4 +123,8 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-WIP (Work In Progress)
+<img src="images/corp fin org.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+end of the chapter
