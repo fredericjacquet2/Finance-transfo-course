@@ -1,4 +1,4 @@
-## Chapter 5 - Implementing digital transformation
+## Chapter 6 - Implementing digital transformation
 
 ----
 
