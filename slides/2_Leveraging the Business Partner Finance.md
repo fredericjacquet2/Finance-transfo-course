@@ -1,4 +1,4 @@
-## Chapter 2 - Leveraging the Business Partner Finance
+## Chapter 3 - Leveraging the Business Partner Finance
 
 ----
 
