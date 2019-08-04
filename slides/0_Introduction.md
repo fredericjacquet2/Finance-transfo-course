@@ -127,4 +127,8 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
+<img src="images/cforg.png">
+
+----
+
 end of the chapter
