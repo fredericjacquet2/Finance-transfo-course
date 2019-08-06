@@ -13,7 +13,7 @@ In this chapter
 ### 1. Soft skills
 
 What soft skills are required for the changing role of finance ? 
-Broadly speaking, it's around communication and agility, and I'll leave this up to you to think about.  
+Broadly speaking, it's around communication and agility.  
 
 Two questioning stereotypes to debate about this changing role :
 - From number cruncher to story teller ?
@@ -27,7 +27,7 @@ Two questioning stereotypes to debate about this changing role :
 
 - Waterfall Model : linear sequential flow through the phases of project implementation.    
 <img src="images/waterfall.gif" style="background:none; border:none; box-shadow:none;"/>     
-*Read more:[Wiki waterfall](https://en.wikipedia.org/wiki/Waterfall_model)*
+
 
 ----
 
@@ -48,7 +48,6 @@ Two questioning stereotypes to debate about this changing role :
 
 - Agile/SCRUM, main diffrence with Waterfall / V-cycle:      
 **The user (the client) participes to the project development cycle - no tunnel effect**    
-.    
 
 - Agile/SCRUM, a real added value:      
 **SCRUM translated informal best practices into a formal methodology : inspiring values, renamed roles and fancy ceremonies**
@@ -65,6 +64,9 @@ Two questioning stereotypes to debate about this changing role :
 - PRODUCT OWNER rather than client representative
 - STAND-UP MEETING (no seats, 2 min each, goal oriented = what I did / what I will do / what issues) rather than weekly/daily point
 - SPRINT (a set period of time during which specific tasks must be completed) rather then sub-project / set of tasks
+
+----
+
 - Deliverables are demo based (avoids the "almost done" syndrom)
 - Retrospective and continuous improvement (what worked, what not, and what could be improved)
 - And even "technical breakfast" as part of the methodology, and much more ...      
@@ -90,12 +92,11 @@ Two questioning stereotypes to debate about this changing role :
 The greatest expectation for people is to participate to change implementation, in a co-construction mode.  
 Finance, transverse business patner, is in the best position to federate this change in co-construction mode
 
-Change needs to be support by two vectors : 
-- Dedicated teams, whether internal or external consultants (it then develops a number of techniques based on instrumental and / or agile driving)
-- Management driven (managerial change management)
-
 ----
 
+Change needs to be supported by two vectors : 
+- Dedicated transformation teams, whether internal or external consultants (it then develops a number of techniques based on instrumental and / or agile driving)
+- Management driven (managerial change management)
 #### Change management has to become a daily managerial practice, in a process of tranversal co-construction
 
 ----
@@ -103,7 +104,11 @@ Change needs to be support by two vectors :
 ### 4. Technical / technology skills
 
 - How much do you need to know? Broad culture ? Specific know-how ?
-- Well ... How long does it take to learn ?  [so fast?](https://www.youtube.com/watch?v=zatL4uFRpC0) If not, adapt your knowledge to your role and needs.
+- Well ... [How long does it take to learn?](https://www.youtube.com/watch?v=zatL4uFRpC0) 
 - A broad technical understanding may be usefull though (refer to "Technology & Solutions" chapter).
-- **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz or an RPA software product).
+- **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz, or how to cinfigure an RPA software product to take care of low added value tasks).
+
+----
+
+*end of this chapter*
 
