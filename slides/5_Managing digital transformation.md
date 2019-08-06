@@ -39,7 +39,8 @@ yep, its vast!
 - **PEOPLE**      
  - Execution team : clear governance (roles, responsibilites, delegation), time allocation, skills, mindset
  - Users / stakeholders : **SEEK ADOPTION** change management / communication / training
- - Stakeholders management : align interests at all levels / deal with politics (internal conflicts) 
+ - Stakeholders management : align interests at all levels / deal with politics (internal conflicts)
+ - Forecast general resistance to change (indivudual and organisational) and identify organisational & social issue
 
 ----
 
@@ -54,6 +55,7 @@ yep, its vast!
   - Avoid "tool first" approach
   - Right tool for the right need : specs, thorough thinking and choice
   - Adapt choice complexity to stake at hand     
+  - Market-leading software applications, designed for specific processes and/or broad software products requiring (robots, chabots, data analysis, datavisualisation). All requiring simplified integration (opened, « IT backbone » ERP)
 
 ----
 
