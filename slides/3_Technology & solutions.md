@@ -3,27 +3,49 @@
 ----
 
 In this chapter
-1. Off-the-shelf products, a broadly used technology
-2. RPA Robotic Process Automation
-3. Chatbots
-4. BI softwares
-5. Big Data & analytics
-6. IA
-7. Blockchain
-8. Clear on Cloud, Saas and the like ?
-9. Clear on what's an ERP ?
+1. Clear on Saas and the like?
+2. Clear on what's an ERP ?
+3. Off-the-shelf products, a broadly used technology
+4. RPA Robotic Process Automation 
+5. Chatbots
+6. BI softwares
+7. Big Data & analytics / IA / Blockchain
 
 ----
 
-### 1. Off-the-shelf products 
+### 1. Clear on Saas and the like?
+
+Usual apps run more & more in Saas mode (Software as a service or Cloud app services). 
+"Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
+See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
+
+*From an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
+
+----
+
+### 2. Clear on what's an ERP ?
+ERP (Enterprise Resource Planning) = a group of interconnected modules + a database.
+
+[see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
+
+[and here for a neat video to summarize the transversal role of an ERP] (https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+
+----
+
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+
+----
+
+### 3. Off-the-shelf products 
+A number of "products" handle automatisaiotn of trasnacitonal processes:
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting)    
-<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+
 *Include and/or can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
 
 ----
 
-### 2. RPA Robotic Process Automation
+### 4. RPA Robotic Process Automation
 
 A robot automates human tasks, it works ideally if : 
 - very repetitive tasks
@@ -49,7 +71,7 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 ----
 
-### 3. Chatbots (WIP)
+### 5. Chatbots (WIP)
 
 - Chatbot = a talking robot (imitates human conversations through voice and/or text chats).    
 - Chatbot minimizes response time & improves customer experience.    
@@ -65,38 +87,15 @@ Video : [Chatbot in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) and vide
 
 ----
 
-### 4. BI softwares (WIP)
+### 6. BI softwares (WIP)
 
 https://www.archerpoint.com/business-intelligence-bi-software
 
 ----
 
-### 5. Big Data & analytics (WIP)
+### 7. Big Data & analytics / IA/ Blockchain 
+
+WIP Work In Progress 
 
 ----
-
-### 6. IA (WIP)
-
-----
-
-### 7. Blockchain (WIP)
-
-----
-
-### 8. Clear on Cloud, Saas and the like ?
-
-Usual apps run more & more in Saas mode (Software as a service or Cloud app services). See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
-*Understand that from an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
-
-----
-
-### 9. Clear on what's an ERP ?
-ERP (Enterprise Resource Planning):
-- known as Integrated Management Software for companies,
-- defined as a group of interconnected modules + a database.
-
-
-[Course on ERP](https://github.com/fredericjacquet2/Finance-transfo-course/edit/master/slides/1_Digitalisation%20of%20the%20Finance%20function%20processes.md)
-
-Neat video to summarize the transversal role of an ERP :Video SAP HANA = https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4
 
