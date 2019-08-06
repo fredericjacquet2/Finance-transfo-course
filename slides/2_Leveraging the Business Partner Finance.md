@@ -11,14 +11,14 @@ In this chapter:
 
 - A finance function closer to the business ("business partner finance") 
 - A finance function closer to technology (IT/ BI / EPM... )
-- À finance function Master of the Data
+- A finance function Master of the Data
 - Predictive rather than reactive
 
 ----
 
 > QUOTE by Accenture (" Finance 2020 ")  
 
-"Finance is doing things that it never could before thanks to digital technologies. End-to-end multi-dimensional data access is enabling total visibility into both enterprise and customer data. The result? The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value. Tomorrow’s digital finance organization deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future."
+"Finance is doing things that it never could before thanks to digital technologies. The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value. Tomorrow’s digital finance organization deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future."
 
 ----
 
@@ -29,8 +29,6 @@ WIP (Work In Progress)
 "Finance ...."
 
 ----
-
-Dassault Systèmes Corporate Finance--2030
 
 <img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
 
@@ -48,7 +46,7 @@ A two-fold approach for the Business Partner Finance :
 - TPO is dedicated to sales & forecasters teams, with responsibility assigned to Finance
 - allowed to consolidate Business Partnering
 - Development of IA Machine learning models, Big Data & Data analytics
-- Result : an engine that can forecast promotion ROI based on innumerous variables (multiple products, dozens of segments, specific stores, time of year).
+- Result : forecast promotion ROI on innumerous variables (multiple products, dozens of segments, specific stores, time of year).
 
 ----
 
@@ -59,14 +57,16 @@ A two-fold approach for the Business Partner Finance :
 - Specific focus : Customer acquisition cost 
 - Initial information : net cost of promotional offers, market share evolution, BU profitability
 
+----
+
 Key questions: 
 - What is the impact of the promotional offer on increasing market share? 
 - What is the ROI of the promotional offers ?
 
-----
-
 To provide some answers:
 - Understand and differentiate player behaviours and player types according to presnet & future context
+
+----
 
 The project:
 - Setting up a project-oriented organization, lead CFO + CDO
