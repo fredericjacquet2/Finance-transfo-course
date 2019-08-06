@@ -25,6 +25,9 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 2. Online form with supporting documents in pdf
 3. OCR (optical character recognition) on smartphone, form created within seconds, VAT extract, proof registration
 4. Expense form validation without human intervention (check policies, agenda, CRM, T&E ...)
+
+----
+
 <img src="images/Jenji.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -71,6 +74,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 ##### S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
+
+----
 
 - Products usually include dematerialisation functionalities, OCR, supplier portal
 - Relative ease of interface with ERP system (invoice and payment information)    
@@ -129,19 +134,15 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 ----
 
 **People**    
-- Implementation team skills (soft & hard)
-- Users training if needed
-- General resistance to change : indivudual and organisational
-- Organisational & social issue
-
-**Tools / technical isues**    
-- Market-leading software applications
- - Software products designed for a specific process
- - Broad software products requiring (robots, chabots, data analysis, datavisualisation) 
-- Simplified integration (opened, « IT backbone » ERP)
+- Execution team skills & stakeholder adoption
 
 **Processes**    
 - Well defined & well applied !
+
+**Tools / technical isues**    
+- The right tehcnical solution for the need
+
+*See more in chapter 6 (Implementation)*
 
 ----
 
@@ -150,8 +151,8 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 **Digitalisation of existing processes** 
 - dematerialization (including OCR) 
 - automatisation/robotisation (simplify process management & remove low-added value tasks)
-- analysis/visualisation (taylored extracts with fancy presentation)    
+- analysis/visualisation (real time analysis and taylored extracts with fancy presentation)    
 
 A unique Opportunity to offer more responsive, available, and user-friendly finance tools
 
-for a revamped and fancy finance
+**for a revamped and fancy finance**
