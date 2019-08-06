@@ -3,11 +3,11 @@
 ----
 
 In this chapter:
-1. Stats : where do we stand today ? 
+1. Statistics: where do we stand today? 
 2. Key success factors : people, processes, tools
-3. Global or local ?
+3. Global or local?
 4. Changes in the finance function
-5. WIIFM ?
+5. WIIFM?
 
 ----
 
@@ -15,13 +15,17 @@ In this chapter:
 
 ----
 
-> Stats from organisations panel 75% large groups / 25% SMEs
-> Source : Les Echos Executive, March 2019
+> Source : Les Echos Executive, March 2019 (organisations panel 75% large groups / 25% SMEs)
 
 **Organisations having implemented digitalisation projects**
 - P2P process (56% of the panel), Data visualisaiton (39%), RPA (30%), R2R (23%)
 - Predictive analytics, IA or Blockchain : 4% of the panel (with 18% envisaging a predictive / IA project on a short-medium term)
-**Main issues mentioned :**
+
+----
+
+> Source : Les Echos Executive, March 2019 (organisations panel 75% large groups / 25% SMEs)
+
+**Main issues mentioned**
 - cultural transformation / change management
 - dealing with legacy IT / SW tools compared to new tech
 - ressources allocation & competence management      
@@ -72,21 +76,21 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 #### Global : a clear vision & plan      
 
-***Define the strategic vision (where we want to go)***       
+***1. Define the strategic vision (where we want to go)***       
 - Build a vision of a target state (objectives and impact)
 - A clearly stated vision helps align everyone’s actions     
 
 
-***Engage stakeholders***
+***2. Engage stakeholders***
 - Ensure everyone understands the why
 - Secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
 
 ----
 
-***Ensure proper planning***
+***3. Ensure proper planning***
 - Plan relatively clear tasks and milestones, including quickwins to boost motivation      
 
-***Budget for sufficient resources and expertise***
+***4. Budget for sufficient resources and expertise***
 - Internal team with right knowledge, authority, external support
 
 ----
@@ -99,8 +103,6 @@ Well it all works. But not with the same paste / scale / pleasure !
 - Hard (tools, tehcnology, SAP4Hana convergence)
 - Soft around change management
 
-Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) end 2017
-
 ----
 
 #### Local initiatives
@@ -108,6 +110,8 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 A large source of Digital inspiration !
 
 Local initiatives are everywhere (with or without a Global strategy) 
+
+----
 
 > Case example : Managing signature books (parapheurs in French) in a large European group     
 
@@ -123,6 +127,8 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ### 4. Digital transformation : changes in the finance function   
 
+----
+
 #### Digtial changes role & organisation of Corporate finance
 
 - Organisation progressivelly adds Data management capacities 
@@ -137,6 +143,10 @@ Local initiatives are everywhere (with or without a Global strategy)
 [The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
 What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
 
+Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) end 2017
+
+----
+
 > Key slills, by M. Page (CFO baromter)      
 - *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
 - *learning new methods and technologies such as data analytics, and* 
@@ -146,9 +156,9 @@ What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.a
 
 #### What is at stake for the finance funciton ? 
 
-- Keeping the company up-to-speed ?
-- Re-inventing a more "fancy" and business oriented Corporate finance ? 
-- Having Finance to become the digital leader or to loose its central role on numbers ? As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company?     
+- Having Finance to become the digital leader or to loose its central role on numbers ? 
+
+As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company?     
 [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
 
 ##### Finance evolution = « business partner » or Expert ? An existential challenge ?  
@@ -157,9 +167,8 @@ What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.a
 
 ### 5. WIIFM (What's in it for me) ? 
 
-- Is my present job/role impacted by those initiatves ? Good or bad news ?
-- How is digital considered within the organisation ? Does it create value to the Finance team ?
-- Does it create value to my personal profile ? Do I have a personal interest in this field (tech addict, change, new, fun...)?    
-
+- Is my present job/role impacted by those initiatves, good or bad news ?
+- How is digital considered within the organisation, does/could it create value to the Finance team ?
+- Does/could it create value to my personal profile ?    
 
 #### An annoyance or a hobby, a side-duty or a full time job ?
