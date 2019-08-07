@@ -3,7 +3,8 @@
 #### By
 #### Frédéric Jacquet
 
-- If on smartphone or tablet: you are OK / if on PC : reduce screen to ~ 50%
+- If on smartphone or tablet: you are OK
+- If on PC : reduce screen to ~ 50%
 - Move with arrows (bottom righ) or slide through
 
 ---
