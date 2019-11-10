@@ -28,7 +28,17 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 
 [see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
 
-[and here for a neat video to summarize the transversal role of an ERP] (https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+[and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+
+----
+
+A vast number of ERP products (hundreds if not housands). 
+Three leaders, concentrating 50% of th emarket:
+- SAP
+- ORACLE
+- Miscroft Dynamics    
+
+[see more](http://www.businessnsoftware.com/erp-market-share/)
 
 ----
 
