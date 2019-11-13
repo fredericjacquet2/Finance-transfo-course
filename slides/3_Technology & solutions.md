@@ -30,6 +30,9 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 
 [and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
 
+[and here to discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)
+
+
 ----
 
 A vast number of ERP products (hundreds if not housands). 
