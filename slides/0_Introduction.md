@@ -62,8 +62,11 @@ Provide an overview of a fuzzy subject !
 **What are non-digital Finance Transformation issues (the ones excluded from this course) ?** 
 
 - Dealing with new regulatory / compliance requirements (GDPR...)
-- Shifting Finance towards a business partner mindset
+
+- Shifting Finance towards a business partner mindset. "Our controllers may understand the figures but not what it takes to improve them". Shifting from viewing finance as a cost center to seeing it as a profit center.      
+
 - Cash is King / cash improvement initiatives
+
 - Implementing SSC (Shared Services Centers)    
 
 Well, those are very much related to digital as well !   
