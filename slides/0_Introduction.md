@@ -119,6 +119,14 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
+What is the Digital maturity of you rbusiness :       
+
+- [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
+
+.... and th eone of your finance function : [Oracle test](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      
+
+----
+
 ### 3. What is the Corporate Finance function ?
 
 - How is it usually organised ?
