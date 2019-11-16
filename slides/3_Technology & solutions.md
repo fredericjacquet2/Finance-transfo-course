@@ -15,7 +15,8 @@ In this chapter
 
 ### 1. Clear on Saas and the like?
 
-Usual apps run more & more in Saas mode (Software as a service or Cloud app services). 
+Usual apps run more & more in Saas mode (Software as a service, or Cloud app services).
+Saas mode replace the "on-premise" architecture, based on a Software hosted within the company's facilities.
 "Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
 See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 
