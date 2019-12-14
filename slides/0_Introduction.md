@@ -1,20 +1,8 @@
 ## Digital and Corporate Finance Transformation  
 
-#### By
-#### Frédéric Jacquet
 
-- If on smartphone or tablet: you are OK
-- If on PC : reduce screen to ~ 50%
-- Move with arrows (bottom righ) or slide through
-
----
-
-### Who I am?
-
-> Frédéric Jacquet<br />
+> by Frédéric Jacquet<br />
 > CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC    
-
-[My LinkedIn profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
 
 [www.teolia.fr](https://www.teolia.fr/)
 
@@ -24,10 +12,10 @@
 
 *written under [Reveal.js](https://revealjs.com/#/), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
 
-*This release : WIP August, 2019*
+*This release : WIP December, 2019*
 
 **To enjoy a live session of this course:      
-contact me (frederic.jacquet@teolia.fr) or      
+contact me (frederic.jacquet@edhec.com) or      
 join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
