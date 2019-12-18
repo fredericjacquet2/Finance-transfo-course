@@ -2,9 +2,9 @@
 
 
 > by Frédéric Jacquet<br />
-> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC    
+> CFO at [Teolia](https://www.teolia.fr/), Creative IT advisory, and Affiliate Professor at EDHEC    
 
-[www.teolia.fr](https://www.teolia.fr/)
+
 
 ---
 
@@ -26,13 +26,84 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 
 In this chapter
 
-1. Course presentation (objectives & course plan)
-2. What is Digital ?
-3. What is Corporate finance function ?
+1. What is Digital ?
+2. What is Corporate finance function ?
+3. Course presentation (objectives & course plan)
 
 ----
 
-### 1. Course presentation (objectives, plan and story)
+### 1. What is Digital ?
+
+- Loads of definitions ! A matter of perception   
+
+- My prefered definition = technologies, business models and usages driven by intersection of SMAC   
+
+Social media, Mobility, Analytics (big data), Cloud    
+= the 4 pilars of Digital
+
+----
+
+Each SMAC component offers specific services to the business  
+- Social media widens the scope of communication and information 
+- Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime)
+- Analytics provides opportunities to analyze Big Data  
+- Cloud removes physinal barriers for storing and accessing information  
+These four independent technologies combine to form a number of solutions changing our daily lives. 
+
+----
+
+<img src="images/smac.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+#### Is Digital such a revolution ? 
+
+- Yes it is !  
+- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
+- But definitlely the fastest one humanity ever faced   
+- From change to agility    
+
+----
+
+What is the Digital maturity of you rbusiness :       
+
+- [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
+
+.... and th eone of your finance function : [Oracle test](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      
+
+----
+
+### 2. What is the Corporate Finance function ?
+
+- What is its role ?
+- How is it usually organised ?
+- Which processes does it manage ?
+
+----
+
+<img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+The classical agenda : 
+- Ensuring quality and conformity of financial information
+- Calculating costs and profitability of activtities
+- Optimising cash and financing
+
+----
+
+The new agenda / latest trends :
+
+- Becoming a business partner : strategy / M&A / FP&A. From cost control to business analysis, finance as profit center rather then cost center ("our controllers may understand the figures but not what it takes to improve them")
+- Dealing with new compliance requirements (GDPR, compliance...) : from expertise to training and IT management
+
+Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR
+Externalisation par mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)
+Mener la transformation organisationnelle et technologique des processus
+Tous ces enjeux sont fortement liés au digital !
+
+----
+### 3. Course presentation (objectives, plan and story)
 
 ----
 
@@ -73,60 +144,7 @@ Well, those are very much related to digital as well !
 
 You may approach the course from the processes (ch 2 & 3), the solutions (ch 4), the implementation (ch 6).
 
-----
+---- 
 
-### 2. What is Digital ?
-
-- Loads of definitions !    
-
-- A matter of perception   
-
-- My prefered definition = technologies, business models and usages driven by intersection of SMAC   
-
-Social media, Mobility, Analytics (big data), Cloud    
-= the 4 pilars of Digital
-
-----
-
-Each SMAC component offers specific services to the business  
-- Social media widens the scope of communication and information 
-- Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime)
-- Analytics provides opportunities to analyze Big Data  
-- Cloud removes physinal barriers for storing and accessing information  
-These four independent technologies combine to form a number of solutions changing our daily lives. 
-
-----
-
-<img src="images/smac.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-#### Is Digital such a revolution ? 
-
-- Yes it is !  
-- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
-- But definitlely the fastest one humanity ever faced   
-- From change to agility    
-
-----
-
-What is the Digital maturity of you rbusiness :       
-
-- [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
-
-.... and th eone of your finance function : [Oracle test](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      
-
-----
-
-### 3. What is the Corporate Finance function ?
-
-- How is it usually organised ?
-- Which processes does it manage ?
-
-----
-
-<img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
 
 *end of the chapter*
