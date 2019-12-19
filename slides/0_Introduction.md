@@ -65,7 +65,7 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-What is the Digital maturity of you rbusiness :       
+What is the Digital maturity of your business :       
 
 - [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
 
@@ -81,10 +81,6 @@ What is the Digital maturity of you rbusiness :
 
 ----
 
-<img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
 The classical agenda : 
 - Ensuring quality and conformity of financial information
 - Calculating costs and profitability of activtities
@@ -94,30 +90,53 @@ The classical agenda :
 
 The new agenda / latest trends :
 
-- Becoming a business partner : strategy / M&A / FP&A. From cost control to business analysis, finance as profit center rather then cost center ("our controllers may understand the figures but not what it takes to improve them")
-- Dealing with new compliance requirements (GDPR, compliance...) : from expertise to training and IT management
-
-Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR
-Externalisation par mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)
-Mener la transformation organisationnelle et technologique des processus
-Tous ces enjeux sont fortement liés au digital !
+- Becoming a business partner (strategy / M&A / FP&A)   
+- Dealing with new regulatory / compliance requirements
+- Cash culture / cash is king
+- CSC shared Service Centers : externalisation, mutualisation, efficiency
+- Managing organisaitonal & technological process transformation    
 
 ----
+
+<img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
+"CFO: Architect of the Corporation's Future", PWC, 1997.
+
+----
+
+<img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
 ### 3. Course presentation (objectives, plan and story)
-
-----
-
-#### Course objectives  
-
 Provide an overview of a fuzzy subject !   
-
 - Corporate finance digitalisation implementations, means & required skills
 - Understand the changing role of Corporte finance
 
-- The course excludes non-digital Corporate Finance Transfo isues
+----
+
+#### Course plan (if on PC, press ESC)  
+- Chapter 1 = Introduction
+- Chapter 2 = Digitalising corporate finance processes (transactional & reporting)
+- Chapter 3 = Leveraging the "business partner finance" with Big data & Analytics
+- Chapter 4 = Technology & solutions
+- Chapter 5 = Required skills 
+- Chapter 6 = Implementing finance transformation
 
 ----
 
+*end of the chapter*
+
+----
+
+The new agenda / latest trends :
+
+- Becoming a business partner (strategy / M&A / FP&A). From cost control to business analysis, transforming finance from a cost center to a profit center   
+- Dealing with new compliance requirements (GDPR, compliance...) : from expertise to training and IT management
+- Cash culture / cash is king (cash pooling & working cap optimization)
+- CSC (shared Service Centers) : externalisation for greater mutualisation & efficiency (objectives, scope & distance, process, ROI, change)
+- Managing organisaitonal & technological process transformation     
+
+Well those ar eall very much linked to digital !
 **What are non-digital Finance Transformation issues (the ones excluded from this course) ?** 
 
 - Dealing with new regulatory / compliance requirements (GDPR...)
@@ -130,21 +149,3 @@ Provide an overview of a fuzzy subject !
 
 Well, those are very much related to digital as well !   
 
-----
-
-#### Course plan (if on PC, press ESC)  
-- Chapter 1 = Introduction (course, digital and corporate finance presentation)
-- Chapter 2 = Digitalising the corporate finance processes (both transacitonal and reporting processes)
-- Chapter 3 = Leveraging the "business partner finance" with Big data & Analytics
-- Chapter 4 = Technology & solutions
-- Chapter 5 = Required skills to manage the transformation
-- Chapter 6 = Implementing finance transformation
-
-----
-
-You may approach the course from the processes (ch 2 & 3), the solutions (ch 4), the implementation (ch 6).
-
----- 
-
-
-*end of the chapter*
