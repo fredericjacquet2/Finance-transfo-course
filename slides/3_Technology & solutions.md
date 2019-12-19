@@ -15,7 +15,8 @@ In this chapter
 
 ### 1. Clear on Saas and the like?
 
-Usual apps run more & more in Saas mode (Software as a service or Cloud app services). 
+Usual apps run more & more in Saas mode (Software as a service, or Cloud app services).
+Saas mode replace the "on-premise" architecture, based on a Software hosted within the company's facilities.
 "Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
 See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 
@@ -28,7 +29,20 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 
 [see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
 
-[and here for a neat video to summarize the transversal role of an ERP] (https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+[and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+
+[and here to discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)
+
+
+----
+
+A vast number of ERP products (hundreds if not housands). 
+Three leaders, concentrating 50% of th emarket:
+- SAP
+- ORACLE
+- Miscroft Dynamics    
+
+[see more](http://www.businessnsoftware.com/erp-market-share/)
 
 ----
 
