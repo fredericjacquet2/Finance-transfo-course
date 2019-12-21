@@ -58,18 +58,13 @@ These four independent technologies combine to form a number of solutions changi
 
 #### Is Digital such a revolution ? 
 
-- Yes it is !  
-- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
+- Yes it is! Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
 - But definitlely the fastest one humanity ever faced   
 - From change to agility    
 
-----
-
 What is the Digital maturity of your business :       
-
 - [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
-
-.... and th eone of your finance function : [Oracle test](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      
+- ... and the one of your finance function : [Oracle test](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      
 
 ----
 
@@ -90,16 +85,16 @@ The classical agenda :
 
 The new agenda / latest trends :
 
-- Becoming a business partner (strategy / M&A / FP&A)   
+- Becoming a business partner (strategy / M&A / FP&A biz analysis)   
 - Dealing with new regulatory / compliance requirements
 - Cash culture / cash is king
 - CSC shared Service Centers : externalisation, mutualisation, efficiency
-- Managing organisaitonal & technological process transformation    
+- Managing organisational & technological process transformation    
 
 ----
 
 <img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
-"CFO: Architect of the Corporation's Future", PWC, 1997.
+CFO Architect of Corporation's Future", PWC, 1997
 
 ----
 
@@ -107,9 +102,9 @@ The new agenda / latest trends :
 
 ----
 
-### 3. Course presentation (objectives, plan and story)
-Provide an overview of a fuzzy subject !   
-- Corporate finance digitalisation implementations, means & required skills
+### 3. Course presentation
+- Provide an overview of a fuzzy subject : Corporate Finance transformation !   
+- Digitalisation implementations : objectices, means & required skills
 - Understand the changing role of Corporte finance
 
 ----
