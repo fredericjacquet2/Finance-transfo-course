@@ -1,21 +1,23 @@
-## Chapter 2 - Digitalisation of the Finance function processes
+## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
-----
-
-In this chapter
-1. An example : expense process digitalisation
-2. Objectives of process digitalisation projects
-3. What processes can be digitalised? A few examples:
-  - T&E, S2P, P2P, R2R (dematerialisation + automatization / robotisation)
-  - Reporting, cost control & Performance management (data analysis and datavisulisation) 
+1. General Objectives
+2. Processes : T&E, S2P, P2P, R2R : dematerialisation + automatization / robotisation
+3. RPA tools to further ease digitalisation
 4. Complexity of process digitalisation projects
 
 ----
 
-### 1. An example to start with : digitalising the expense report process
+### 1. General objectives of digitalisation projects   
+- Cost reduction of processing
+- Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
+- [ Reduction of low added value tasks] 
+
+----
+
+### 2. T&E process 
 
 <img src="images/expense9.jpg" style="background:none; border:none; box-shadow:none;"/>
-What’s  the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
+Detail flowchart above for your organisation. What’s the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
 
 ----
 
@@ -32,7 +34,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### Objectives of an Expense report digitaliation project
+##### Objectives of T&E digitaliation project
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
@@ -40,7 +42,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### Complexitiy of implementing an Expense report digitalisation project ? 
+##### Complexitiy of implementing a T&E digitalisation project ? 
 
 - Low-cost « off the shelf »  applications 
 - Simplicity of integration on increasingly opened IT / ERP systems 
@@ -58,20 +60,10 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 - Integration with HR & finance systems  
 - Result : 100 countries, 100 000 users, 1 million expenses/year, an apps elected 2nd prefered apps by employees on our intranet portal.
 
-----
-
-### 2. General objectives of digitalisation projects   
-- Cost reduction of processing
-- Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
-- [ Reduction of low added value tasks] 
 
 ----
 
-### 3. What processes can be digitalised ? A few examples
-
-----
-
-##### S2P Source to Pay / P2P Procure-to-Pay     
+### 3. S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
@@ -92,7 +84,7 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### R2R Record to Report / Financial close & bank reconciliation automatization    
+### 4. R2R Record to Report / Financial close & bank reconciliation automatization    
 
 - Needs clear and coordinated processes
 - Organisational impacts      
@@ -109,38 +101,13 @@ What’s  the degree of Digital maturity of your « Expense report process  »
 
 ----
 
-##### Reporting, cost control & Performance management 
+### 5. Process digitalisation complexity : sucess is a combination of people, processes, tools
 
-- Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
-- Datavisualisation = customed extraction & presentation, tailored to user needs    
+- **People** : execution team skills & stakeholder adoption
 
-*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management softwares* 
+- **Processes** : well defined & well applied !
 
-----
-
-<img src="images/bi2.jpg" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-> Case example IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
-
-- Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
-- Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
-
-----
-
-### 4. Process digitalisation complexity : sucess is a combination of people, processes, tools
-
-----
-
-**People**    
-- Execution team skills & stakeholder adoption
-
-**Processes**    
-- Well defined & well applied !
-
-**Tools / technical isues**    
-- The right tehcnical solution for the need
+- **Tools / technical isues** : the right technical solution for the need
 
 *See more in chapter 6 (Implementation)*
 
