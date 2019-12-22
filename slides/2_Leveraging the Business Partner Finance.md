@@ -1,9 +1,27 @@
-## Chapter 3 - Leveraging the Business Partner Finance
+## Chapter 3 - Digitalising Performance management : leveraging the Business Partner Finance
+
+1. Reporting, cost control & Performance management digitalisation: data analysis and datavisulisation 
+2. Going **beyond digitalising existing processes**, and moving towards predictive performance management with Machine learning over Big Data & Analytics
 
 ----
 
-In this chapter:
-- Going **beyond digitalising existing processes**, and moving towards predictive performance management with Machine learning over Big Data & Analytics
+##### Digitalisation of Reporting, cost control & Performance management 
+
+- Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
+- Datavisualisation = customed extraction & presentation, tailored to user needs    
+
+*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management softwares* 
+
+----
+
+<img src="images/bi2.jpg" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+> Case example IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
+
+- Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
+- Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
 
 ----
 
