@@ -4,7 +4,7 @@
 2. T&E, S2P / P2P, R2R : dematerialisation + automatization / robotisation
 3. Introducing a few basics on Saas, ERP and "off-the-shelf" products 
 3. RPA tools to further ease digitalisation
-4. Complexity of thoses projects
+4. Implementing those projects
 
 ----
 
