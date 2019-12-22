@@ -1,9 +1,10 @@
 ## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
 1. General Objectives
-2. Processes : T&E, S2P, P2P, R2R : dematerialisation + automatization / robotisation
+2. T&E, S2P / P2P, R2R : dematerialisation + automatization / robotisation
+3. Introducing a few basics on Saas, ERP and "off-the-shelf" products 
 3. RPA tools to further ease digitalisation
-4. Complexity of process digitalisation projects
+4. Complexity of thoses projects
 
 ----
 
@@ -14,7 +15,7 @@
 
 ----
 
-### 2. T&E process 
+### 2.a. T&E process 
 
 <img src="images/expense9.jpg" style="background:none; border:none; box-shadow:none;"/>
 Detail flowchart above for your organisation. What’s the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
@@ -63,7 +64,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-### 3. S2P Source to Pay / P2P Procure-to-Pay     
+### 2.b. S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
@@ -84,7 +85,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-### 4. R2R Record to Report / Financial close & bank reconciliation automatization    
+### 2.c. R2R Record to Report / Financial close & bank reconciliation automatization    
 
 - Needs clear and coordinated processes
 - Organisational impacts      
@@ -98,6 +99,10 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 - Implementation of Blackline in 4 months to manage closing, bank reconciliation, accounts justification and accounting entries on top of ERPs
 - Objectives : improve compliance, real-time collaboration of teams, closing process visibility
 - Result : harmonisation of closing process over the group
+
+----
+
+RPA 
 
 ----
 
