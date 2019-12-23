@@ -1,8 +1,5 @@
 ## Chapter 5 - Skills & competencies
 
-----
-
-In this chapter
 1. Soft skills
 2. Project Management skills 
 3. Change Management skills
@@ -10,7 +7,7 @@ In this chapter
 
 ----
 
-### 1. Soft skills
+### Chapter 5.1. Soft skills
 
 What soft skills are required for the changing role of finance ? 
 Broadly speaking, it's around communication and agility.  
@@ -21,7 +18,7 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-### 2. Project Management skills
+### Chapter 5.2. Project Management skills
 
 #### Waterfall & V-cycle
 
@@ -74,7 +71,7 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-### 3. Change Management skills (WIP)
+### Chapter 5.3. Change Management skills (WIP)
 
 > It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.    
 *Charles Darwin*
@@ -83,14 +80,9 @@ Two questioning stereotypes to debate about this changing role :
 
 #### Understand the resistance to change / the change cycle
 
-[French video](https://www.youtube.com/watch?v=y7MkBQ1Vv2k)
-
 > Why Do Employees Resist Change? By HBR [here](https://hbr.org/1996/05/why-do-employees-resist-change?referral=03759&cm_vc=rr_item_page.bottom)
 
-----
-
 The greatest expectation for people is to participate to change implementation, in a co-construction mode.  
-Finance, transverse business patner, is in the best position to federate this change in co-construction mode
 
 ----
 
@@ -101,14 +93,13 @@ Change needs to be supported by two vectors :
 
 ----
 
-### 4. Technical / technology skills
+### Chapter 5.4. Technical / technology skills
 
 - How much do you need to know? Broad culture ? Specific know-how ?
-- Well ... [How long does it take to learn?](https://www.youtube.com/watch?v=zatL4uFRpC0) 
-- A broad technical understanding may be usefull though (refer to "Technology & Solutions" chapter).
-- **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz, or how to cinfigure an RPA software product to take care of low added value tasks).
+- A broad technical understanding may be usefull (refer to "Technology & Solutions" chapter).
+- **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz, or how to configure an RPA software product to take care of low added value tasks).
 
 ----
 
-*end of this chapter*
+*end of this chapter 5*
 
