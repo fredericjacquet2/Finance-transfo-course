@@ -210,5 +210,5 @@ An Opportunity to offer more responsive, available, and user-friendly finance to
 
 ----
 
-* End of Chapter 2 *
+*End of Chapter 2*
 
