@@ -1,8 +1,5 @@
-## Chapter 6 - Implementing digital transformation
+## Chapter 4 - Implementing digital transformation
 
-----
-
-In this chapter:
 1. Statistics: where do we stand today? 
 2. Key success factors : people, processes, tools
 3. Global or local?
@@ -11,7 +8,7 @@ In this chapter:
 
 ----
 
-### 1. A few stats on where we are on finance transformation
+### Chapter 4.1. A few stats on where we are on finance transformation
 
 ----
 
@@ -32,7 +29,7 @@ In this chapter:
 
 ----
 
-### 2. Key success factors for any digitalisation project
+### Chapter 4.2. Key success factors for any digitalisation project
 
 It holds in 3 words: people, processes, tools   
 
@@ -63,7 +60,7 @@ yep, its vast!
 
 ----
 
-### 3. Global or local ?  
+### Chapter 4.3. Global or local ?  
 
 - Global digital strategy (look at Michelin) 
 - or Short steps / local initiatives / quickwinns 
@@ -125,7 +122,7 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-### 4. Digital transformation : changes in the finance function   
+### Chapter 4.4. Digital transformation : changes in the finance function   
 
 ----
 
@@ -154,7 +151,7 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 
 ----
 
-#### What is at stake for the finance funciton ? 
+#### What is at stake for the finance function ? 
 
 - Having Finance to become the digital leader or to loose its central role on numbers ? 
 
@@ -165,10 +162,15 @@ As digital remove silos, could there be a competition between Finance, IT and Ma
 
 ----
 
-### 5. WIIFM (What's in it for me) ? 
+### Chapter 4.5. WIIFM (What's in it for me) ? 
 
 - Is my present job/role impacted by those initiatves, good or bad news ?
 - How is digital considered within the organisation, does/could it create value to the Finance team ?
 - Does/could it create value to my personal profile ?    
 
 #### An annoyance or a hobby, a side-duty or a full time job ?
+
+----
+
+*end of chapter 4*
+
