@@ -5,7 +5,7 @@
 
 ----
 
-##### Digitalisation of Reporting, cost control & Performance management 
+#### Chapter 3.1 Digitalisation of Reporting, cost control & Performance management (FP&A)
 
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
@@ -25,7 +25,51 @@
 
 ----
 
-##### Business Partner Finance : from cost control towards performance management in predictive mode
+### Technology : BI, OLAP cube, Dataviz and EPM
+
+- Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
+- BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information.     
+- BI end-user functionalities : drill-down / roll-up, ad-hoc reports, interactive dashboards, mobile reports ...     
+
+----
+
+Data management (from raw data to fancy reporting)      
+<img src="images/OLAP3.jpg" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+
+-	First challenge : centralising the data in a single Warehose (ETL products)     
+-	Second challenge : have a quick & efficient access to required information (the OLAP cube)     
+-	Third challenge : presenting the information in a clear, nice and tailored manner to the user (data visualisation functionalities)     
+-	And a last challenge (for next chapter) : finding patterns in the warehouse’s data, in order to predict trends.  
+
+----
+
+The OLAP cube (Online Analytical Processing) : 
+
+-	Pre-compute all the totals and subtotals needed for reporting
+-	Totals are stored in a special database called « OLAP cube » which is a snapshot of data at a specific point of time.
+-	OLAP cube efficiency : instant access to data (no need to loop through any transaction, as all totals are precalculated)
+[5 min on OLAP & Relational DB](https://www.youtube.com/watch?v=2ryG3Jy6eIY)
+
+----
+
+<img src="images/olap3.png" style="background:none; border:none; box-shadow:none;"/>      
+
+More details on Bi implementation [here](https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/)
+
+----
+
+BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...        
+
+OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS,          
+
+FP&A / EPM (Enterprise Performance Management) products: Anaplan,       
+
+----
+
+
+#### Chapter 3.2 : Leveraging the Business Partner Finance with Big Datza & Analytics (from cost control towards performance management in predictive mode)
 
 - A finance function closer to the business ("business partner finance") 
 - A finance function closer to technology (IT/ BI / EPM... )
@@ -68,7 +112,15 @@ A two-fold approach for the Business Partner Finance :
 
 ----
 
-> Illustration : Online sports betting actor     
+### Technology : Big Data & analytics / IA (wip)
+
+----
+
+<img src="images/BIGData.png" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+
+> APPENDIX / Illustration : Online sports betting actor     
 
 - Market : very competitive + strong growth
 - Objectives : increase market share and profitability of the sport betting activity
@@ -101,3 +153,7 @@ Result:
 - Predictive analysis
 - Optimization of customer acquisition cost, depending on the context (type of game, games to come)
 - Improved sports BU profitability
+
+----
+
+* end of chapter 3 * 
