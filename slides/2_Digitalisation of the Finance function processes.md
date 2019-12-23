@@ -1,9 +1,9 @@
 ## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
-1. Introduction : general objectives of digitalisation projects
+1. General objectives of digitalisation projects
 2. Main process digitalisation : T&E, S2P / P2P, R2R (dematerialisation + automatization / robotisation)
 3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
-4. Conclusion : implementing those projects, a winning solution
+4. Implementing those projects, a winning solution
 
 ----
 
@@ -136,6 +136,10 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 
 ----
 
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+
+----
+
 A vast number of ERP products (hundreds if not housands). 
 Three leaders, concentrating 50% of th emarket:
 - SAP
@@ -146,12 +150,8 @@ Three leaders, concentrating 50% of th emarket:
 
 ----
 
-<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
-
-----
-
 #### Off-the-shelf products 
-A number of "products" handle automatisaiotn of transactional processes:
+A number of "products" handle automatisation of transactional processes:
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting). Those apps can be integrated into increasingly opened IT / ERP systems   
 
@@ -185,17 +185,17 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 ----
 
-### Chapter 2.4. Conclusion : implementing those projects, a winning solution
+### Chapter 2.4. Implementing those projects, a winning solution
 
 ----
 
 #### Process digitalisation complexity : sucess is a combination of people, processes, tools
 
-- **People** : right execution team skills & stakeholder adoption. "Self-trained" users. Relative acceptability.    
+- **People**. Right execution team. "Self-trained" users. Relative acceptability.    
 
-- **Processes** : well defined & well applied ! Digitalisation project supports Process analysis and mapping. Legislative framework « digital friendly » 
+- **Processes**. Digitalisation project supports Process formalisation, clarificaiton, analysis and mapping.
  
-- **Tools / technical isues** : the right technical solution for the need. Low-cost « off the shelf » apps. Simplicity of integration on increasingly opened IT / ERP systems 
+- **Tools / technical isues**. Right technical solution for the need. Low-cost « off the shelf » apps. Simplicity of integration on increasingly opened IT / ERP systems.    
 *See more in chapter 6 (Implementation)*
 
 ----
@@ -203,12 +203,10 @@ Number of available softwares availlable to do so, relative ease of configuratio
 ### Conclusion   
 
 **Digitalisation of existing transactional processes** 
-- dematerialization (including OCR) 
-- automatisation/robotisation (simplify process management, user friendly apps, remove low-added value tasks)
+- Dematerialization (including OCR) 
+- Automatisation/robotisation (simplify process management, user friendly apps, remove low-added value tasks)
 
-A unique Opportunity to offer more responsive, available, and user-friendly finance tools, with an increased profitability.
-
-**for a revamped and fancy transactional finance**
+An Opportunity to offer more responsive, available, and user-friendly finance tools, with an increased profitability.
 
 ----
 
