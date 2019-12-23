@@ -1,11 +1,11 @@
 ## Chapter 3 - Digitalising Performance management : leveraging the Business Partner Finance
 
-1. Reporting, cost control & Performance management digitalisation: data analysis and datavisulisation 
-2. Going **beyond digitalising existing processes**, and moving towards predictive performance management with Machine learning over Big Data & Analytics
+1. Digitalisation of FP&A / Reporting & Performance management: data analysis and datavisulisation 
+2. Going beyond digitalising existing processes, and moving towards predictive performance management with Machine learning over Big Data & Analytics
 
 ----
 
-#### Chapter 3.1 Digitalisation of Reporting, cost control & Performance management (FP&A)
+#### Chapter 3.1 Digitalisation of FP&A / Reporting & Performance management 
 
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
