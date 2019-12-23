@@ -23,8 +23,8 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 ## Chapter 1 : Introduction
 
 1. What is Digital ?
-2. What is Corporate finance function ?
-3. Course presentation (objectives & course plan)
+2. What is the Corporate finance function ?
+3. Course presentation
 
 ----
 
