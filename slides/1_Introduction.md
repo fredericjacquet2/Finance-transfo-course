@@ -22,17 +22,13 @@ join my training session: [CFO Chief Financial Officer](http://www.lesechos-form
 
 ## Chapter 1 : Introduction
 
-----
-
-In this chapter
-
 1. What is Digital ?
 2. What is Corporate finance function ?
 3. Course presentation (objectives & course plan)
 
 ----
 
-### 1. What is Digital ?
+### Chapter 1.1. What is Digital ?
 
 - Loads of definitions ! A matter of perception   
 
@@ -68,7 +64,7 @@ What is the Digital maturity of your business :
 
 ----
 
-### 2. What is the Corporate Finance function ?
+### Chapter 1.2. What is the Corporate Finance function ?
 
 - What is its role ?
 - How is it usually organised ?
@@ -93,54 +89,27 @@ The new agenda / latest trends :
 
 ----
 
-<img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
-CFO Architect of Corporation's Future", PWC, 1997
-
-----
-
 <img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
-### 3. Course presentation
-- Provide an overview of a fuzzy subject : Corporate Finance transformation !   
-- Digitalisation implementations : objectices, means & required skills
-- Understand the changing role of Corporte finance
+<img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
+CFO Architect of Corporation's Future, PWC, 1997
 
 ----
 
-#### Course plan (if on PC, press ESC)  
+### Chapter 1.3. Course presentation
+  
 - Chapter 1 = Introduction
-- Chapter 2 = Digitalising corporate finance processes (transactional & reporting)
-- Chapter 3 = Leveraging the "business partner finance" with Big data & Analytics
-- Chapter 4 = Technology & solutions
+- Chapter 2 = Digitalising transactional processes
+- Chapter 3 = Leveraging the "business partner finance" (FP&A / performance management)
+- Chapter 4 = Implementing finance transformation
 - Chapter 5 = Required skills 
-- Chapter 6 = Implementing finance transformation
+- Chapter 6 = Conclusion & bibliography
 
 ----
 
-*end of the chapter*
+*end of the chapter 1*
 
 ----
-
-The new agenda / latest trends :
-
-- Becoming a business partner (strategy / M&A / FP&A). From cost control to business analysis, transforming finance from a cost center to a profit center   
-- Dealing with new compliance requirements (GDPR, compliance...) : from expertise to training and IT management
-- Cash culture / cash is king (cash pooling & working cap optimization)
-- CSC (shared Service Centers) : externalisation for greater mutualisation & efficiency (objectives, scope & distance, process, ROI, change)
-- Managing organisaitonal & technological process transformation     
-
-Well those ar eall very much linked to digital !
-**What are non-digital Finance Transformation issues (the ones excluded from this course) ?** 
-
-- Dealing with new regulatory / compliance requirements (GDPR...)
-
-- Shifting Finance towards a business partner mindset. "Our controllers may understand the figures but not what it takes to improve them". Shifting from viewing finance as a cost center to seeing it as a profit center.      
-
-- Cash is King / cash improvement initiatives
-
-- Implementing SSC (Shared Services Centers)    
-
-Well, those are very much related to digital as well !   
 
