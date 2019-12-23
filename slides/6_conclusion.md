@@ -63,6 +63,7 @@ BI / Big Data:
 - [Big Data big opportunities](https://www.cfo.com/products/research/big-data-big-opportunities/)    
 - Gartner, Hallmarks of Winning Finance Transformations     
 
+----
 
 ##### Readings on finance transformation, in French 
 - [CFO 4.0 : CFO augmenté ou CFO ubérisé ?](https://www.cdoalliance.org/articles/26635-livre-blanc-cfo-4-0-cfo-augmente-ou-cfo-uberise)     
