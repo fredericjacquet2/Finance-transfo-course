@@ -1,28 +1,37 @@
 ## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
-1. Introduciton : general objectives of digitalisation projects
-2. Main process digitalisaiton : T&E, S2P / P2P, R2R (dematerialisation + automatization / robotisation)
+1. Introduction : general objectives of digitalisation projects
+2. Main process digitalisation : T&E, S2P / P2P, R2R (dematerialisation + automatization / robotisation)
 3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
 4. Conclusion : implementing those projects, a winning solution
 
 ----
 
-### 1. General objectives of digitalisation projects   
-- Cost reduction of processing
-- Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
-- Improvement of finance function profitability (cost reduction)
-- [ Reduction of low added value tasks] 
+### Chapter 2.1. General objectives of digitalisation projects   
+
+- Cost reduction of finance transactional processing ,improved profitability
+- Improvement of quality of service to users:
+  - responsiveness (real-time)
+  - accessibility (anywhere anytime)
+  - user-friendly (interface taylored to each user)   
+- [ Reduction of low added value tasks]    
+
+A unique Opportunity to offer more responsive, available, and user-friendly finance tools   
 
 ----
 
-### 2.a. T&E process 
+### Chapter 2.2. Main process digitalisation : T&E, S2P / P2P, R2R
+
+----
+
+#### T&E Travel & Expense process
 
 <img src="images/expense9.jpg" style="background:none; border:none; box-shadow:none;"/>
 Detail flowchart above for your organisation. What’s the degree of Digital maturity of your « Expense report process  » : your guess, on a scale of 1 (poor) to 4 (futuristic) ?
 
 ----
 
-##### Expense report process digitalisation, on a scale of 1 (poor) to 4 (futuristic)
+###### Expense report process digitalisation, on a scale of 1 (poor) to 4 (futuristic)
 
 1. 100% paper based
 2. Online form with supporting documents in pdf
@@ -35,7 +44,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-##### Objectives of T&E digitaliation project
+###### Objectives of T&E digitaliation project
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
@@ -43,7 +52,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-##### Complexitiy of implementing a T&E digitalisation project ? 
+###### Complexitiy of implementing a T&E digitalisation project ? 
 
 - Low-cost « off the shelf »  applications 
 - Simplicity of integration on increasingly opened IT / ERP systems 
@@ -61,10 +70,9 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 - Integration with HR & finance systems  
 - Result : 100 countries, 100 000 users, 1 million expenses/year, an apps elected 2nd prefered apps by employees on our intranet portal.
 
-
 ----
 
-### 2.b. S2P Source to Pay / P2P Procure-to-Pay     
+#### S2P Source to Pay / P2P Procure-to-Pay Process     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
@@ -85,7 +93,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-### 2.c. R2R Record to Report / Financial close & bank reconciliation automatization    
+#### R2R Record to Report Process (Financial close & bank reconciliation automatization)    
 
 - Needs clear and coordinated processes
 - Organisational impacts      
@@ -102,29 +110,107 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-RPA 
+### Chapter 2.3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
 
 ----
 
-### 5. Process digitalisation complexity : sucess is a combination of people, processes, tools
+#### Clear on Saas and the like?
 
-- **People** : execution team skills & stakeholder adoption
+Usual apps run more & more in Saas mode (Software as a service, or Cloud app services).
+Saas mode replace the "on-premise" architecture, based on a Software hosted within the company's facilities.
+"Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
+See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 
-- **Processes** : well defined & well applied !
+*From an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
 
-- **Tools / technical isues** : the right technical solution for the need
+----
 
+#### Clear on what's an ERP ?
+ERP (Enterprise Resource Planning) = a group of interconnected modules + a database.
+
+[see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
+
+[and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+
+[and here to discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)
+
+----
+
+A vast number of ERP products (hundreds if not housands). 
+Three leaders, concentrating 50% of th emarket:
+- SAP
+- ORACLE
+- Miscroft Dynamics    
+
+[see more](http://www.businessnsoftware.com/erp-market-share/)
+
+----
+
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+
+----
+
+#### Off-the-shelf products 
+A number of "products" handle automatisaiotn of transactional processes:
+- ERP module implementation (SAP, Oracle, MS Dynamics…)
+- Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting). Those apps can be integrated into increasingly opened IT / ERP systems   
+
+*Include and/or can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
+
+----
+
+#### RPA Robotic Process Automation
+
+A robot automates human tasks, it works ideally if : 
+- very repetitive tasks
+- no intelligence
+
+Number of available softwares availlable to do so, relative ease of configuration. ROI very dependent of repetitivity.
+
+----
+
+- A 3 minutes, neat & finance related video on an example of RPA implementation = [RPA 3min](https://youtu.be/xW95yb6J1eU)
+- Another one in 7 minutes = [RPA 7min](https://youtu.be/loOR-nz9DGY)
+- By the way, do you see social issue or social promise in those ?
+- OK for reading ? A great tutorial, 20 minutes read : [RPA doc](https://www.guru99.com/robotic-process-automation-tutorial.html)
+- Want more ? [RPA for dummies download](https://www.nice.com/websites/rpa/assets/robotic_process_automation_for_dummies.pdf)
+
+----
+
+> Case ARCELOR MITTAL (source Digital Finance Awards 2019)   
+
+- Robotisation of Financial Processes within consolidation & reporting departments : 30 robots for 44 processes
+- Excellent results in regards to productivity, performance, deliveralbes quality, time gain
+- Led to a real innovation culture & change in mentalities witihn the teams
+
+----
+
+### Chapter 2.4. Conclusion : implementing those projects, a winning solution
+
+----
+
+#### Process digitalisation complexity : sucess is a combination of people, processes, tools
+
+- **People** : right execution team skills & stakeholder adoption. "Self-trained" users. Relative acceptability.    
+
+- **Processes** : well defined & well applied ! Digitalisation project supports Process analysis and mapping. Legislative framework « digital friendly » 
+ 
+- **Tools / technical isues** : the right technical solution for the need. Low-cost « off the shelf » apps. Simplicity of integration on increasingly opened IT / ERP systems 
 *See more in chapter 6 (Implementation)*
 
 ----
 
 ### Conclusion   
 
-**Digitalisation of existing processes** 
+**Digitalisation of existing transactional processes** 
 - dematerialization (including OCR) 
-- automatisation/robotisation (simplify process management & remove low-added value tasks)
-- analysis/visualisation (real time analysis and taylored extracts with fancy presentation)    
+- automatisation/robotisation (simplify process management, user friendly apps, remove low-added value tasks)
 
-A unique Opportunity to offer more responsive, available, and user-friendly finance tools
+A unique Opportunity to offer more responsive, available, and user-friendly finance tools, with an increased profitability.
 
-**for a revamped and fancy finance**
+**for a revamped and fancy transactional finance**
+
+----
+
+* End of Chapter 2 *
+
