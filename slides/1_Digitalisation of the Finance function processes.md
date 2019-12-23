@@ -1,16 +1,16 @@
 ## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
-1. General Objectives
-2. T&E, S2P / P2P, R2R : dematerialisation + automatization / robotisation
-3. Introducing a few basics on Saas, ERP and "off-the-shelf" products 
-3. RPA tools to further ease digitalisation
-4. Implementing those projects
+1. Introduciton : general objectives of digitalisation projects
+2. Main process digitalisaiton : T&E, S2P / P2P, R2R (dematerialisation + automatization / robotisation)
+3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
+4. Conclusion : implementing those projects, a winning solution
 
 ----
 
 ### 1. General objectives of digitalisation projects   
 - Cost reduction of processing
 - Improvement of quality of service to users = responsiveness (real-time), accessibility (anywhere anytime), user-friendly (interface taylored to each user)
+- Improvement of finance function profitability (cost reduction)
 - [ Reduction of low added value tasks] 
 
 ----
