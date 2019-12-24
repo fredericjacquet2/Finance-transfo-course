@@ -1,15 +1,15 @@
 ## Chapter 2 - Digitalisation of the Finance function "transactional" processes
 
 1. General objectives of digitalisation projects
-2. Main process digitalisation : T&E, S2P / P2P, R2R (dematerialisation + automatization / robotisation)
-3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
+2. Main process digitalisation : T&E, S2P / P2P, R2R (dematerialisation, automatization, robotisation)
+3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools)
 4. Implementing those projects, a winning solution
 
 ----
 
 ### Chapter 2.1. General objectives of digitalisation projects   
 
-- Cost reduction of finance transactional processing ,improved profitability
+- Cost reduction of finance transactional processing, improved profitability
 - Improvement of quality of service to users:
   - responsiveness (real-time)
   - accessibility (anywhere anytime)
@@ -44,7 +44,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-###### Objectives of T&E digitaliation project
+###### Objectives of T&E digitalisation project
 
 - Reducing processing costs (expense processing: 15€ to 53€ per form) 
 - Improving service quality to users, both managers and employees = responsive, user-friendly, accessible
@@ -78,7 +78,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-- Products usually include dematerialisation functionalities, OCR, supplier portal
+- Products usually include dematerialisation functionalities, OCR, supplier portal (improves supplier's information, facilitates supplier management)
 - Relative ease of interface with ERP system (invoice and payment information)    
 *S2P, P2P Softwares e.g. : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)    
 *Specifics may be develooped as well (RPA...)*
@@ -110,7 +110,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 ----
 
-### Chapter 2.3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools to further ease digitalisation)
+### Chapter 2.3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools)
 
 ----
 
