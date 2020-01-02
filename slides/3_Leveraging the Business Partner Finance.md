@@ -5,12 +5,12 @@
 
 ----
 
-#### Chapter 3.1 Digitalisation of FP&A / Reporting & Performance management 
+### Chapter 3.1 Digitalisation of FP&A / Reporting & Performance management 
 
 - Data extraction & analytics to provide ad-hoc reporting, with data taylored to various users needs
 - Datavisualisation = customed extraction & presentation, tailored to user needs    
 
-*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management softwares* 
+*Specific solutions based on BI (Business Intelligence) and EPM Enterprise Performance Management* 
 
 ----
 
@@ -68,8 +68,7 @@ FP&A / EPM (Enterprise Performance Management) products: Anaplan,
 
 ----
 
-
-#### Chapter 3.2 : Leveraging the Business Partner Finance with Big Datza & Analytics (from cost control towards performance management in predictive mode)
+### Chapter 3.2. Leveraging the Business Partner Finance with Big Data & Analytics: from cost control towards performance management in predictive mode
 
 - A finance function closer to the business ("business partner finance") 
 - A finance function closer to technology (IT/ BI / EPM... )
@@ -156,4 +155,4 @@ Result:
 
 ----
 
-* end of chapter 3 * 
+*end of chapter 3* 

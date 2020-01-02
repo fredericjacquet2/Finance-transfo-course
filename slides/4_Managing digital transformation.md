@@ -4,7 +4,6 @@
 2. Key success factors : people, processes, tools
 3. Global or local?
 4. Changes in the finance function
-5. WIIFM?
 
 ----
 
@@ -33,7 +32,7 @@
 
 It holds in 3 words: people, processes, tools   
 
-yep, its vast!
+yep, it's vast!
 
 ----
 
@@ -155,20 +154,10 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 
 - Having Finance to become the digital leader or to loose its central role on numbers ? 
 
-As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company?     
+As digital removes silos, could there be a competition between Finance, IT and Marketing to become the leading function of the company?     
 [see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
 
 ##### Finance evolution = « business partner » or Expert ? An existential challenge ?  
-
-----
-
-### Chapter 4.5. WIIFM (What's in it for me) ? 
-
-- Is my present job/role impacted by those initiatves, good or bad news ?
-- How is digital considered within the organisation, does/could it create value to the Finance team ?
-- Does/could it create value to my personal profile ?    
-
-#### An annoyance or a hobby, a side-duty or a full time job ?
 
 ----
 

@@ -18,7 +18,7 @@ Finance becomes the engine of the digital transformation of the company.
 
 ----
 
-#### Finance, a provider of effective and elegant solutions, a smart biz parnter, and the engine of change in a digital world    
+#### Finance, a provider of effective and elegant solutions, a smart business partner, and the engine of change in a digital world    
 
 ----
 
@@ -27,7 +27,7 @@ Finance becomes the engine of the digital transformation of the company.
 
 ----
 
-##### General readings on finance transformation, English    
+##### General readings on finance transformation    
 
 - [Deloitte, Finance 2025](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance-transformation/us-ft-crunch-time-V-finance-2025.pdf)   
 - [Deloitte, "Crunch time" series for CFOs](https://www2.deloitte.com/us/en/pages/finance-transformation/articles/crunch-time-series-for-cfos.html), a series of docs on digital technology and transformation in Finance
