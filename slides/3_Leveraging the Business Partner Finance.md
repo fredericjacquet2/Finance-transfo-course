@@ -83,14 +83,6 @@ FP&A / EPM (Enterprise Performance Management) products: Anaplan,
 
 ----
 
-WIP (Work In Progress) 
-
-> QUOTE by xxxxxxxxxxx 
-
-"Finance ...."
-
-----
-
 <img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -116,42 +108,6 @@ A two-fold approach for the Business Partner Finance :
 ----
 
 <img src="images/BIGData.png" style="background:none; border:none; box-shadow:none;"/>      
-
-----
-
-> APPENDIX / Illustration : Online sports betting actor     
-
-- Market : very competitive + strong growth
-- Objectives : increase market share and profitability of the sport betting activity
-- Specific focus : Customer acquisition cost 
-- Initial information : net cost of promotional offers, market share evolution, BU profitability
-
-----
-
-Key questions: 
-- What is the impact of the promotional offer on increasing market share? 
-- What is the ROI of the promotional offers ?
-
-To provide some answers:
-- Understand and differentiate player behaviours and player types according to presnet & future context
-
-----
-
-The project:
-- Setting up a project-oriented organization, lead CFO + CDO
-- Set-up a Data factory (Data lake)
-- set-up analysis algorithms from:
-  - Historical data from structured databases (several years of history)
-  - Internet player end behaviour recording
-  - Unstructured, real time data (social networks, news…) analysis implementation
-- Main key analysis: player profile / sport type / timeline
-
-----
-
-Result: 
-- Predictive analysis
-- Optimization of customer acquisition cost, depending on the context (type of game, games to come)
-- Improved sports BU profitability
 
 ----
 
