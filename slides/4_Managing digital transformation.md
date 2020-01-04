@@ -1,7 +1,7 @@
 ## Chapter 4 - Implementing digital transformation
 
 1. Statistics: where do we stand today? 
-2. Key success factors : people, processes, tools
+2. Key success factors & methodolgy guidance
 3. Global or local?
 4. Changes in the finance function
 
@@ -28,9 +28,9 @@
 
 ----
 
-### Chapter 4.2. Key success factors for any digitalisation project
+### Chapter 4.2. Key success factors Key success factors & methodolgy guidance
 
-It holds in 3 words: people, processes, tools   
+Key success factors holds in 3 words: people, processes, tools   
 
 yep, it's vast!
 
@@ -59,18 +59,7 @@ yep, it's vast!
 
 ----
 
-### Chapter 4.3. Global or local ?  
-
-- Global digital strategy (look at Michelin) 
-- or Short steps / local initiatives / quickwinns 
-- Top down or bottom up methodology ?
-- Proactive or resisting management ?
-
-Well it all works. But not with the same paste / scale / pleasure !
-
-----
-
-#### Global : a clear vision & plan      
+#### Methodology guidance : set a clear vision & plan      
 
 ***1. Define the strategic vision (where we want to go)***       
 - Build a vision of a target state (objectives and impact)
@@ -79,7 +68,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ***2. Engage stakeholders***
 - Ensure everyone understands the why
-- Secure support and buy-in from stakeholders (board, executives, employees, partners and customers)
+- Secure support and buy-in from stakeholders (board, executives, employees, partners and customers) : communication, change management, training
 
 ----
 
@@ -88,6 +77,16 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ***4. Budget for sufficient resources and expertise***
 - Internal team with right knowledge, authority, external support
+
+----
+
+### Chapter 4.3. Global or local ?  
+
+- Global digital strategy (look at Michelin) 
+- or Short steps / local initiatives / quickwinns 
+- Top down or bottom up methodology ?
+
+Well it all works. But not with the same paste / scale.
 
 ----
 
@@ -101,23 +100,13 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-#### Local initiatives
+#### Local initiatives    
+A large source of Digital inspiration, with or without a Global strategy ! 
 
-A large source of Digital inspiration !
-
-Local initiatives are everywhere (with or without a Global strategy) 
-
-----
-
-> Case example : Managing signature books (parapheurs in French) in a large European group     
+> Case example : Managing signature books in a large European group     
 
 - Set-up Docusing software as an internal tool to replace "physical" signature books process   
 - Result : improved treasury management / on-time payments
-
-----
-
-#### In an agile world, global can be a sum of local
-<img src="images/agilevswaterfall.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -144,7 +133,7 @@ Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) en
 ----
 
 > Key slills, by M. Page (CFO baromter)      
-- *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
+- *"Financial professionals must be committed to extending their formal qualifications in the core areas of their work,* 
 - *learning new methods and technologies such as data analytics, and* 
 - *improving their social, communication and change management competences."*
 

@@ -28,13 +28,37 @@ Two questioning stereotypes to debate about this changing role :
 
 ----
 
-- V-cycle is an extension of the waterfall model : process steps are bent downwards & upwards with coding at the center.    
+- V-cycle : process steps are bent downwards & upwards with coding at the center.    
 <img src="images/vcycle.png" style="background:none; border:none; box-shadow:none;"/>     
 *Read more: [Wiki V-cycle](https://en.wikipedia.org/wiki/V-Model_%28software_development%29)*
 
 ----
 
+Typical V-cycle activitties :     
+- Preparation (scope & goal setting, risk mngt, planing, budgeting, change plan)
+- Functional specifications
+- Detailed design / tehcnical specifications
+- Development (at the centre of the V-cycle)
+- Unit testing (per module)
+- Integration / SIT (System Intergation Testing)
+- User Acceptance Test (UAT) 
+
+----
+
 #### Project Management: Risk management
+
+Risk = future event with negative consequences      
+
+- Risk definition : Impact and Probability
+- Risk mitigation : 
+  - Accept 
+  - Reduce (implement costs to reduce impact or probability)
+  - Control (proper planing to react on time) 
+  - Tansfer (to another party)
+
+----
+
+<img src="images/RM1.png" style="background:none; border:none; box-shadow:none;"/> 
 
 ----
 

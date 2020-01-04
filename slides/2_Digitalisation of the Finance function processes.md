@@ -200,15 +200,5 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 ----
 
-### Conclusion   
-
-**Digitalisation of existing transactional processes** 
-- Dematerialization (including OCR) 
-- Automatisation/robotisation (simplify process management, user friendly apps, remove low-added value tasks)
-
-An Opportunity to offer more responsive, available, and user-friendly finance tools, with an increased profitability.
-
-----
-
 *End of Chapter 2*
 
