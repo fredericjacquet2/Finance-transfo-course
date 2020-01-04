@@ -47,6 +47,19 @@ Typical V-cycle activitties :
 
 #### Project Management: Risk management
 
+Risk = future event with negative consequences      
+
+- Risk definition : Impact and Probability
+- Risk mitigation : 
+  - Accept 
+  - Reduce (implement costs to reduce impact or probability)
+  - Control (proper planing to react on time) 
+  - Tansfer (to another party)
+
+----
+
+<img src="images/RM1.png" style="background:none; border:none; box-shadow:none;"/> 
+
 ----
 
 #### SCRUM / Agile project management
