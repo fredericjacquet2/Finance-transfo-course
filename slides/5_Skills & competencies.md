@@ -37,7 +37,7 @@ Two questioning stereotypes to debate about this changing role :
 Typical V-cycle activitties :     
 - Preparation (scope & goal setting, risk mngt, planing, budgeting, change plan)
 - Functional specifications
-- Detailed design / tehcnical specifications
+- Detailed design / technical specifications
 - Development (at the centre of the V-cycle)
 - Unit testing (per module)
 - Integration / SIT (System Intergation Testing)
@@ -45,11 +45,11 @@ Typical V-cycle activitties :
 
 ----
 
-#### Project Management: Risk management
+#### Project Risks management
 
 Risk = future event with negative consequences      
 
-- Risk definition : Impact and Probability
+- Risk definition, by Impact and Probability
 - Risk mitigation : 
   - Accept 
   - Reduce (implement costs to reduce impact or probability)
@@ -95,7 +95,7 @@ Risk = future event with negative consequences
 
 ----
 
-### Chapter 5.3. Change Management skills (WIP)
+### Chapter 5.3. Change Management skills
 
 > It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.    
 *Charles Darwin*
@@ -120,7 +120,7 @@ Change needs to be supported by two vectors :
 ### Chapter 5.4. Technical / technology skills
 
 - How much do you need to know? Broad culture ? Specific know-how ?
-- A broad technical understanding may be usefull (refer to "Technology & Solutions" chapter).
+- A broad technical understanding shows to be usefull
 - **Cherry-picking can be rewarding** (example : learning how to use Power BI for fancy dataviz, or how to configure an RPA software product to take care of low added value tasks).
 
 ----
