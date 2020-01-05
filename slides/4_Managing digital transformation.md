@@ -82,7 +82,7 @@ yep, it's vast!
 
 ### Chapter 4.3. Global or local ?  
 
-- Global digital strategy (look at Michelin) 
+- Global digital strategy (look at Michelin or Engie) 
 - or Short steps / local initiatives / quickwinns 
 - Top down or bottom up methodology ?
 
@@ -114,10 +114,10 @@ A large source of Digital inspiration, with or without a Global strategy !
 
 ----
 
-#### Digtial changes role & organisation of Corporate finance
+#### Digtal changes role & organisation of Corporate finance
 
-- Organisation progressivelly adds Data management capacities 
-- Role shifts towards : the business, Data amanagement (data analysts, data scientists), IT management
+- Role shifts towards : the business, Data management and Data analysis, IT management
+- Organisation progressivelly adds Data competencies (data analysts, data scientists)    
 - More high-added value tasks (analysis, human interactions) and less low-added value tasks : a social issue ?
 
 ----

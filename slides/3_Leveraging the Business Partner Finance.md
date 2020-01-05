@@ -79,7 +79,7 @@ FP&A / EPM (Enterprise Performance Management) products: Anaplan,
 
 > QUOTE by Accenture (" Finance 2020 ")  
 
-"Finance is doing things that it never could before thanks to digital technologies. The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value. Tomorrow’s digital finance organization deals in analytics and forward-looking decisions to create value and manage risk. It shifts traditional accounting and processing to cross-functional integrated business services models that use robotic process automation. It trades reporting the past for predicting the future."
+"Finance is doing things that it never could before thanks to digital. The finance organization will evolve from an expense control, spreadsheet-driven accounting and reporting center, into a predictive analytics powerhouse that creates business value. Tomorrow’s digital finance organization deals in analytics and forward-looking decisions to create value and manage risk. It trades reporting the past for predicting the future."
 
 ----
 
