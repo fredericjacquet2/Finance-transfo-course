@@ -3,7 +3,7 @@
 1. General objectives of digitalisation projects
 2. Main process digitalisation : T&E, S2P / P2P, R2R (dematerialisation, automatization, robotisation)
 3. Technology (Saas, ERP, "off-the-shelf" products, RPA tools)
-4. Implementing those projects, a winning solution
+4. Implementing those projects
 
 ----
 
@@ -118,7 +118,7 @@ Detail flowchart above for your organisation. What’s the degree of Digital mat
 
 Usual apps run more & more in Saas mode (Software as a service, or Cloud app services).
 Saas mode replace the "on-premise" architecture, based on a Software hosted within the company's facilities.
-"Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
+"Partial" cloudisation can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
 See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 
 *From an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
@@ -185,7 +185,7 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 ----
 
-### Chapter 2.4. Implementing those projects, a winning solution
+### Chapter 2.4. Implementing those projects
 
 ----
 
