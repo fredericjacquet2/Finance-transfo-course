@@ -62,6 +62,12 @@ Risk = future event with negative consequences
 
 ----
 
+#### Gantt Chart, a typical planing presentation
+
+<img src="images/GC1.png" style="background:none; border:none; box-shadow:none;"/> 
+
+----
+
 #### SCRUM / Agile project management
 <img src="images/scrum.jpg" style="background:none; border:none; box-shadow:none;"/> 
 
